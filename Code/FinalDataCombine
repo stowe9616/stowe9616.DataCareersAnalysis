@@ -1,0 +1,37 @@
+
+#####Load in all 3 clean data sets and combine into 1 full data set ################
+library(dplyr)
+library(tidyverse)
+FinalDataEngineerData<-read.csv("C:/Users/Stew/Desktop/Masters Program/MGT 6203/Project/Data/FinalDataEngineerData.csv")
+
+FinalDataScientistData<-read.csv("C:/Users/Stew/Desktop/Masters Program/MGT 6203/Project/Data/FinalDataScientistData.csv")
+
+FinalDataAnalystData<-read.csv("C:/Users/Stew/Desktop/Masters Program/MGT 6203/Project/Data/FinalDataAnalystData.csv")
+
+FinalDataset<-rbind(FinalDataAnalystData,FinalDataEngineerData,FinalDataScientistData)
+
+#Get rid of any duplicate rows 
+#####About 700 duplicate rows removed from the data set which is significant
+FinalDataset<-FinalDataset[!duplicated(FinalDataset),]
+
+#################################Size of company cleaning ###############################################
+####################################Split into 3 groups #################################################
+#########Group 1 (Small)- 1 to 500 employees, Group 2 (Medium) - 500 to 5000 employees, Group 3 (large)- 5000+ employees
+FinalDataset <-mutate(FinalDataset,CompanySize= ifelse(Size %in% "1 to 50 employees","Small",
+                                                       ifelse(Size %in% "51 to 200 employees", "Small",
+                                                        ifelse(Size %in% "201 to 500 employees", "Small",
+                                                       ifelse(Size %in% "501 to 1000 employees", "Medium",
+                                                       ifelse(Size %in% "1001 to 5000 employees", "Medium",
+                                                          ifelse(Size %in% "5001 to 10000 employees", "Large",
+                                                          ifelse(Size %in% "10000+ employees", "Large",
+                                                                 0))))))))
+write_csv(FinalDataset,"C:/Users/Stew/Desktop/Masters Program/MGT 6203/Project/Data/FinalDataset.csv")
+
+summary(FinalDataset$Job.Title)
+
+
+Regression1<-lm(MaxSalary ~ Job.Title+python+excel+sql+hadoop+mongo+spark+tableau+kafka+pandas+azure+aws+machinelearning,data=FinalDataset)
+summary(Regression1)
+
+Regression2<-lm(MinSalary ~ Job.Title+python+excel+sql+hadoop+mongo+spark+tableau+kafka+pandas+azure+aws+machinelearning,data=FinalDataset)
+summary(Regression2)
