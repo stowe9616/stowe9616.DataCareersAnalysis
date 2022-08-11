@@ -1,0 +1,2329 @@
+Job.Title,Company.Name,City,State,Size,MinSalary,MaxSalary,python,hadoop,mongo,spark,sql,tableau,kafka,excel,azure,pandas,visualization,machinelearning,aws,saas,etl,warehouse
+Data Engineer,"Sagence
+4.5",New York, NY,1 to 50 employees,80000,150000,0,0,1,0,1,1,0,0,1,0,0,0,1,0,1,1
+Senior Data Engineer,"Enterprise Integration
+3.4",New York, NY,51 to 200 employees,80000,150000,1,1,0,1,1,1,0,0,1,0,0,0,0,0,1,1
+Data Engineer,"Maestro Technologies
+5.0",New York, NY,51 to 200 employees,80000,150000,1,1,0,1,0,0,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"GNY Insurance Companies
+3.7",New York, NY,201 to 500 employees,80000,150000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Senior Data Engineer,"Affinity Solutions
+3.0",New York, NY,51 to 200 employees,80000,150000,1,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0
+Data Engineer,"NJF Global Holdings
+4.2",New York, NY,51 to 200 employees,80000,150000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Conductor
+4.4",New York, NY,201 to 500 employees,80000,150000,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+Data Engineer,"Twitter
+4.0",New York, NY,1001 to 5000 employees,80000,150000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Citadel
+3.8",New York, NY,1001 to 5000 employees,80000,150000,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Data Engineer,"PulsePoint
+4.4",New York, NY,51 to 200 employees,80000,150000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Data Scientist,"PA Consulting
+3.3",New York, NY,1001 to 5000 employees,80000,150000,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0
+Senior Data Engineer,"Aetna
+3.3",New York, NY,10000+ employees,80000,150000,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"Colgate-Palmolive
+4.1",New York, NY,10000+ employees,80000,150000,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"PepsiCo
+3.7",New York, NY,10000+ employees,80000,150000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,0,1
+Data Engineer,"Spotify
+3.8",New York, NY,1001 to 5000 employees,80000,150000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Freestar
+4.9",New York, NY,1 to 50 employees,80000,150000,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1
+Data Scientist,"Medidata Solutions
+4.3",New York, NY,1001 to 5000 employees,80000,150000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Cockroach Labs
+4.7",New York, NY,51 to 200 employees,80000,150000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"DoubleVerify
+3.6",New York, NY,201 to 500 employees,80000,150000,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"FourSquare
+2.5",New York, NY,201 to 500 employees,80000,150000,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+Data Engineer,"Maestro Technologies
+5.0",New York, NY,51 to 200 employees,73000,94000,1,1,0,1,0,0,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"GNY Insurance Companies
+3.7",New York, NY,201 to 500 employees,73000,94000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Engineer,"Daily Harvest
+3.5",New York, NY,51 to 200 employees,73000,94000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Healthfirst
+3.1",New York, NY,1001 to 5000 employees,73000,94000,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+Data Engineer,"Point72
+3.9",New York, NY,1001 to 5000 employees,73000,94000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"New York Times
+3.8",New York, NY,1001 to 5000 employees,73000,94000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"SADA
+4.7",New York, NY,51 to 200 employees,73000,94000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"Larsen & Toubro Infotech Limited
+3.5",New York, NY,10000+ employees,73000,94000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Peloton Interactive, Inc.
+3.8",New York, NY,1001 to 5000 employees,73000,94000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,Aptino,New York, NY,51 to 200 employees,73000,94000,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Columbia University
+3.9",New York, NY,10000+ employees,73000,94000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+Data Engineer,"Bark & Co
+2.7",New York, NY,201 to 500 employees,73000,94000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"AVANADE
+3.9",New York, NY,10000+ employees,73000,94000,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1
+Data Engineer,"New York Times
+3.8",New York, NY,1001 to 5000 employees,73000,94000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Apple
+4.1",New York, NY,10000+ employees,73000,94000,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0,1
+Data Engineer,"Glossier
+3.1",New York, NY,201 to 500 employees,73000,94000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Point72
+3.9",New York, NY,1001 to 5000 employees,73000,94000,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Data Engineer,"CommonBond
+3.8",New York, NY,51 to 200 employees,73000,94000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Stash
+3.9",New York, NY,51 to 200 employees,73000,94000,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0
+Data Engineer,"Mark43
+4.4",New York, NY,51 to 200 employees,73000,94000,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1
+Data Engineer,"B12
+4.7",New York, NY,1 to 50 employees,73000,94000,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+Data Engineer,Clear Street,New York, NY,51 to 200 employees,73000,94000,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+Data Engineer,"Tiro
+1.0",New York, NY,201 to 500 employees,73000,94000,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"Seated
+4.7",New York, NY,1 to 50 employees,73000,94000,1,0,0,0,1,1,0,0,0,0,1,0,1,0,1,1
+Data Engineer,"Vimeo
+3.9",New York, NY,501 to 1000 employees,73000,94000,1,1,0,1,1,0,1,0,0,1,0,0,1,0,1,0
+Data Engineer,Thinknum,New York, NY,Unknown,73000,94000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Amazon
+3.9",New York, NY,10000+ employees,73000,94000,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,1
+Data Engineer,The Princeton Group,New York, NY,1 to 50 employees,73000,94000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Affinity Solutions
+3.0",New York, NY,51 to 200 employees,85000,154000,1,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0
+Data Engineer,"NJF Global Holdings
+4.2",New York, NY,51 to 200 employees,85000,154000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,Pinto,New York, NY,1 to 50 employees,85000,154000,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Millennium
+3.9",New York, NY,1001 to 5000 employees,85000,154000,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0,0
+Data Engineer,"Bloomberg
+3.8",New York, NY,10000+ employees,85000,154000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"Nasdaq
+3.6",New York, NY,1001 to 5000 employees,85000,154000,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"National Basketball Association
+3.8",Secaucus, NJ,1001 to 5000 employees,85000,154000,1,0,0,0,1,0,1,0,1,0,0,1,1,0,1,1
+Data Engineer,Attentive,New York, NY,1 to 50 employees,85000,154000,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1
+Senior Data Engineer,"Teachers Pay Teachers
+4.9",New York, NY,51 to 200 employees,85000,154000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Datadog
+4.1",New York, NY,1001 to 5000 employees,85000,154000,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0
+Data Engineer,"Millennium
+3.9",New York, NY,1001 to 5000 employees,85000,154000,1,1,0,1,1,0,1,0,0,1,0,0,1,0,0,0
+Data Engineer,Proinfy,Parsippany, NJ,Unknown,85000,154000,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"Facebook
+4.5",New York, NY,10000+ employees,85000,154000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1
+Data Engineer,"Hudson River Trading
+5.0",New York, NY,201 to 500 employees,85000,154000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Data Engineer,"LaBine & Associates
+5.0",New York, NY,1 to 50 employees,85000,154000,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+Data Engineer,"New York Life Insurance Co
+3.6",New York, NY,10000+ employees,85000,154000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"BrainPOP
+4.3",New York, NY,51 to 200 employees,85000,154000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Quadpay
+3.2",New York, NY,51 to 200 employees,85000,154000,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Senior Data Engineer,"Walt Disney Co.
+4.0",New York, NY,10000+ employees,85000,154000,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1
+Data Engineer,"Caserta
+4.3",New York, NY,51 to 200 employees,85000,154000,1,0,0,1,1,0,0,0,1,0,0,1,1,0,1,1
+Data Engineer,"Citadel
+3.8",New York, NY,1001 to 5000 employees,85000,154000,1,0,0,0,1,0,1,0,1,0,0,1,1,0,0,0
+Data Engineer,"Columbia University Medical Center
+3.8",New York, NY,5001 to 10000 employees,85000,154000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+Data Engineer,"Elevano
+4.5",New York, NY,1 to 50 employees,85000,154000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Spotify
+3.8",New York, NY,1001 to 5000 employees,85000,154000,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+Senior Data Engineer,"Aetna
+3.3",New York, NY,10000+ employees,85000,154000,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"Blue State
+3.4",New York, NY,51 to 200 employees,85000,154000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Atyeti
+4.4",New York, NY,201 to 500 employees,85000,154000,1,1,0,1,1,0,0,0,1,0,0,1,0,0,1,1
+Data Engineer,"Nasdaq
+3.6",New York, NY,1001 to 5000 employees,85000,154000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"American Modern Insurance Group
+3.5",New York, NY,Unknown,85000,154000,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+Data Engineer,"Conductor
+4.4",New York, NY,201 to 500 employees,84000,113000,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+Data Engineer,"Twitter
+4.0",New York, NY,1001 to 5000 employees,84000,113000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Transit Wireless (USD)
+2.6",New York, NY,51 to 200 employees,84000,113000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Addepar
+4.4",New York, NY,201 to 500 employees,84000,113000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Silver Search Inc
+3.9",New York, NY,Unknown,84000,113000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Millennium Partners
+5.0",New York, NY,51 to 200 employees,84000,113000,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0,0
+Data Engineer,"Novantas
+2.9",New York, NY,201 to 500 employees,84000,113000,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1
+Data Engineer,Entera,New York, NY,Unknown,84000,113000,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0
+Data Engineer,"Stadium Goods
+2.8",New York, NY,51 to 200 employees,84000,113000,1,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0
+Data Engineer,"FanDuel
+3.9",New York, NY,501 to 1000 employees,84000,113000,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1
+Data Engineer,"Munich Re
+3.7",New York, NY,5001 to 10000 employees,84000,113000,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+Data Engineer,"Ladders
+4.0",New York, NY,51 to 200 employees,84000,113000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Facebook
+4.5",New York, NY,10000+ employees,84000,113000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"J.P. Morgan
+3.9",Newark, NJ,10000+ employees,84000,113000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Engineer,"WisdomTree Investments Inc
+3.7",New York, NY,201 to 500 employees,84000,113000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"The Boston Consulting Group
+4.3",New York, NY,10000+ employees,84000,113000,1,0,0,1,1,0,0,0,1,0,0,1,1,0,1,1
+Data Engineer,"Spotify
+3.8",New York, NY,1001 to 5000 employees,84000,113000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"ERGO Group
+3.3",New York, NY,201 to 500 employees,84000,113000,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Data Engineer,Pierce Technology Corp,New York, NY,-1,84000,113000,1,1,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+Data Engineer,"Progyny
+4.0",New York, NY,51 to 200 employees,84000,113000,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Conch Technologies, Inc
+4.6",New York, NY,51 to 200 employees,84000,113000,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Data Engineer,"FourSquare
+2.5",New York, NY,201 to 500 employees,84000,113000,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+Data Engineer,"Business Insider
+3.4",New York, NY,201 to 500 employees,84000,113000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Resource 1
+5.0",Newark, NJ,1 to 50 employees,84000,113000,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,1
+Data Engineer,"TelTech
+4.8",New York, NY,51 to 200 employees,84000,113000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,1
+Senior Data Engineer,"HelloFresh
+3.4",New York, NY,1001 to 5000 employees,84000,113000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Fivesky
+4.7",New York, NY,51 to 200 employees,84000,113000,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Data Engineer,"Getty Images
+2.8",New York, NY,1001 to 5000 employees,84000,113000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Amazon
+3.9",New York, NY,10000+ employees,57000,75000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"Tapad
+4.2",New York, NY,51 to 200 employees,57000,75000,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"INTURN
+4.4",New York, NY,1 to 50 employees,57000,75000,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1
+Senior Data Engineer,"Policygenius
+4.5",New York, NY,201 to 500 employees,57000,75000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0
+Data Engineer,"Lokavant, Inc.",New York, NY,1 to 50 employees,57000,75000,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1
+Data Engineer,"Rockstar Games
+4.0",New York, NY,1001 to 5000 employees,57000,75000,1,1,0,1,1,1,1,0,0,0,0,1,0,0,1,1
+Data Engineer,"ApTask
+3.9",New York, NY,201 to 500 employees,57000,75000,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"City of New York
+3.4",New York, NY,10000+ employees,57000,75000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"AllianceBernstein
+3.2",New York, NY,1001 to 5000 employees,57000,75000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"Spotify
+3.8",New York, NY,1001 to 5000 employees,57000,75000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,Mosaic Group,New York, NY,1 to 50 employees,57000,75000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,1
+Data Engineer,"Motivate
+2.2",New York, NY,1 to 50 employees,57000,75000,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Memorial Sloan-Kettering
+3.9",New York, NY,10000+ employees,57000,75000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Docker
+2.9",New York, NY,201 to 500 employees,57000,75000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,Dataquad Inc.,New York, NY,51 to 200 employees,57000,75000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,Resource1,Newark, NJ,1 to 50 employees,57000,75000,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,1
+Data Engineer,"Simon Data
+4.5",New York, NY,51 to 200 employees,57000,75000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"EDO
+5.0",New York, NY,Unknown,57000,75000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,Stash,New York, NY,Unknown,57000,75000,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0
+Senior Data Engineer,"The Farmer's Dog
+4.9",New York, NY,1 to 50 employees,57000,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"CGI
+3.5",Bloomfield, NJ,10000+ employees,57000,75000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Jun Group Productions LLC
+4.7",New York, NY,51 to 200 employees,57000,75000,1,0,0,1,1,0,0,0,0,1,0,1,1,0,1,1
+Data Engineer,"T-REX Group, Inc.
+2.0",New York, NY,1 to 50 employees,57000,75000,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Data Engineer,"Virtual Clarity
+3.2",New York, NY,51 to 200 employees,57000,75000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,JSR Tech Consulting,Newark, NJ,1 to 50 employees,57000,75000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1
+Data Engineer,"Youngsoft
+3.5",New York, NY,51 to 200 employees,57000,75000,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"ingenium.agency
+5.0",New York, NY,1 to 50 employees,57000,75000,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Citadel
+3.8",New York, NY,1001 to 5000 employees,105000,121000,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Data Engineer,"PulsePoint
+4.4",New York, NY,51 to 200 employees,105000,121000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Data Engineer,"Centraprise
+4.2",New York, NY,51 to 200 employees,105000,121000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,Atom Finance,New York, NY,-1,105000,121000,1,1,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+Data Engineer,"Infoway Software
+2.4",New York, NY,51 to 200 employees,105000,121000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,Greater New York Mutual Insurance Companies (GNY),New York, NY,-1,105000,121000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Engineer,"Quantum Search Partners
+5.0",New York, NY,1 to 50 employees,105000,121000,1,0,0,0,1,0,1,0,1,0,0,1,1,0,0,1
+Data Engineer,Simondata,New York, NY,-1,105000,121000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,Spartoi Group,New York, NY,1 to 50 employees,105000,121000,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Flatiron Health
+4.0",New York, NY,501 to 1000 employees,105000,121000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Engineer,"ingenium.agency
+5.0",New York, NY,1 to 50 employees,105000,121000,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,MLWIZ Team,New York, NY,1 to 50 employees,105000,121000,1,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0
+Data Engineer,"Hagerty Consulting
+3.2",New York, NY,1 to 50 employees,105000,121000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"Russell Tobin & Associates
+3.5",New York, NY,51 to 200 employees,105000,121000,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+Data Engineer,"Global Atlantic Financial Group
+4.5",New York, NY,1001 to 5000 employees,105000,121000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Diverse Lynx
+3.9",New York, NY,501 to 1000 employees,105000,121000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"SIMON Markets LLC
+5.0",New York, NY,1 to 50 employees,105000,121000,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0
+Data Engineer,"Boyle Software
+4.8",New York, NY,1 to 50 employees,105000,121000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Madison Logic, Inc.
+3.9",New York, NY,51 to 200 employees,105000,121000,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0
+Data Engineer,"Andiamo
+3.5",Newark, NJ,201 to 500 employees,105000,121000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Vydia
+4.4",Holmdel, NJ,51 to 200 employees,105000,121000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Spotify
+3.8",New York, NY,1001 to 5000 employees,105000,121000,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,Carter Wellington Limited,New York, NY,-1,105000,121000,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1
+Data Engineer,"Resource Logistics, Inc.
+4.7",New York, NY,51 to 200 employees,105000,121000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,Skiltrek,New York, NY,51 to 200 employees,105000,121000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Averity
+5.0",New York, NY,1 to 50 employees,105000,121000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Amazon
+3.9",New York, NY,10000+ employees,105000,121000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Cross River Bank
+3.3",Fort Lee, NJ,201 to 500 employees,105000,121000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,ingenium.agency,New York, NY,-1,105000,121000,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Allied World Assurance
+3.2",New York, NY,501 to 1000 employees,105000,121000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Colgate-Palmolive
+4.1",New York, NY,10000+ employees,92000,117000,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Aetna
+3.3",New York, NY,10000+ employees,92000,117000,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"J Harlan Group, LLC",New York, NY,1 to 50 employees,92000,117000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"Apex Systems
+3.8",New York, NY,1001 to 5000 employees,92000,117000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Squarespace
+3.4",New York, NY,1001 to 5000 employees,92000,117000,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0
+Senior Data Engineer,"Shake Shack
+3.5",New York, NY,1001 to 5000 employees,92000,117000,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"SADA
+4.7",New York, NY,51 to 200 employees,92000,117000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"Lorven Technologies, Inc.
+4.0",New York, NY,1 to 50 employees,92000,117000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Phyton Talent Advisors
+3.9",New York, NY,1 to 50 employees,92000,117000,1,1,0,1,1,0,1,0,0,1,0,1,0,0,0,0
+Data Engineer,"Albert (CA)
+5.0",Los Angeles, CA,51 to 200 employees,88000,136000,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Direct Agents
+4.4",Culver City, CA,51 to 200 employees,88000,136000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"SADA
+4.7",Los Angeles, CA,51 to 200 employees,88000,136000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"CrowdRise
+4.5",Los Angeles, CA,201 to 500 employees,88000,136000,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"Age of Learning
+3.3",Glendale, CA,501 to 1000 employees,88000,136000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"Netflix
+4.0",Los Angeles, CA,1001 to 5000 employees,88000,136000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"The Honest Company
+3.1",Los Angeles, CA,201 to 500 employees,88000,136000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Idealab
+4.0",Pasadena, CA,501 to 1000 employees,88000,136000,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Sumeru
+4.2",Los Angeles, CA,201 to 500 employees,88000,136000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"J. Paul Getty Trust
+3.6",Los Angeles, CA,1001 to 5000 employees,88000,136000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Mondo
+3.8",Los Angeles, CA,51 to 200 employees,88000,136000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"BlackLine
+3.9",Woodland Hills, CA,501 to 1000 employees,88000,136000,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1
+Data Engineer,"ZEFR
+3.3",Marina del Rey, CA,201 to 500 employees,88000,136000,1,0,0,1,1,0,1,0,0,0,0,1,1,0,1,0
+Data Engineer,"Warner Bros. Entertainment
+3.9",Burbank, CA,5001 to 10000 employees,88000,136000,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"NTT DATA
+3.4",Anaheim, CA,10000+ employees,88000,136000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Scientist,"Hyperloop Transportation Technologies
+4.5",Los Angeles, CA,501 to 1000 employees,88000,136000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Engineer,"NEXT Trucking
+4.0",El Segundo, CA,51 to 200 employees,88000,136000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"Tapcart
+5.0",Santa Monica, CA,1 to 50 employees,88000,136000,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1
+Data Engineer,"VMware
+4.2",Los Angeles, CA,10000+ employees,88000,136000,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"NBCUniversal
+3.8",Universal City, CA,10000+ employees,88000,136000,1,0,0,0,1,1,0,0,0,0,1,0,1,0,1,1
+Data Engineer,"Sense360
+5.0",Culver City, CA,1 to 50 employees,88000,136000,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"TrueCar
+2.7",Santa Monica, CA,501 to 1000 employees,88000,136000,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Aetion
+4.5",Los Angeles, CA,51 to 200 employees,88000,136000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Dave
+4.3",Los Angeles, CA,1 to 50 employees,88000,136000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Direct Agents
+4.4",Culver City, CA,51 to 200 employees,95000,167000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"SADA
+4.7",Los Angeles, CA,51 to 200 employees,95000,167000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,codeSpark,Pasadena, CA,1 to 50 employees,95000,167000,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Cedars-Sinai
+3.9",Los Angeles, CA,10000+ employees,95000,167000,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Ipsos
+3.2",Culver City, CA,10000+ employees,95000,167000,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+Data Engineer,"Direct Agents
+4.4",Culver City, CA,51 to 200 employees,95000,167000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"Mt. San Antonio College
+4.4",Walnut, CA,501 to 1000 employees,95000,167000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Scientist,"Netflix, Inc.
+4.0",Los Angeles, CA,1001 to 5000 employees,95000,167000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Prosum
+4.0",Los Angeles, CA,201 to 500 employees,95000,167000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Analyst,"Signal Sciences
+4.1",Los Angeles, CA,51 to 200 employees,95000,167000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"Analog Devices, Inc.
+3.9",Wilmington, CA,10000+ employees,95000,167000,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"ingenium.agency
+5.0",Los Angeles, CA,1 to 50 employees,95000,167000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"TEEMA
+4.7",Los Angeles, CA,201 to 500 employees,95000,167000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"NortonLifeLock
+3.7",Culver City, CA,1001 to 5000 employees,95000,167000,1,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0
+Data Engineer,"Agilisium LLC
+4.8",Los Angeles, CA,201 to 500 employees,95000,167000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,ingenium.agency,Los Angeles, CA,-1,95000,167000,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+Senior Data Engineer,"FabFitFun
+2.9",Los Angeles, CA,201 to 500 employees,95000,167000,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"CyberCoders
+4.2",Pasadena, CA,201 to 500 employees,95000,167000,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,EvolvInc,Burbank, CA,1 to 50 employees,95000,167000,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1
+Data Engineer,"ViacomCBS
+3.6",Los Angeles, CA,10000+ employees,95000,167000,1,1,0,1,0,1,0,0,0,0,1,0,1,0,1,0
+Data Engineer,"Ledgent Technology
+2.0",Los Angeles, CA,501 to 1000 employees,95000,167000,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Warner Media LLC
+3.7",Los Angeles, CA,10000+ employees,95000,167000,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1
+Data Engineer,"Turner Broadcasting
+3.7",Burbank, CA,10000+ employees,95000,167000,1,1,0,1,1,1,1,1,0,0,0,0,1,0,1,0
+Data Engineer,Trovetechs Inc,Universal City, CA,Unknown,95000,167000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,Bloomstaff,Los Angeles, CA,-1,95000,167000,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Data Engineer,Bloomstaff,Los Angeles, CA,-1,95000,167000,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Age of Learning
+3.3",Glendale, CA,501 to 1000 employees,79000,146000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Techstyle Group LLC
+3.1",El Segundo, CA,1001 to 5000 employees,79000,146000,1,0,0,1,1,0,1,0,0,0,1,1,0,0,1,1
+Data Engineer,GradTests (gradtests.com.au),Los Angeles, CA,-1,79000,146000,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1
+Senior Data Engineer,"Tech Holding
+4.4",Los Angeles, CA,51 to 200 employees,79000,146000,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Data Engineer,"mPulse Mobile
+3.7",Encino, CA,51 to 200 employees,79000,146000,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0
+Senior Data Engineer,"Altruist
+5.0",Los Angeles, CA,1 to 50 employees,79000,146000,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1
+Data Engineer,Sense 360,Culver City, CA,-1,79000,146000,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Relativity Space
+5.0",Los Angeles, CA,51 to 200 employees,79000,146000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Data Engineer,Ipsos North America,Culver City, CA,-1,79000,146000,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+Senior Data Engineer,"Steady Platform
+3.6",Los Angeles, CA,1 to 50 employees,79000,146000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"Management Decisions, Inc.
+1.6",Los Angeles, CA,1 to 50 employees,79000,146000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,Eleven Recruiting - CHURN,El Segundo, CA,-1,79000,146000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,BlackLine Systems,Woodland Hills, CA,1 to 50 employees,79000,146000,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1
+Data Engineer,"Dollar Shave Club
+3.8",Marina del Rey, CA,201 to 500 employees,79000,146000,1,0,0,1,0,1,1,0,0,1,0,0,1,0,1,0
+Senior Data Engineer,"Warner Bros. Entertainment
+3.9",Burbank, CA,5001 to 10000 employees,79000,146000,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Nasa Jet Propulsion Laboratory
+4.3",Pasadena, CA,5001 to 10000 employees,79000,146000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Lorven Technologies Inc
+4.0",Burbank, CA,1 to 50 employees,79000,146000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,TechStyle Fashion Group,El Segundo, CA,-1,79000,146000,1,0,0,1,1,0,1,0,0,0,1,1,0,0,1,1
+Senior Data Engineer,"The RealReal, Inc.
+2.5",Los Angeles, CA,1001 to 5000 employees,79000,146000,1,0,0,1,1,0,1,0,1,0,0,0,1,0,1,0
+Senior Data Engineer,"Warner Media LLC
+3.7",Los Angeles, CA,10000+ employees,79000,146000,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1
+Senior Data Engineer,Evolvinc,Burbank, CA,1 to 50 employees,79000,146000,1,1,0,1,0,0,1,0,0,0,0,1,1,0,0,1
+Senior Data Engineer,RennickBarrett Recruiting,Los Angeles, CA,-1,79000,146000,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1
+Data Engineer,"J. Paul Getty Trust
+3.6",Los Angeles, CA,1001 to 5000 employees,93000,106000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"BlackLine
+3.9",Woodland Hills, CA,501 to 1000 employees,93000,106000,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1
+Senior Data Engineer,"Guess?
+3.3",Los Angeles, CA,10000+ employees,93000,106000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Engineer,"Rakuten
+3.5",Los Angeles, CA,10000+ employees,93000,106000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Retention Science
+4.4",Santa Monica, CA,51 to 200 employees,93000,106000,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0
+Senior Data Engineer,"CyberCoders
+4.2",Los Angeles, CA,201 to 500 employees,93000,106000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"RennickBarrett Recruiting, INC",Los Angeles, CA,-1,93000,106000,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1
+Data Engineer,"Unilever
+4.0",Marina del Rey, CA,10000+ employees,93000,106000,1,0,0,1,0,1,1,0,0,1,0,0,1,0,1,0
+Senior Data Engineer,"Turner Broadcasting
+3.7",Burbank, CA,10000+ employees,93000,106000,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"The Loot Company
+2.1",Los Angeles, CA,201 to 500 employees,93000,106000,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+Data Engineer,"WB Technology
+5.0",Burbank, CA,Unknown,93000,106000,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Warner Bros. Entertainment
+3.9",Burbank, CA,5001 to 10000 employees,93000,106000,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Resource Logistics, Inc.
+4.7",Los Angeles, CA,51 to 200 employees,93000,106000,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0
+Senior Data Engineer,Hirefuel,Los Angeles, CA,-1,93000,106000,0,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0
+Data Engineer,"American Public Media
+4.0",Pasadena, CA,1 to 50 employees,93000,106000,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1
+Data Engineer,Eleven Recruiting - CHURN,El Segundo, CA,1 to 50 employees,93000,106000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"NEXT Trucking
+4.0",El Segundo, CA,51 to 200 employees,115000,201000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+Senior Data Engineer,"Riot Games
+3.9",Los Angeles, CA,1001 to 5000 employees,115000,201000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,1
+Data Engineer,"Turner Broadcasting
+3.7",Burbank, CA,10000+ employees,115000,201000,1,1,0,1,1,1,1,1,0,0,0,0,1,0,1,0
+Senior Data Engineer,"InMarket
+4.2",Culver City, CA,1 to 50 employees,115000,201000,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Prosum
+4.0",Los Angeles, CA,201 to 500 employees,115000,201000,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1
+Data Engineer,Trovetechs Inc,Los Angeles, CA,-1,115000,201000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,12traits,Los Angeles, CA,-1,115000,201000,1,0,0,0,1,0,1,0,0,1,0,1,1,0,0,0
+Senior Data Engineer,"Activision Blizzard
+3.6",Sherman Oaks, CA,10000+ employees,115000,201000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Larsen & Toubro Infotech Ltd.
+3.5",Century City, CA,10000+ employees,115000,201000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Capital Group
+3.9",Los Angeles, CA,5001 to 10000 employees,115000,201000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"Retention Science
+4.4",Santa Monica, CA,51 to 200 employees,115000,201000,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0
+Senior Data Engineer,"AltaMed
+3.2",Anaheim, CA,1001 to 5000 employees,115000,201000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+Senior Data Engineer,"Everest Technologies
+3.0",Glendale, CA,1 to 50 employees,115000,201000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"ZipRecruiter
+3.4",Santa Monica, CA,1001 to 5000 employees,115000,201000,1,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"Bird
+2.9",Santa Monica, CA,501 to 1000 employees,115000,201000,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"VDart, Inc.
+3.9",Los Angeles, CA,1001 to 5000 employees,115000,201000,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0
+Data Engineer,"Xoriant Corporation
+3.6",Los Angeles, CA,1001 to 5000 employees,115000,201000,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Senior Data Engineer,"Management Decisions, Inc.
+1.6",Los Angeles, CA,1 to 50 employees,115000,201000,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+Data Engineer,"Resource Logistics, Inc.
+4.7",Los Angeles, CA,51 to 200 employees,115000,201000,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"Resource Logistics, Inc.
+4.7",Los Angeles, CA,51 to 200 employees,115000,201000,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"CyberCoders
+4.2",El Segundo, CA,201 to 500 employees,94000,164000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1
+Data Engineer,"Cedars-Sinai
+3.9",Los Angeles, CA,10000+ employees,94000,164000,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"PROLIM Global Corporation
+3.3",Burbank, CA,201 to 500 employees,94000,164000,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Engineer,"Turner Broadcasting
+3.7",Burbank, CA,10000+ employees,94000,164000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"MotorTrend Group
+2.7",El Segundo, CA,501 to 1000 employees,94000,164000,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1
+Data Engineer,"BayOne Solutions
+4.1",Los Angeles, CA,1001 to 5000 employees,94000,164000,1,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+Senior Data Engineer,"Beyond Limits
+4.2",Glendale, CA,51 to 200 employees,94000,164000,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1
+Data Engineer,"Management Decisions, Inc.
+1.6",Los Angeles, CA,1 to 50 employees,94000,164000,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"NEXT Trucking
+4.0",El Segundo, CA,51 to 200 employees,94000,164000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"Management Decisions, Inc.
+1.6",Los Angeles, CA,1 to 50 employees,94000,164000,1,1,1,0,1,0,1,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Jobot
+4.9",Los Angeles, CA,51 to 200 employees,94000,164000,0,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0
+Senior Data Engineer,Skiltrek,Los Angeles, CA,51 to 200 employees,94000,164000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Scientist,EvolvInc,Burbank, CA,1 to 50 employees,94000,164000,1,1,0,1,0,0,1,0,0,0,0,1,1,0,0,1
+Senior Data Engineer,"Tentek, Inc.
+2.6",Burbank, CA,51 to 200 employees,94000,164000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"Solekai Systems Corp
+4.2",Los Angeles, CA,1 to 50 employees,94000,164000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"System Soft Technologies
+4.8",Cerritos, CA,201 to 500 employees,94000,164000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"Kaygen Inc.
+3.9",Los Angeles, CA,1 to 50 employees,94000,164000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Management Decisions, Inc.
+1.6",Los Angeles, CA,1 to 50 employees,94000,164000,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Turner Broadcasting
+3.7",Burbank, CA,10000+ employees,94000,164000,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"ProSearch Strategies
+3.7",Los Angeles, CA,1 to 50 employees,94000,164000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Management Decisions, Inc.
+1.6",Los Angeles, CA,1 to 50 employees,94000,164000,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1
+Senior Data Engineer,Sharp Intellects LLC,Anaheim, CA,-1,94000,164000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+Senior Data Engineer,"Activision Publishing
+3.2",Sherman Oaks, CA,1001 to 5000 employees,94000,164000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,Talent Acquisition QuÃ©bec,Los Angeles, CA,-1,94000,164000,1,1,0,1,1,0,1,0,1,0,0,1,1,0,0,1
+Senior Data Engineer,"WB Technology
+5.0",Burbank, CA,Unknown,94000,164000,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"CyberCoders
+4.2",Los Angeles, CA,201 to 500 employees,49000,98000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Capital Group
+3.9",Los Angeles, CA,5001 to 10000 employees,49000,98000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"Pddn
+5.0",Pasadena, CA,51 to 200 employees,49000,98000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Engineer,Danta Technologies,Los Angeles, CA,1 to 50 employees,49000,98000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,Geopaq Logic,Long Beach, CA,1 to 50 employees,49000,98000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Data Engineer,"Relativity
+3.7",Chicago, IL,1001 to 5000 employees,56000,108000,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0
+Data Engineer,"Sagence
+4.5",Chicago, IL,1 to 50 employees,56000,108000,0,0,1,0,1,1,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"Balyasny Asset Management
+3.9",Chicago, IL,501 to 1000 employees,56000,108000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Capital One
+3.9",Chicago, IL,10000+ employees,56000,108000,1,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"The Climate Corporation
+3.3",Chicago, IL,501 to 1000 employees,56000,108000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Data Engineer,"Centro
+4.0",Chicago, IL,501 to 1000 employees,56000,108000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,0,1
+Data Engineer,"VillageMD
+4.1",Chicago, IL,1001 to 5000 employees,56000,108000,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Alliant Credit Union
+3.4",Chicago, IL,501 to 1000 employees,56000,108000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"SADA
+4.7",Chicago, IL,51 to 200 employees,56000,108000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"Riskonnect
+3.7",Chicago, IL,201 to 500 employees,56000,108000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Maven Wave Partners
+4.5",Chicago, IL,201 to 500 employees,56000,108000,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0
+Data Engineer,"Citadel
+3.8",Chicago, IL,1001 to 5000 employees,56000,108000,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Senior Data Engineer,"American Family Insurance
+3.5",Chicago, IL,5001 to 10000 employees,56000,108000,1,1,0,1,1,0,0,0,1,0,1,1,1,0,1,0
+Data Engineer,"Grubhub
+3.8",Chicago, IL,1001 to 5000 employees,56000,108000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Centric Consulting
+5.0",Chicago, IL,501 to 1000 employees,56000,108000,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Senior Data Engineer,"Integral Ad Science
+3.5",Chicago, IL,501 to 1000 employees,56000,108000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"NJF Global Holdings
+4.2",Chicago, IL,51 to 200 employees,56000,108000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Mike's Hard Lemonade
+2.8",Chicago, IL,201 to 500 employees,56000,108000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Balyasny Asset Management
+3.9",Chicago, IL,501 to 1000 employees,85000,158000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Capital One
+3.9",Chicago, IL,10000+ employees,85000,158000,1,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"Kalderos
+5.0",Chicago, IL,1 to 50 employees,85000,158000,1,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0
+Data Engineer,"Citadel
+3.8",Chicago, IL,1001 to 5000 employees,85000,158000,1,0,0,0,1,0,1,0,1,0,0,1,1,0,0,0
+Data Engineer,"Mondo
+3.8",Chicago, IL,51 to 200 employees,85000,158000,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Capax Global
+4.7",Chicago, IL,51 to 200 employees,85000,158000,1,0,0,1,1,0,0,0,1,0,1,1,0,0,0,1
+Data Engineer,"Strike Social
+4.3",Chicago, IL,51 to 200 employees,85000,158000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Collabera
+4.1",Chicago, IL,10000+ employees,85000,158000,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Brad's Deals
+4.1",Chicago, IL,51 to 200 employees,85000,158000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Apervita
+4.8",Chicago, IL,51 to 200 employees,85000,158000,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,1
+Data Engineer,"Keylent
+3.1",Chicago, IL,1 to 50 employees,85000,158000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,Arrive,Chicago, IL,Unknown,85000,158000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"XSELL Technologies
+3.8",Chicago, IL,51 to 200 employees,85000,158000,1,0,0,0,1,0,0,0,1,1,0,1,1,0,1,0
+Data Engineer,"Zai Global
+5.0",Chicago, IL,1 to 50 employees,85000,158000,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"RAPP
+3.2",Chicago, IL,501 to 1000 employees,85000,158000,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"GoHealth
+3.2",Chicago, IL,501 to 1000 employees,85000,158000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Concurrency
+3.8",Chicago, IL,51 to 200 employees,85000,158000,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,1
+Data Engineer,PatientIQ,Chicago, IL,-1,85000,158000,1,0,0,0,1,0,1,0,1,0,0,1,1,0,1,1
+Data Engineer,"Integral Ad Science
+3.5",Chicago, IL,501 to 1000 employees,85000,158000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"Leaf Trade
+5.0",Chicago, IL,1 to 50 employees,85000,158000,1,0,0,0,1,1,0,0,1,0,1,0,1,0,1,1
+Data Engineer,"Insight Enterprises, Inc.
+4.0",Chicago, IL,5001 to 10000 employees,85000,158000,1,1,0,1,1,1,0,0,1,0,0,1,0,0,1,1
+Data Engineer,"The Climate Corporation
+3.3",Chicago, IL,501 to 1000 employees,133000,210000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Data Engineer,"VillageMD
+4.1",Chicago, IL,1001 to 5000 employees,133000,210000,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Relevante, Inc.
+3.1",Chicago, IL,51 to 200 employees,133000,210000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Signature Consultants
+3.6",Chicago, IL,1001 to 5000 employees,133000,210000,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"Northern Trust
+3.7",Chicago, IL,10000+ employees,133000,210000,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,GradTests (gradtests.com.au),Chicago, IL,-1,133000,210000,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1
+Data Engineer,"PDI
+3.5",Chicago, IL,51 to 200 employees,133000,210000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Trident Consulting
+4.2",Chicago, IL,51 to 200 employees,133000,210000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Level Ex, Inc.
+3.6",Chicago, IL,51 to 200 employees,133000,210000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Sinai Health System
+3.0",Chicago, IL,1001 to 5000 employees,133000,210000,1,1,0,1,1,0,1,0,1,0,0,1,1,0,0,0
+Data Engineer,"Myticas Consulting
+5.0",Chicago, IL,1 to 50 employees,133000,210000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Analyst,"BMO
+3.2",Chicago, IL,10000+ employees,133000,210000,1,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0
+Data Engineer,"McKinsey & Company
+4.4",Chicago, IL,10000+ employees,133000,210000,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,Insight UK,Chicago, IL,1 to 50 employees,133000,210000,1,1,0,1,1,1,0,0,1,0,0,1,0,0,1,1
+Data Engineer,"Spectrum Communications and Consulting
+3.4",Chicago, IL,51 to 200 employees,133000,210000,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1
+Senior Data Engineer,"GoHealth
+3.2",Chicago, IL,501 to 1000 employees,133000,210000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Omnitracs
+3.6",Chicago, IL,1001 to 5000 employees,133000,210000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Green Key Resources
+4.5",Chicago, IL,201 to 500 employees,133000,210000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Involgix
+4.5",Chicago, IL,51 to 200 employees,133000,210000,1,0,1,1,1,0,1,0,0,0,0,1,1,0,1,0
+Senior Data Engineer,"Randstad
+3.6",Chicago, IL,1001 to 5000 employees,133000,210000,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+Data Engineer,"Management Decisions, Inc.
+1.6",Chicago, IL,1 to 50 employees,133000,210000,1,1,0,1,0,1,0,0,0,0,1,0,1,0,0,1
+Data Engineer,"Centro
+4.0",Chicago, IL,501 to 1000 employees,95000,99000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,0,1
+Senior Data Engineer,"Alliant Credit Union
+3.4",Chicago, IL,501 to 1000 employees,95000,99000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Diversified Services Network
+3.8",Chicago, IL,51 to 200 employees,95000,99000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"CultureFit Technology Staffing
+5.0",Chicago, IL,1 to 50 employees,95000,99000,1,1,1,1,1,0,0,1,1,0,0,1,0,0,0,0
+Data Engineer,"Thrivent
+3.3",Chicago, IL,5001 to 10000 employees,95000,99000,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Data Engineer,"Involgix
+4.5",Chicago, IL,51 to 200 employees,95000,99000,1,0,1,1,1,0,1,0,0,0,0,1,1,0,1,0
+Data Engineer,"SIMPLIFIED IT SOLUTIONS Inc
+5.0",Chicago, IL,1 to 50 employees,95000,99000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Interior Systems
+2.6",Downers Grove, IL,201 to 500 employees,95000,99000,1,0,0,0,1,1,0,0,1,0,0,0,1,0,1,1
+Senior Data Engineer,"Integral Ad Science
+3.5",Chicago, IL,501 to 1000 employees,95000,99000,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Collabera
+4.1",Chicago, IL,10000+ employees,95000,99000,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Net2Source Inc.
+3.2",Chicago, IL,1001 to 5000 employees,95000,99000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"SADA
+4.7",Chicago, IL,51 to 200 employees,95000,99000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"CYNET SYSTEMS
+4.0",Chicago, IL,501 to 1000 employees,95000,99000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"ServiceNow
+3.7",Chicago, IL,10000+ employees,95000,99000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Engineer,Multivision Inc-IL,Elmhurst, IL,-1,95000,99000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"Baker Tilly Virchow Krause, LLP",Chicago, IL,-1,95000,99000,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1
+Data Engineer,"Themesoft Inc
+3.9",Chicago, IL,51 to 200 employees,95000,99000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"McKinsey & Company
+4.4",Chicago, IL,10000+ employees,95000,99000,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"JPMorgan Chase
+3.9",Chicago, IL,10000+ employees,95000,99000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"PDI Software
+3.2",Chicago, IL,501 to 1000 employees,95000,99000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Engineer,"Allstate
+3.4",Chicago, IL,10000+ employees,95000,99000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"ServiceNow
+3.7",Chicago, IL,10000+ employees,95000,99000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Senior Data Engineer,"ActiveCampaign
+3.3",Chicago, IL,501 to 1000 employees,95000,99000,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1
+Data Engineer,"Riskonnect
+3.7",Chicago, IL,201 to 500 employees,67000,72000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"SADA
+4.7",Chicago, IL,51 to 200 employees,67000,72000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"eTeam Inc.
+3.7",Chicago, IL,51 to 200 employees,67000,72000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,nOCD,Chicago, IL,-1,67000,72000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Keylent
+3.1",Chicago, IL,1 to 50 employees,67000,72000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"IT Staffing
+3.3",Chicago, IL,1 to 50 employees,67000,72000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Edgilent Corp.
+3.9",Chicago, IL,1 to 50 employees,67000,72000,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,Paul May & Associates,Chicago, IL,1 to 50 employees,67000,72000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Connect Search LLC
+3.7",Chicago, IL,51 to 200 employees,67000,72000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"QuantumBlack
+3.8",Chicago, IL,501 to 1000 employees,67000,72000,1,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0
+Senior Data Engineer,"Baker Tilly Virchow Krause, LLP",Chicago, IL,-1,67000,72000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Edgilent Corp.
+3.9",Chicago, IL,1 to 50 employees,67000,72000,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"PeopleReady
+3.4",Chicago, IL,5001 to 10000 employees,67000,72000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"NorthBay Solutions
+4.0",Chicago, IL,201 to 500 employees,67000,72000,0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,Galaxy Technology Hires LLC,Chicago, IL,1 to 50 employees,67000,72000,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Elkay Manufacturing
+3.5",Downers Grove, IL,1001 to 5000 employees,67000,72000,1,0,0,0,1,1,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"Photon Infotech
+3.0",Chicago, IL,1001 to 5000 employees,67000,72000,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Data Engineer,"VDeploy Consulting LLC
+5.0",Chicago, IL,1 to 50 employees,67000,72000,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,PatientIQ,Chicago, IL,-1,67000,72000,1,0,0,0,1,0,1,0,1,0,0,1,1,0,1,1
+Senior Data Engineer,Fractal.ai,Chicago, IL,-1,67000,72000,1,1,1,1,1,0,1,0,1,0,0,0,1,0,0,0
+Data Engineer,"Maven Wave Partners
+4.5",Chicago, IL,201 to 500 employees,53000,100000,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0
+Senior Data Engineer,"American Family Insurance
+3.5",Chicago, IL,5001 to 10000 employees,53000,100000,1,1,0,1,1,0,0,0,1,0,1,1,1,0,1,0
+Data Engineer,"Sky Consulting Inc
+4.8",Chicago, IL,51 to 200 employees,53000,100000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"HIMSS
+2.9",Chicago, IL,201 to 500 employees,53000,100000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Photon Infotech
+3.0",Chicago, IL,1001 to 5000 employees,53000,100000,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Data Engineer,LiniumIT,Chicago, IL,-1,53000,100000,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Thrivent
+3.3",Chicago, IL,5001 to 10000 employees,53000,100000,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+Data Engineer,"PRIMUS Global Services, Inc
+3.7",Chicago, IL,501 to 1000 employees,53000,100000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"RiverPoint
+3.8",Chicago, IL,1 to 50 employees,53000,100000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"K-Tek Resourcing LLC
+3.9",Chicago, IL,201 to 500 employees,53000,100000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Reyes Beer Division
+3.3",Rosemont, IL,1001 to 5000 employees,53000,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,Sri Systems Inc,Chicago, IL,Unknown,53000,100000,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Senior Data Engineer,"Collinwood Technology Partners, LLC
+4.7",Chicago, IL,51 to 200 employees,53000,100000,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+Senior Data Engineer,"Integral Ad Science
+3.5",Chicago, IL,501 to 1000 employees,53000,100000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Civis Analytics
+3.2",Chicago, IL,51 to 200 employees,53000,100000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Avtech solutions
+2.9",Chicago, IL,1 to 50 employees,53000,100000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Martin-Brower
+3.5",Des Plaines, IL,10000+ employees,53000,100000,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"Prairie Consulting Services, Inc",Chicago, IL,-1,53000,100000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Citadel
+3.8",Chicago, IL,1001 to 5000 employees,81000,100000,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Data Engineer,"Grubhub
+3.8",Chicago, IL,1001 to 5000 employees,81000,100000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Martin-Brower
+3.5",Des Plaines, IL,10000+ employees,81000,100000,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"Prairie Consulting Services, Inc",Chicago, IL,-1,81000,100000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Avaap
+4.0",Chicago, IL,501 to 1000 employees,81000,100000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"PeopleReady
+3.4",Chicago, IL,5001 to 10000 employees,81000,100000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,eninsystems,Chicago, IL,-1,81000,100000,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Data Engineer,"RiverPoint
+2.8",Chicago, IL,1 to 50 employees,81000,100000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Trace3
+3.3",Houston, TX,501 to 1000 employees,94000,107000,1,1,0,1,1,0,1,0,1,0,0,0,0,1,0,1
+Data Engineer,"Alphascript Pharmacy
+3.2",Houston, TX,1 to 50 employees,94000,107000,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1
+Data Engineer,"AVANADE
+3.9",Houston, TX,10000+ employees,94000,107000,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1
+Data Engineer,"Sense Corp
+3.8",Houston, TX,201 to 500 employees,94000,107000,1,1,0,1,1,0,1,0,1,0,0,0,0,0,1,1
+Data Engineer,"Slalom
+4.1",Houston, TX,5001 to 10000 employees,94000,107000,1,1,0,1,1,1,0,0,1,0,0,1,1,0,0,1
+Data Engineer,"Irvine Technology Corporation
+4.0",Houston, TX,201 to 500 employees,94000,107000,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0
+Data Engineer,"Competentia Holding
+4.9",Houston, TX,501 to 1000 employees,94000,107000,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1
+Data Engineer,"JPMorgan Chase & Co.
+3.9",Houston, TX,10000+ employees,94000,107000,1,0,0,0,1,1,1,0,0,0,1,1,0,0,0,1
+Data Engineer,Walker Elliott,Houston, TX,1 to 50 employees,94000,107000,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0
+Data Engineer,"VMware
+4.2",Houston, TX,10000+ employees,94000,107000,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Wise Men Consultants
+3.2",Houston, TX,501 to 1000 employees,94000,107000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"TelligenTech, Inc
+2.5",Houston, TX,51 to 200 employees,94000,107000,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1
+Data Engineer,April Health,Houston, TX,1 to 50 employees,94000,107000,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1
+Data Engineer,"alliantgroup, LP
+3.4",Houston, TX,501 to 1000 employees,94000,107000,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0
+Data Engineer,"Alpha Net Consulting, LLC
+3.1",Houston, TX,201 to 500 employees,94000,107000,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,1
+Data Engineer,"Georgia IT Inc.
+5.0",Houston, TX,1 to 50 employees,94000,107000,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Mindteck
+3.3",Houston, TX,1001 to 5000 employees,94000,107000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Alliant Group
+1.0",Houston, TX,501 to 1000 employees,94000,107000,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0
+Data Engineer,"Frontend Arts
+4.5",Houston, TX,1 to 50 employees,94000,107000,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0
+Senior Data Engineer,"LyondellBasell Industries
+3.7",Houston, TX,10000+ employees,94000,107000,1,1,0,1,1,1,1,0,1,0,0,1,0,0,1,1
+Senior Data Engineer,"LyondellBasell Industries
+3.7",Houston, TX,10000+ employees,94000,107000,1,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0
+Data Engineer,m1neral,Houston, TX,Unknown,94000,107000,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0
+Data Engineer,"AVANADE
+3.9",Houston, TX,10000+ employees,43000,84000,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1
+Data Engineer,"Robert Half
+3.5",Houston, TX,10000+ employees,43000,84000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"IDC Technologies
+3.8",Houston, TX,1001 to 5000 employees,43000,84000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,"Amazon
+3.9",Houston, TX,10000+ employees,43000,84000,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+Senior Data Engineer,"Irvine Technology Corporation
+4.0",Houston, TX,201 to 500 employees,43000,84000,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0
+Data Engineer,"Houston Methodist
+4.1",Houston, TX,10000+ employees,43000,84000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Scientist,"Halliburton
+3.5",Houston, TX,10000+ employees,43000,84000,1,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0
+Data Engineer,"HashMap*
+2.7",Houston, TX,1 to 50 employees,43000,84000,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1
+Senior Data Engineer,HCC Life Insurance,Houston, TX,-1,43000,84000,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+Data Scientist,"Sercel
+3.4",Houston, TX,501 to 1000 employees,43000,84000,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1
+Data Engineer,"PREDICTif Solutions
+3.1",Houston, TX,5001 to 10000 employees,43000,84000,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Diverse Lynx
+3.9",Houston, TX,501 to 1000 employees,43000,84000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Data Scientist,CGG Veritas,Houston, TX,-1,43000,84000,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1
+Data Engineer,"Diverse Lynx
+3.9",Houston, TX,501 to 1000 employees,62000,92000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Data Scientist,"CGG
+3.7",Houston, TX,5001 to 10000 employees,62000,92000,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1
+Data Engineer,"CIA
+3.8",Houston, TX,Unknown,62000,92000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Infogium Technologies, LLC
+5.0",Houston, TX,1 to 50 employees,62000,92000,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1
+Senior Data Engineer,Irvine Technology Corporation (ITC),Houston, TX,-1,62000,92000,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0
+Senior Data Engineer,"Civis Analytics
+3.2",Houston, TX,51 to 200 employees,62000,92000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,Microtek Digital LLC,Houston, TX,-1,62000,92000,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Senior Data Engineer,"Wise Men Consultants
+3.2",Houston, TX,501 to 1000 employees,62000,92000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Randstad
+3.6",Houston, TX,1001 to 5000 employees,62000,92000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+Data Engineer,LiveMindz,Houston, TX,51 to 200 employees,62000,92000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Scientist,"Robert Half
+3.5",Houston, TX,10000+ employees,62000,92000,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1
+Data Engineer,"IHS Markit
+3.5",Houston, TX,10000+ employees,55000,106000,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0
+Data Engineer,"eTeam Inc.
+3.7",Houston, TX,51 to 200 employees,55000,106000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,KLM Careers,Houston, TX,-1,55000,106000,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0
+Senior Data Engineer,"JPMorgan Chase Bank, N.A.
+3.9",Houston, TX,10000+ employees,55000,106000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Crawford Thomas Recruiting
+5.0",Houston, TX,51 to 200 employees,55000,106000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Engineer,"Solekai Systems Corp
+4.2",Houston, TX,1 to 50 employees,55000,106000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Wise Men Consultants
+3.2",Houston, TX,501 to 1000 employees,55000,106000,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0
+Senior Data Engineer,"Crown Castle USA Inc
+3.6",Houston, TX,1001 to 5000 employees,55000,106000,1,1,0,1,1,0,1,0,1,0,0,0,1,0,1,1
+Data Engineer,Talent Acquisition QuÃ©bec,Houston, TX,-1,55000,106000,1,1,0,1,1,0,1,0,1,0,0,1,1,0,0,1
+Senior Data Scientist,"Amazon
+3.9",Houston, TX,10000+ employees,69000,103000,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+Data Engineer,"PREDICTif Solutions
+3.1",Houston, TX,5001 to 10000 employees,69000,103000,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0
+Senior Data Engineer,Skiltrek,Houston, TX,51 to 200 employees,54000,113000,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0
+Senior Data Engineer,Skiltrek,Houston, TX,51 to 200 employees,74000,123000,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0
+Data Engineer,"MUFG
+3.1",Tempe, AZ,10000+ employees,69000,122000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"Discount Tire
+4.0",Scottsdale, AZ,10000+ employees,69000,122000,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1
+Data Analyst,"MUFG
+3.1",Tempe, AZ,10000+ employees,69000,122000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Discount Tire
+4.0",Scottsdale, AZ,10000+ employees,69000,122000,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1
+Data Engineer,"USAA
+3.6",Phoenix, AZ,10000+ employees,69000,122000,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Senior Data Engineer,"Axon
+3.7",Scottsdale, AZ,1001 to 5000 employees,69000,122000,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"IntraEdge
+3.8",Scottsdale, AZ,501 to 1000 employees,69000,122000,1,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"Zoom
+4.8",Phoenix, AZ,1001 to 5000 employees,69000,122000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,1,0
+Data Engineer,"Daman, Inc.
+3.9",Phoenix, AZ,1 to 50 employees,69000,122000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"Freestar
+4.9",Phoenix, AZ,1 to 50 employees,69000,122000,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1
+Senior Data Engineer,"Zoom
+4.8",Phoenix, AZ,1001 to 5000 employees,69000,122000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,1,1
+Data Engineer,"DEREX TECHNOLOGIES INC.
+4.1",Phoenix, AZ,51 to 200 employees,69000,122000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"MSYS Inc.
+4.4",Chandler, AZ,51 to 200 employees,69000,122000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Digital dhara
+4.7",Phoenix, AZ,1 to 50 employees,69000,122000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Headfarmer
+4.6",Phoenix, AZ,1 to 50 employees,69000,122000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Clairvoyant LLC
+3.2",Tempe, AZ,1 to 50 employees,69000,122000,1,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+Data Engineer,Kforce Technology Staffing,Phoenix, AZ,-1,69000,122000,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Sprouts Farmers Market
+2.9",Phoenix, AZ,10000+ employees,69000,122000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+Data Engineer,"IntraEdge
+3.8",Phoenix, AZ,501 to 1000 employees,69000,122000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Discount Tire
+4.0",Scottsdale, AZ,10000+ employees,79000,104000,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1
+Senior Data Analyst,"MUFG
+3.1",Tempe, AZ,10000+ employees,79000,104000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"Blue Rose Technologies LLC
+3.2",Tempe, AZ,201 to 500 employees,79000,104000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,Terascope,Phoenix, AZ,-1,79000,104000,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Diverse Lynx
+3.9",Phoenix, AZ,501 to 1000 employees,79000,104000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Management Decisions, Inc.
+1.6",Phoenix, AZ,1 to 50 employees,79000,104000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Swift Refrigerated
+3.3",Phoenix, AZ,10000+ employees,79000,104000,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"22nd Century Staffing
+4.3",Phoenix, AZ,51 to 200 employees,79000,104000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Engineer,"GTN Technical Staffing
+4.0",Phoenix, AZ,201 to 500 employees,79000,104000,1,1,1,1,1,0,1,0,0,1,0,1,1,0,0,0
+Data Engineer,"VincentBenjamin
+3.4",Phoenix, AZ,51 to 200 employees,79000,104000,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+Data Engineer,"Silicon Valley Bank
+3.5",Tempe, AZ,1001 to 5000 employees,79000,104000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,1
+Data Engineer,"Kforce
+4.1",Phoenix, AZ,10000+ employees,79000,104000,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Scientist,"Discount Tire
+4.0",Scottsdale, AZ,10000+ employees,79000,104000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Engineer,"Net2Source
+3.2",Phoenix, AZ,1001 to 5000 employees,79000,104000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"thredUP
+3.9",Phoenix, AZ,1001 to 5000 employees,79000,104000,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"PeopleNTech LLC
+4.3",Chandler, AZ,1 to 50 employees,79000,104000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,Vegatron Systems,Scottsdale, AZ,-1,79000,104000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"The Judge Group
+3.5",Tempe, AZ,1001 to 5000 employees,79000,104000,1,0,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+Data Engineer,"Net2Source
+3.2",Phoenix, AZ,1001 to 5000 employees,79000,104000,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Discount Tire
+4.0",Scottsdale, AZ,10000+ employees,81000,141000,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1
+Data Engineer,"USAA
+3.6",Phoenix, AZ,10000+ employees,81000,141000,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Data Engineer,Discount Tire Corporate Careers,Scottsdale, AZ,-1,81000,141000,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1
+Data Analyst,"Modis
+3.2",Phoenix, AZ,5001 to 10000 employees,81000,141000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Cable One, Inc.
+3.4",Phoenix, AZ,1001 to 5000 employees,81000,141000,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1
+Senior Data Engineer,"Xoriant Corporation
+3.6",Phoenix, AZ,1001 to 5000 employees,81000,141000,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Scientist,CalTech IT Solution Private Limited,Phoenix, AZ,-1,81000,141000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Sysmind LLC
+4.1",Phoenix, AZ,51 to 200 employees,81000,141000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Clairvoyant
+4.0",Tempe, AZ,501 to 1000 employees,81000,141000,1,1,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+Data Scientist,"Amazon
+3.9",Phoenix, AZ,10000+ employees,81000,141000,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+Senior Data Engineer,"StrongMind
+3.8",Chandler, AZ,51 to 200 employees,81000,141000,0,1,0,1,1,0,1,0,1,0,1,0,1,0,1,1
+Data Engineer,"circle k
+2.9",Tempe, AZ,10000+ employees,81000,141000,1,0,0,1,1,0,1,0,1,0,0,1,0,0,0,1
+Data Analyst,"The Accuro Group
+3.0",Tempe, AZ,201 to 500 employees,81000,141000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Nationwide
+3.6",Scottsdale, AZ,10000+ employees,81000,141000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,Swift Corporate,Phoenix, AZ,-1,81000,141000,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Senior Data Engineer,"Hewlett Packard Enterprise
+3.8",Phoenix, AZ,10000+ employees,81000,141000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Xoriant Corporation
+3.6",Phoenix, AZ,1001 to 5000 employees,81000,141000,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Metasys Technologies
+4.8",Phoenix, AZ,201 to 500 employees,81000,141000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Xoriant Corporation
+3.6",Phoenix, AZ,1001 to 5000 employees,81000,141000,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Nucleusteq
+5.0",Phoenix, AZ,201 to 500 employees,81000,141000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Impetus
+2.9",Phoenix, AZ,Unknown,81000,141000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"ISGIT
+4.0",Phoenix, AZ,51 to 200 employees,81000,141000,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"IntraEdge
+3.8",Scottsdale, AZ,501 to 1000 employees,87000,104000,1,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Axon
+3.7",Scottsdale, AZ,1001 to 5000 employees,87000,104000,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Diverse Lynx
+3.9",Phoenix, AZ,501 to 1000 employees,87000,104000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Sysmind LLC
+4.1",Phoenix, AZ,51 to 200 employees,87000,104000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"U-Haul
+3.1",Phoenix, AZ,10000+ employees,87000,104000,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0,0
+Data Engineer,"Amazon
+3.9",Tempe, AZ,10000+ employees,87000,104000,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1,1
+Data Engineer,Callibus Inc,Phoenix, AZ,-1,87000,104000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Xoriant Corporation
+3.6",Phoenix, AZ,1001 to 5000 employees,87000,104000,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Scientist,"Amazon
+3.9",Tempe, AZ,10000+ employees,87000,104000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Diverse Lynx
+3.9",Chandler, AZ,501 to 1000 employees,87000,104000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Allstate Insurance - 1202 Irving, TX
+3.4",Tempe, AZ,10000+ employees,87000,104000,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Infotree Service Inc
+3.7",Chandler, AZ,51 to 200 employees,87000,104000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Lorven Technologies Inc
+4.0",Phoenix, AZ,1 to 50 employees,87000,104000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"STM Consulting, Inc.",Phoenix, AZ,Unknown,87000,104000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Enexus Global
+5.0",Chandler, AZ,51 to 200 employees,87000,104000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,SmartIT Frame,Chandler, AZ,-1,87000,104000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Kforce
+4.1",Tempe, AZ,10000+ employees,73000,126000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+Data Engineer,"Nucleusteq
+5.0",Phoenix, AZ,201 to 500 employees,73000,126000,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0
+Data Engineer,"Impetus Technologies
+3.7",Phoenix, AZ,1001 to 5000 employees,73000,126000,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"IntraEdge
+3.8",Phoenix, AZ,501 to 1000 employees,58000,94000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Adwait Algorithm
+4.4",Chandler, AZ,51 to 200 employees,58000,94000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Silicon Valley Bank
+3.5",Tempe, AZ,1001 to 5000 employees,58000,94000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"IntraEdge
+3.8",Phoenix, AZ,501 to 1000 employees,74000,145000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Infotree Service Inc
+3.7",Chandler, AZ,51 to 200 employees,74000,145000,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,Youth Power Technosoft LLC.,Phoenix, AZ,-1,74000,145000,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"IHS Markit
+3.5",Scottsdale, AZ,10000+ employees,74000,145000,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0
+Senior Data Engineer,"IntraEdge
+3.8",Phoenix, AZ,501 to 1000 employees,66000,122000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"STEVENS CAPITAL MANAGEMENT LP
+4.6",Philadelphia, PA,51 to 200 employees,65000,101000,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Data Engineer,"Maestro Technologies
+5.0",Wilmington, DE,51 to 200 employees,65000,101000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Health Union
+4.7",Philadelphia, PA,51 to 200 employees,65000,101000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1
+Senior Data Engineer,"Aetna
+3.3",Blue Bell, PA,10000+ employees,65000,101000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"AVANADE
+3.9",Philadelphia, PA,10000+ employees,65000,101000,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1
+Data Engineer,"CHOP
+3.7",Philadelphia, PA,1001 to 5000 employees,65000,101000,1,1,0,1,1,1,1,0,0,0,1,0,0,0,1,1
+Data Engineer,GHR Technology,Philadelphia, PA,-1,65000,101000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Voca
+4.7",Philadelphia, PA,201 to 500 employees,65000,101000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Integrated Resources
+3.1",Philadelphia, PA,201 to 500 employees,65000,101000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Daman, Inc.
+3.9",Philadelphia, PA,1 to 50 employees,65000,101000,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1
+Data Engineer,"Mondo
+3.8",Philadelphia, PA,51 to 200 employees,65000,101000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Staffing the Universe
+2.7",Philadelphia, PA,1001 to 5000 employees,65000,101000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Partners Consulting, Inc.
+3.0",Philadelphia, PA,Unknown,65000,101000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"NextGen Global Resources
+4.3",Philadelphia, PA,501 to 1000 employees,65000,101000,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"GSK
+3.9",Philadelphia, PA,10000+ employees,65000,101000,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"Digital Intelligence Systems, LLC
+3.4",Philadelphia, PA,1001 to 5000 employees,65000,101000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Slyce
+3.5",Philadelphia, PA,1 to 50 employees,65000,101000,1,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0
+Data Engineer,Perpay,Philadelphia, PA,1 to 50 employees,65000,101000,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1
+Data Engineer,"Gopuff
+3.4",Philadelphia, PA,1001 to 5000 employees,65000,101000,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0
+Senior Data Engineer,"De Lage Landen
+4.0",Wayne, PA,5001 to 10000 employees,65000,101000,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1
+Data Engineer,"Black Knight Inc
+2.9",Philadelphia, PA,5001 to 10000 employees,65000,101000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0
+Senior Data Engineer,"Aetna
+3.3",Blue Bell, PA,10000+ employees,94000,166000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"Health Union
+4.7",Philadelphia, PA,51 to 200 employees,94000,166000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1
+Data Engineer,"Numeric, LLC
+3.2",King of Prussia, PA,1 to 50 employees,94000,166000,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0
+Data Engineer,"RennerBrown
+3.0",Philadelphia, PA,Unknown,94000,166000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Ettain Group
+3.0",Philadelphia, PA,1001 to 5000 employees,94000,166000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Turnberry Solutions
+4.6",Philadelphia, PA,501 to 1000 employees,94000,166000,1,0,1,1,1,0,1,0,0,0,1,0,1,0,0,1
+Data Engineer,"US Tech Solutions Inc.
+3.8",Philadelphia, PA,1001 to 5000 employees,94000,166000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Globex Digital Solutions
+3.4",Philadelphia, PA,1 to 50 employees,94000,166000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Philadelphia District Attorney's Office
+3.6",Philadelphia, PA,501 to 1000 employees,94000,166000,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1
+Data Engineer,"The Judge Group, Inc.
+3.5",Philadelphia, PA,1001 to 5000 employees,94000,166000,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,1
+Data Engineer,"HealthVerity
+5.0",Philadelphia, PA,51 to 200 employees,94000,166000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"IntePros
+4.2",Philadelphia, PA,201 to 500 employees,94000,166000,1,1,0,1,1,0,1,0,0,1,0,1,0,0,0,0
+Data Engineer,"Intone Networks Inc
+4.4",Malvern, PA,201 to 500 employees,94000,166000,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Data Engineer,"AVANADE
+3.9",Philadelphia, PA,10000+ employees,94000,166000,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1
+Data Engineer,"WalkerHealthcareIT
+4.0",Philadelphia, PA,51 to 200 employees,94000,166000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,Black Knight Financial Technology Solutions,Philadelphia, PA,-1,94000,166000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0
+Data Engineer,DL Staffing Solutions,Philadelphia, PA,-1,94000,166000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"System Soft Technologies
+4.8",Cherry Hill, NJ,201 to 500 employees,94000,166000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"Amerihealth
+3.7",Philadelphia, PA,5001 to 10000 employees,94000,166000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Voca
+4.7",Philadelphia, PA,201 to 500 employees,94000,166000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Becker Technical Staffing, Inc.
+2.8",Philadelphia, PA,1 to 50 employees,94000,166000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"AETEA Information Technology Inc
+3.9",Wilmington, DE,201 to 500 employees,94000,166000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Robert Half
+3.5",Philadelphia, PA,10000+ employees,94000,166000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"AVANADE
+3.9",Philadelphia, PA,10000+ employees,57000,108000,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1
+Senior Data Engineer,"De Lage Landen
+4.0",Wayne, PA,5001 to 10000 employees,57000,108000,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1
+Data Engineer,"Queen Consulting Group, Inc.
+5.0",Philadelphia, PA,51 to 200 employees,57000,108000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Artech LLC
+3.9",Wilmington, DE,5001 to 10000 employees,57000,108000,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,0
+Data Engineer,"GSK
+3.9",Philadelphia, PA,10000+ employees,57000,108000,1,1,1,1,1,0,1,0,1,0,0,0,1,0,1,1
+Data Engineer,"AETEA Information Technology Inc
+3.9",Wayne, PA,201 to 500 employees,57000,108000,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1
+Senior Data Engineer,"Penn National Gaming
+3.1",Philadelphia, PA,10000+ employees,57000,108000,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,1
+Data Engineer,"Capgemini
+3.8",Malvern, PA,10000+ employees,57000,108000,1,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0
+Data Scientist,"Amazon
+3.9",Philadelphia, PA,10000+ employees,57000,108000,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+Data Engineer,"MetaSense, Inc.
+4.5",Philadelphia, PA,1 to 50 employees,57000,108000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Berkadia Commercial Mortgage
+3.7",Ambler, PA,1001 to 5000 employees,57000,108000,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Senior Data Engineer,"CapTech
+3.9",Philadelphia, PA,1001 to 5000 employees,57000,108000,1,1,0,1,1,1,1,0,1,0,0,0,0,0,1,0
+Senior Data Engineer,"Baker Tilly Virchow Krause, LLP",Philadelphia, PA,-1,57000,108000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,CapTech Richmond,Philadelphia, PA,-1,57000,108000,1,1,0,1,1,1,1,0,1,0,0,0,0,0,1,0
+Data Engineer,"CHOP
+3.7",Philadelphia, PA,1001 to 5000 employees,57000,108000,1,1,0,1,1,1,1,0,0,0,1,0,1,0,1,1
+Data Engineer,"Tata Elxsi
+3.8",Philadelphia, PA,1001 to 5000 employees,57000,108000,1,0,0,0,1,1,0,0,0,0,1,0,1,0,1,1
+Data Scientist,"Comcast
+3.6",Philadelphia, PA,10000+ employees,57000,108000,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"Digital Intelligence Systems, LLC
+3.4",Philadelphia, PA,1001 to 5000 employees,57000,108000,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"The Accuro Group
+3.0",Malvern, PA,201 to 500 employees,57000,108000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"InfoQuest Consulting Group
+4.7",Philadelphia, PA,1 to 50 employees,57000,108000,1,1,0,1,1,1,1,0,0,0,1,0,1,0,0,0
+Senior Data Engineer,"First Health Group
+3.2",Blue Bell, PA,10000+ employees,57000,108000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,gettacar,Philadelphia, PA,51 to 200 employees,57000,108000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1
+Data Engineer,"AVANADE
+3.9",Philadelphia, PA,10000+ employees,54000,104000,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1
+Data Engineer,"Amerihealth
+3.7",Philadelphia, PA,5001 to 10000 employees,54000,104000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"VSE, Inc.
+4.1",Feasterville Trevose, PA,1 to 50 employees,54000,104000,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0
+Data Engineer,"Beacon Hill Staffing Group, LLC
+4.5",Philadelphia, PA,501 to 1000 employees,54000,104000,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Data Engineer,Tek Pyramids Inc,Wilmington, DE,Unknown,54000,104000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"VSE, Inc.
+4.1",Feasterville Trevose, PA,1 to 50 employees,54000,104000,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,1
+Senior Data Engineer,"Numeric, LLC
+3.2",Philadelphia, PA,1 to 50 employees,54000,104000,1,1,0,0,1,1,0,0,1,0,1,1,0,0,1,1
+Data Scientist,"Jconnect Infotech Inc
+3.8",Philadelphia, PA,201 to 500 employees,54000,104000,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Senior Data Engineer,"Comcast
+3.6",Philadelphia, PA,10000+ employees,54000,104000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0
+Data Engineer,"Pyramid Consulting, Inc.
+3.7",Philadelphia, PA,1001 to 5000 employees,54000,104000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Queen Consulting Group, Inc.
+5.0",Philadelphia, PA,51 to 200 employees,54000,104000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Scientist,"Contingent Network Services
+3.1",Philadelphia, PA,201 to 500 employees,54000,104000,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"Strategic Staffing Solutions
+3.1",Wilmington, DE,1001 to 5000 employees,54000,104000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"nfolks
+2.5",Philadelphia, PA,1 to 50 employees,54000,104000,1,1,0,1,1,0,1,0,1,0,0,0,0,0,1,1
+Data Engineer,"Freedom Mortgage
+4.3",Mount Laurel, NJ,1001 to 5000 employees,54000,104000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Management Decisions, Inc.
+1.6",Philadelphia, PA,1 to 50 employees,54000,104000,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Senior Data Engineer,"Berkadia Commercial Mortgage
+3.7",Ambler, PA,1001 to 5000 employees,54000,104000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Integrated Technology Strategies, Inc.",Cherry Hill, NJ,1 to 50 employees,54000,104000,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"1819, LLC
+3.0",Philadelphia, PA,1 to 50 employees,54000,104000,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"AMERICAN SYSTEMS
+3.7",Philadelphia, PA,1001 to 5000 employees,55000,105000,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+Data Engineer,"PPD
+3.7",Horsham, PA,10000+ employees,55000,105000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"IT Pros
+3.3",Philadelphia, PA,1 to 50 employees,55000,105000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Tiger Analytics
+4.6",Newtown, PA,201 to 500 employees,55000,105000,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1
+Data Engineer,"Keylent
+3.1",Wilmington, DE,1 to 50 employees,55000,105000,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Softcom Systems
+4.4",King of Prussia, PA,1 to 50 employees,55000,105000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Lumaxia Consulting, LLC.",Wilmington, DE,Unknown,55000,105000,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"ApTask
+3.9",Wilmington, DE,201 to 500 employees,55000,105000,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Omega Solutions Inc
+2.6",Wilmington, DE,1 to 50 employees,55000,105000,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Solekai Systems Corp
+4.2",Philadelphia, PA,1 to 50 employees,55000,105000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Contingent Network Services
+3.1",Philadelphia, PA,201 to 500 employees,55000,105000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0
+Senior Data Engineer,"Turnberry Solutions, Inc
+4.6",Wayne, PA,501 to 1000 employees,55000,105000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Genuent Global, LLC
+3.5",Wayne, PA,201 to 500 employees,55000,105000,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1
+Senior Data Engineer,"Comcast
+3.6",Philadelphia, PA,10000+ employees,71000,130000,1,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0
+Data Engineer,"Management Decisions, Inc.
+1.6",Philadelphia, PA,1 to 50 employees,71000,130000,1,0,0,0,1,1,0,0,0,0,1,1,1,0,1,0
+Data Engineer,Freedommortgage,Mount Laurel, NJ,-1,71000,130000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Tiger Analytics
+4.6",Newtown, PA,201 to 500 employees,71000,130000,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1
+Data Engineer,"Management Decisions, Inc.
+1.6",Philadelphia, PA,1 to 50 employees,71000,130000,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+Data Engineer,"Iconma, L.L.C.
+3.6",Wilmington, DE,1001 to 5000 employees,71000,130000,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+Senior Data Engineer,"A2C Consulting
+3.6",Philadelphia, PA,1 to 50 employees,71000,130000,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Management Decisions, Inc.
+1.6",Philadelphia, PA,1 to 50 employees,71000,130000,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Management Decisions, Inc.
+1.6",Philadelphia, PA,1 to 50 employees,71000,130000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"CyberCoders
+4.2",Philadelphia, PA,201 to 500 employees,71000,130000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Pyramid Consulting
+3.7",Wilmington, DE,1001 to 5000 employees,71000,130000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"AmeriHealth Caritas
+3.1",Philadelphia, PA,5001 to 10000 employees,154000,281000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Management Decisions, Inc.
+1.6",Philadelphia, PA,1 to 50 employees,154000,281000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Softcom Systems
+4.4",Wayne, PA,1 to 50 employees,154000,281000,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+Data Engineer,"Pyramid Consulting, Inc
+3.7",Wilmington, DE,1001 to 5000 employees,154000,281000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Georgia IT Inc.
+5.0",Wilmington, DE,1 to 50 employees,154000,281000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Group O
+3.1",San Antonio, TX,1001 to 5000 employees,74000,93000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Group O
+3.1",San Antonio, TX,1001 to 5000 employees,74000,93000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Daman, Inc.
+3.9",San Antonio, TX,1 to 50 employees,74000,93000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"York Solutions, LLC
+3.5",San Antonio, TX,51 to 200 employees,74000,93000,1,1,0,1,1,1,0,0,1,0,1,0,1,0,1,1
+Data Engineer,"iHeartMedia
+3.2",San Antonio, TX,10000+ employees,74000,93000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Scaleworks
+4.5",San Antonio, TX,1 to 50 employees,74000,93000,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1
+Data Engineer,"OptumCare
+3.4",San Antonio, TX,501 to 1000 employees,74000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"H E B
+4.3",San Antonio, TX,10000+ employees,74000,93000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Reliable Software Resources
+4.0",San Antonio, TX,501 to 1000 employees,74000,93000,1,1,0,1,1,1,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"OptumCare
+3.4",San Antonio, TX,501 to 1000 employees,74000,93000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"Guidehouse
+3.4",San Antonio, TX,5001 to 10000 employees,74000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"nfolks
+2.5",San Antonio, TX,1 to 50 employees,74000,93000,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Navigant Consulting
+3.2",San Antonio, TX,5001 to 10000 employees,74000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"B.E.A.T.
+4.5",San Antonio, TX,51 to 200 employees,74000,93000,1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0
+Data Engineer,"DataFactZ
+3.9",San Antonio, TX,501 to 1000 employees,74000,93000,1,1,0,1,1,1,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"Speridian Technologies LLC
+3.8",San Antonio, TX,501 to 1000 employees,74000,93000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"Deacon Recruiting
+3.0",San Antonio, TX,1 to 50 employees,74000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"B E A T LLC
+4.9",San Antonio, TX,1 to 50 employees,74000,93000,1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0
+Data Engineer,GradTests (gradtests.com.au),San Antonio, TX,-1,74000,93000,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1
+Data Engineer,Tech Quarry,San Antonio, TX,Unknown,74000,93000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"NTT DATA, Inc.
+2.9",San Antonio, TX,201 to 500 employees,74000,93000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Victory Capital Management Inc.
+3.1",San Antonio, TX,201 to 500 employees,74000,93000,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1
+Senior Data Engineer,"USAA
+3.6",San Antonio, TX,10000+ employees,75000,135000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Senior Data Engineer,"H E B
+4.3",San Antonio, TX,10000+ employees,75000,135000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Senior Data Engineer,KCI Licensing,San Antonio, TX,1001 to 5000 employees,75000,135000,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,1
+Data Engineer,"Randstad
+3.6",San Antonio, TX,1001 to 5000 employees,75000,135000,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,Tech Quarry,San Antonio, TX,Unknown,75000,135000,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Reliable Software Resources
+4.0",San Antonio, TX,501 to 1000 employees,75000,135000,1,1,0,1,1,1,0,0,1,0,0,0,1,0,1,1
+Data Scientist,"Amazon
+3.9",Schertz, TX,10000+ employees,75000,135000,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+Data Engineer,"LMI
+4.0",San Antonio, TX,1001 to 5000 employees,75000,135000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"Deacon Recruiting
+3.0",San Antonio, TX,1 to 50 employees,75000,135000,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1
+Data Engineer,Danta Technologies,San Antonio, TX,1 to 50 employees,75000,135000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Diverse Lynx
+3.9",San Antonio, TX,501 to 1000 employees,44000,80000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"UnitedHealth Group
+3.3",San Antonio, TX,10000+ employees,44000,80000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"OptumCare
+3.4",San Antonio, TX,501 to 1000 employees,44000,80000,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Data Engineer,"Reliable Software Resources
+4.0",San Antonio, TX,501 to 1000 employees,44000,80000,1,1,0,1,1,1,0,0,1,0,0,0,1,0,1,1
+Senior Data Engineer,"Solekai Systems Corp
+4.2",San Antonio, TX,1 to 50 employees,44000,80000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Spectrum Comm
+3.8",Lackland AFB, TX,51 to 200 employees,44000,80000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,"Wits Solutions
+3.3",San Antonio, TX,201 to 500 employees,44000,80000,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+Data Engineer,"Guidehouse
+3.4",San Antonio, TX,5001 to 10000 employees,28000,53000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"The Accuro Group
+3.0",San Antonio, TX,201 to 500 employees,52000,63000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"CrowdRise
+4.5",San Diego, CA,201 to 500 employees,77000,181000,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"Mercato
+3.9",San Diego, CA,1 to 50 employees,77000,181000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Engineer,"Life360
+3.9",Encinitas, CA,51 to 200 employees,77000,181000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Kaygen Inc
+3.9",San Diego, CA,1 to 50 employees,77000,181000,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"SmartDrive Systems
+3.3",San Diego, CA,201 to 500 employees,77000,181000,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,1
+Data Engineer,"StepStone
+3.8",La Jolla, CA,1001 to 5000 employees,77000,181000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Itility
+4.0",San Diego, CA,51 to 200 employees,77000,181000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Curemetrix
+4.0",San Diego, CA,1 to 50 employees,77000,181000,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+Data Engineer,"Axos Bank
+3.4",San Diego, CA,1001 to 5000 employees,77000,181000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"CliniComp, Intl.
+3.8",San Diego, CA,51 to 200 employees,77000,181000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"CYNET SYSTEMS
+4.0",San Diego, CA,501 to 1000 employees,77000,181000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Engineer,"Life360
+3.9",Encinitas, CA,51 to 200 employees,113000,198000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Logic Planet
+3.1",San Diego, CA,201 to 500 employees,113000,198000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Engineer,"Humana
+3.6",San Diego, CA,10000+ employees,113000,198000,1,1,1,1,1,0,1,0,1,0,0,0,1,0,1,1
+Data Engineer,"Kitu Systems, Inc.
+4.7",San Diego, CA,1 to 50 employees,113000,198000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Inseego
+3.8",San Diego, CA,501 to 1000 employees,113000,198000,0,1,1,1,1,0,0,0,1,0,0,1,1,0,0,0
+Data Engineer,"American Specialty Health
+2.9",San Diego, CA,1001 to 5000 employees,113000,198000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Senior Data Engineer,"SBG Techology Solutions
+3.7",San Diego, CA,51 to 200 employees,113000,198000,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+Data Engineer,"Apple
+4.1",San Diego, CA,10000+ employees,113000,198000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,Decipher Biosciences,San Diego, CA,-1,113000,198000,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"Enhance IT
+2.7",San Diego, CA,51 to 200 employees,113000,198000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Dexcom, Inc.
+3.5",San Diego, CA,1001 to 5000 employees,113000,198000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Tek Leaders
+3.5",San Diego, CA,501 to 1000 employees,113000,198000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"ServiceNow
+3.7",San Diego, CA,10000+ employees,113000,198000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Engineer,"Amazon
+3.9",San Diego, CA,10000+ employees,113000,198000,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"ResMed
+4.1",San Diego, CA,5001 to 10000 employees,113000,198000,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0
+Data Scientist,"Seismic
+4.5",San Diego, CA,501 to 1000 employees,113000,198000,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0
+Senior Data Engineer,"IT Resonance Inc
+4.3",San Diego, CA,51 to 200 employees,113000,198000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Data Engineer,"IDC Technologies
+3.8",San Diego, CA,1001 to 5000 employees,46000,92000,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,"University of California
+4.2",San Diego, CA,10000+ employees,46000,92000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"INDUS Technology, Inc.
+2.9",San Diego, CA,201 to 500 employees,46000,92000,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"California State University
+4.1",San Diego, CA,10000+ employees,46000,92000,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,1
+Senior Data Engineer,"Dexcom, Inc.
+3.5",San Diego, CA,1001 to 5000 employees,46000,92000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"VLink Inc.
+3.8",San Diego, CA,201 to 500 employees,46000,92000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"UC San Diego
+4.3",San Diego, CA,10000+ employees,46000,92000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Sayva Solutions
+4.8",San Diego, CA,51 to 200 employees,46000,92000,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0
+Senior Data Engineer,"Dexcom
+3.5",San Diego, CA,1001 to 5000 employees,46000,92000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Engineer,"Housecall Pro
+4.6",San Diego, CA,51 to 200 employees,79000,132000,1,1,0,1,1,1,0,0,0,0,0,1,1,1,1,1
+Data Engineer,"PRIMUS Global Services, Inc
+3.7",San Diego, CA,501 to 1000 employees,79000,132000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Senior Data Engineer,Broadwing,Encinitas, CA,1 to 50 employees,79000,132000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Sphinix Solutions
+1.0",San Diego, CA,1 to 50 employees,79000,132000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"UC San Diego
+4.3",San Diego, CA,10000+ employees,79000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"World Wide Technology
+4.2",San Diego, CA,5001 to 10000 employees,191000,217000,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Data Engineer,"University of California - San Diego Medical Centers
+3.6",San Diego, CA,10000+ employees,191000,217000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Solekai Systems Corp
+4.2",San Diego, CA,1 to 50 employees,140000,151000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Federal Reserve Bank of Dallas
+4.1",Dallas, TX,1001 to 5000 employees,64000,124000,1,1,0,1,1,0,1,1,1,0,1,0,1,0,0,1
+Senior Data Engineer,"Federal Reserve Bank of Dallas
+4.1",Dallas, TX,1001 to 5000 employees,64000,124000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Engineer,"Avantax Wealth Management
+1.7",Irving, TX,501 to 1000 employees,64000,124000,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,1
+Data Engineer,"Allstate
+3.4",Irving, TX,10000+ employees,64000,124000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Sense Corp
+3.8",Dallas, TX,201 to 500 employees,64000,124000,1,1,0,1,1,0,1,0,1,0,0,0,0,0,1,1
+Data Engineer,"Capital One
+3.9",Plano, TX,10000+ employees,64000,124000,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Vinli
+4.6",Dallas, TX,1 to 50 employees,64000,124000,1,0,0,1,1,0,0,0,1,0,0,1,1,0,1,0
+Data Engineer,Iconic Technology Group,Dallas, TX,1 to 50 employees,64000,124000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,AdvanceSoft Inc,Plano, TX,1 to 50 employees,64000,124000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Athreya Inc
+4.5",Dallas, TX,1 to 50 employees,64000,124000,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Object Technology Solutions, Inc.
+4.0",Irving, TX,51 to 200 employees,64000,124000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Nokia
+4.1",Dallas, TX,10000+ employees,64000,124000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1
+Data Engineer,"Federal Reserve Bank
+3.7",Dallas, TX,1001 to 5000 employees,64000,124000,1,1,0,1,1,0,1,1,1,0,1,0,1,0,0,1
+Data Engineer,Palnar,Plano, TX,201 to 500 employees,64000,124000,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Senior Data Engineer,"Capital One
+3.9",Plano, TX,10000+ employees,64000,124000,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"InnovAccer
+3.8",Dallas, TX,501 to 1000 employees,64000,124000,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,1
+Senior Data Engineer,"Capital One
+3.9",Plano, TX,10000+ employees,64000,124000,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Central Business Solutions, Inc
+3.0",Dallas, TX,51 to 200 employees,64000,124000,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1
+Data Engineer,"Allstate
+3.4",Irving, TX,10000+ employees,66000,113000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Capital One
+3.9",Plano, TX,10000+ employees,66000,113000,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Federal Reserve Bank (FRB)
+4.1",Dallas, TX,1001 to 5000 employees,66000,113000,1,1,0,1,1,0,1,1,1,0,1,0,1,0,0,1
+Data Engineer,"DataSys Consulting and Software, Inc
+3.7",Dallas, TX,1 to 50 employees,66000,113000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,IT Minds LLC,Dallas, TX,1 to 50 employees,66000,113000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"V.L.S. Systems, Inc
+3.3",Plano, TX,201 to 500 employees,66000,113000,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Collabera
+4.1",Plano, TX,10000+ employees,66000,113000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"BICP
+5.0",Dallas, TX,1 to 50 employees,66000,113000,1,1,0,1,1,0,1,0,1,0,0,1,1,0,1,0
+Data Engineer,"Vaco Financial
+3.3",Dallas, TX,501 to 1000 employees,66000,113000,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1
+Data Engineer,"Diverse Lynx
+3.9",Plano, TX,501 to 1000 employees,66000,113000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Amazon
+3.9",Dallas, TX,10000+ employees,66000,113000,1,1,0,1,0,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"Central Business Solutions, Inc
+4.0",Dallas, TX,1 to 50 employees,66000,113000,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1
+Data Engineer,"IQuest Solutions Corp
+3.4",Plano, TX,1 to 50 employees,66000,113000,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Allstate
+3.4",Irving, TX,10000+ employees,66000,113000,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"JPMorgan Chase & Co.
+3.9",Lewisville, TX,10000+ employees,66000,113000,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"NTT DATA Corporation
+3.4",Irving, TX,10000+ employees,66000,113000,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,0
+Data Engineer,"Tek Leaders
+3.5",Plano, TX,501 to 1000 employees,66000,113000,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,1
+Data Engineer,"Photon Infotech
+3.0",Irving, TX,1001 to 5000 employees,66000,113000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Tata Consultancy Services
+3.8",Irving, TX,10000+ employees,66000,113000,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Data Engineer,"Thrivent
+3.3",Dallas, TX,5001 to 10000 employees,66000,113000,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Data Engineer,"InfoVision
+4.4",Plano, TX,1001 to 5000 employees,66000,113000,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Senior Data Engineer,"Federal Reserve Bank
+3.7",Dallas, TX,1001 to 5000 employees,66000,113000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Engineer,"Tachyon Technologies
+4.4",Irving, TX,201 to 500 employees,66000,113000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Onica, a Rackspace Company
+4.3",Dallas, TX,201 to 500 employees,66000,113000,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Capital One
+3.9",Plano, TX,10000+ employees,105000,110000,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Engineer,"Capital One
+3.9",Plano, TX,10000+ employees,105000,110000,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"NTT DATA Services
+3.4",Irving, TX,10000+ employees,105000,110000,1,1,1,1,1,0,1,0,1,0,1,1,1,0,0,0
+Senior Data Engineer,"Anblicks
+4.1",Dallas, TX,51 to 200 employees,105000,110000,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1
+Data Engineer,"Jnit Technologies
+3.9",Plano, TX,1 to 50 employees,105000,110000,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Elan Partners
+1.0",Dallas, TX,51 to 200 employees,105000,110000,1,1,0,1,1,0,1,0,1,0,1,0,1,0,0,1
+Data Engineer,"DataSys Consulting and Software, Inc
+3.7",Dallas, TX,1 to 50 employees,105000,110000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"HumCap, Inc.
+4.6",Allen, TX,1 to 50 employees,105000,110000,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Senior Data Engineer,"Boston Consulting Group
+4.3",Dallas, TX,10000+ employees,105000,110000,1,0,0,1,1,0,0,0,1,0,0,1,1,0,1,1
+Data Engineer,"Dealersocket
+3.9",Dallas, TX,1001 to 5000 employees,105000,110000,1,0,0,0,1,1,1,0,1,0,0,0,1,0,1,1
+Data Engineer,"CGI
+3.5",Dallas, TX,10000+ employees,105000,110000,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"Alt Shift USA
+3.9",Dallas, TX,1 to 50 employees,105000,110000,0,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Tiger Analytics
+4.6",Dallas, TX,201 to 500 employees,105000,110000,1,1,0,1,1,0,1,0,1,0,0,1,1,0,1,0
+Data Engineer,"loanDepot
+3.3",Plano, TX,5001 to 10000 employees,105000,110000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Engineer,"Federal Reserve Bank (FRB)
+4.1",Dallas, TX,1001 to 5000 employees,105000,110000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Engineer,"Nucleusteq
+5.0",Dallas, TX,201 to 500 employees,105000,110000,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0
+Data Engineer,"Fairway Independent Mortgage
+3.7",Carrollton, TX,5001 to 10000 employees,105000,110000,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"Ksquare Solutions INC.
+3.4",Dallas, TX,51 to 200 employees,105000,110000,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+Data Scientist,"Collabera
+4.1",Plano, TX,10000+ employees,105000,110000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Georgia IT Inc.
+5.0",Plano, TX,1 to 50 employees,105000,110000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"cyberThink, Inc.
+3.6",Plano, TX,201 to 500 employees,105000,110000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Hilltop Holdings
+2.9",Irving, TX,1001 to 5000 employees,105000,110000,1,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+Data Engineer,"Company Page
+4.0",Dallas, TX,1 to 50 employees,105000,110000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"OTSI
+4.6",Irving, TX,1 to 50 employees,105000,110000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Allstate
+3.4",Irving, TX,10000+ employees,60000,109000,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Diverse Lynx
+3.9",Dallas, TX,501 to 1000 employees,60000,109000,1,1,1,1,1,0,1,0,1,1,0,1,1,0,0,0
+Data Engineer,"Georgia IT Inc.
+5.0",Plano, TX,1 to 50 employees,60000,109000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Caris Life Sciences
+2.9",Irving, TX,201 to 500 employees,60000,109000,1,1,1,1,1,0,1,0,0,1,0,1,1,0,0,0
+Data Engineer,"Net2Source
+3.2",Richardson, TX,1001 to 5000 employees,60000,109000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Tata Consultancy Services (North America)
+3.7",Irving, TX,10000+ employees,60000,109000,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Data Engineer,datasysamerica,Dallas, TX,-1,60000,109000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,CloudPoint Systems inc.,Dallas, TX,1 to 50 employees,60000,109000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Thrivent
+3.3",Dallas, TX,5001 to 10000 employees,60000,109000,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+Data Engineer,"Lorven Technologies Inc
+4.0",Plano, TX,1 to 50 employees,60000,109000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+Senior Data Engineer,"Federal Reserve Bank of Richmond
+3.6",Dallas, TX,1001 to 5000 employees,60000,109000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Engineer,"MOA
+1.9",Coppell, TX,51 to 200 employees,60000,109000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"YOH
+3.3",Dallas, TX,1001 to 5000 employees,60000,109000,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0
+Data Engineer,"Goldman Sachs
+4.0",Richardson, TX,10000+ employees,60000,109000,1,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0
+Data Engineer,"Goldman Sachs
+4.0",Richardson, TX,10000+ employees,60000,109000,1,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0
+Senior Data Engineer,"Photon Infotech
+3.0",Irving, TX,1001 to 5000 employees,60000,109000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Boston Consulting Group
+4.3",Dallas, TX,10000+ employees,60000,109000,1,0,0,1,1,0,0,0,1,0,0,1,1,0,1,1
+Data Engineer,"Tachyon Technologies LLC
+4.4",Irving, TX,201 to 500 employees,60000,109000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Tiger Analytics
+4.6",Dallas, TX,201 to 500 employees,60000,109000,1,1,0,1,1,0,1,0,1,0,0,1,1,0,1,0
+Data Engineer,"US Tech Solutions, Inc.
+3.8",Plano, TX,1001 to 5000 employees,60000,109000,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Loan Depot
+2.4",Plano, TX,1 to 50 employees,60000,109000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Frontier Communications
+2.4",Allen, TX,10000+ employees,60000,109000,1,1,0,1,0,0,1,0,0,0,0,1,1,0,1,0
+Senior Data Engineer,"Allstate
+3.4",Irving, TX,10000+ employees,74000,134000,1,1,0,1,1,0,1,1,1,0,0,1,1,0,1,0
+Senior Data Engineer,"Capital One
+3.9",Plano, TX,10000+ employees,74000,134000,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Data Engineer,"CGI Technologies and Solutions, Inc.",Dallas, TX,-1,74000,134000,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"ZeniMax Media, Inc.
+3.4",Dallas, TX,201 to 500 employees,74000,134000,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Horizontal Talent
+3.9",Plano, TX,501 to 1000 employees,74000,134000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Diverse Lynx
+3.9",Dallas, TX,501 to 1000 employees,74000,134000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Jnit Technologies
+3.9",Dallas, TX,1 to 50 employees,74000,134000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Data Engineer,Interestate Batteries,Dallas, TX,-1,74000,134000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Engineer,"Idexcel Inc.
+4.1",Dallas, TX,501 to 1000 employees,74000,134000,1,1,0,1,1,0,1,0,0,0,1,1,0,0,0,0
+Data Engineer,Amgenium,Dallas, TX,1 to 50 employees,74000,134000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Enterprise Solutions Inc
+3.8",Irving, TX,51 to 200 employees,74000,134000,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Senior Data Engineer,"American Institute of Aeronautics and Astronautics
+3.8",Sunnyvale, TX,51 to 200 employees,74000,134000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Senior Data Engineer,Credera Experienced Hiring Job Board,Dallas, TX,-1,74000,134000,1,1,1,1,1,0,1,0,1,0,1,0,1,0,0,0
+Data Engineer,enwidth,Dallas, TX,-1,74000,134000,1,1,1,1,1,0,1,0,1,0,0,0,1,0,0,0
+Data Engineer,"Object Technology Solutions, Inc.
+4.0",Irving, TX,51 to 200 employees,74000,134000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,Provish Consulting,Dallas, TX,-1,74000,134000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Data Engineer,"Tek Leaders
+3.5",Irving, TX,501 to 1000 employees,74000,134000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Senior Data Engineer,"JPMorgan Chase & Co.
+3.9",Lewisville, TX,10000+ employees,74000,134000,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,Ksquareinc,Dallas, TX,-1,74000,134000,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+Data Engineer,"Diverse Lynx
+3.9",Irving, TX,501 to 1000 employees,74000,134000,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Senior Data Engineer,"Capital One
+3.9",Plano, TX,10000+ employees,110000,188000,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"InfoWay Solutions LLC
+2.6",Dallas, TX,1 to 50 employees,110000,188000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"DIVERSANT, LLC
+3.8",Addison, TX,1001 to 5000 employees,110000,188000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"IT Trailblazers
+3.9",Dallas, TX,51 to 200 employees,110000,188000,1,1,1,1,1,0,1,0,1,1,0,1,1,0,0,0
+Data Engineer,"FleishmanHillard
+3.3",Dallas, TX,1001 to 5000 employees,110000,188000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Themesoft Inc
+3.9",Plano, TX,51 to 200 employees,110000,188000,0,1,0,1,1,0,1,0,0,0,1,1,0,0,0,0
+Data Engineer,"Vdrive IT Solutions, Inc",Richardson, TX,Unknown,110000,188000,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,1
+Data Engineer,"InfoWay Solutions LLC
+2.6",Dallas, TX,1 to 50 employees,110000,188000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Conch Technologies, Inc
+4.6",Dallas, TX,51 to 200 employees,110000,188000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"YASMESOFT INC
+3.8",Irving, TX,1 to 50 employees,110000,188000,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"YASMESOFT INC
+3.8",Irving, TX,1 to 50 employees,110000,188000,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"InfoWay Solutions LLC
+2.6",Dallas, TX,1 to 50 employees,110000,188000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Eitacies
+5.0",Irving, TX,1 to 50 employees,110000,188000,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"IHS Markit
+3.5",Dallas, TX,10000+ employees,110000,188000,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0
+Senior Data Engineer,K Square Solutions Inc,Dallas, TX,-1,110000,188000,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+Data Engineer,Incendia Partners,Irving, TX,1 to 50 employees,110000,188000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Object Technology Solutions, Inc. (OTSI)",Irving, TX,-1,110000,188000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Interstate Battery System of America Inc
+3.3",Dallas, TX,1001 to 5000 employees,110000,188000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Engineer,"TMS LLC
+2.4",Plano, TX,51 to 200 employees,110000,188000,1,1,1,1,1,0,1,0,1,1,0,1,1,0,0,0
+Data Engineer,"Object Technology Solutions, Inc. (OTSI)",Irving, TX,-1,110000,188000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Intelliswift Software Inc
+3.0",Plano, TX,201 to 500 employees,110000,188000,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Maven Wave Partners
+4.5",Dallas, TX,201 to 500 employees,110000,188000,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0
+Senior Data Engineer,"Milan Solution
+2.5",Plano, TX,201 to 500 employees,110000,188000,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Data Engineer,"cyberThink, Inc.
+3.6",Plano, TX,201 to 500 employees,110000,188000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"InfoVision
+4.4",Plano, TX,1001 to 5000 employees,110000,188000,1,0,0,1,1,0,1,0,1,0,0,0,1,0,0,0
+Senior Data Engineer,"USAA
+3.6",Plano, TX,10000+ employees,75000,135000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Senior Data Engineer,"Solekai Systems Corp
+4.2",Dallas, TX,1 to 50 employees,75000,135000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"SLiQ Information Technologies
+4.3",Plano, TX,1 to 50 employees,75000,135000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,LiveMindz,Dallas, TX,51 to 200 employees,75000,135000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Object Technology Solutions, Inc.
+4.0",Irving, TX,51 to 200 employees,75000,135000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Photon Infotech
+3.0",Irving, TX,1001 to 5000 employees,75000,135000,1,1,1,1,1,1,1,0,0,0,1,1,1,0,0,0
+Data Engineer,zacxo,Lewisville, TX,51 to 200 employees,75000,135000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"InfoVision, Inc.
+4.4",Plano, TX,1001 to 5000 employees,75000,135000,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"HMS Holdings
+3.8",Irving, TX,1001 to 5000 employees,75000,135000,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Data Engineer,"Sysmind LLC
+4.1",Irving, TX,51 to 200 employees,75000,135000,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+Senior Data Engineer,"First Tech Federal Credit Union
+3.3",San Jose, CA,1001 to 5000 employees,91000,166000,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"Juniper Networks
+3.8",Cupertino, CA,5001 to 10000 employees,91000,166000,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0
+Senior Data Engineer,"Astreya
+3.3",Fremont, CA,1001 to 5000 employees,91000,166000,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1
+Data Scientist,"Privacera
+5.0",Fremont, CA,1 to 50 employees,91000,166000,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0
+Data Engineer,"AppLovin
+4.8",Palo Alto, CA,201 to 500 employees,91000,166000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Plume
+4.1",Palo Alto, CA,51 to 200 employees,91000,166000,1,1,1,1,0,0,1,0,0,0,1,1,0,0,1,0
+Data Engineer,"Edelman Financial Engines
+3.4",Santa Clara, CA,1001 to 5000 employees,91000,166000,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Tredence
+3.5",Sunnyvale, CA,501 to 1000 employees,91000,166000,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"eHealth
+3.8",Santa Clara, CA,1001 to 5000 employees,91000,166000,1,0,1,1,1,1,0,0,0,0,1,1,1,0,1,1
+Data Engineer,"SpringML
+4.5",Pleasanton, CA,1 to 50 employees,91000,166000,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"NVIDIA
+4.6",Santa Clara, CA,10000+ employees,91000,166000,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,1
+Senior Data Engineer,"Entefy
+4.3",Palo Alto, CA,1 to 50 employees,91000,166000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Telaria
+4.4",Mountain View, CA,51 to 200 employees,91000,166000,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+Data Scientist,"Northrop Grumman
+3.8",San Jose, CA,10000+ employees,91000,166000,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Senior Data Engineer,"Equinix
+3.9",Sunnyvale, CA,5001 to 10000 employees,91000,166000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Luminar Technologies
+4.1",Palo Alto, CA,201 to 500 employees,91000,166000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Astreya
+3.3",Fremont, CA,1001 to 5000 employees,164000,192000,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1
+Senior Data Engineer,"Absolute
+3.5",San Jose, CA,201 to 500 employees,164000,192000,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+Data Engineer,"Applied Intuition
+4.7",Sunnyvale, CA,1 to 50 employees,164000,192000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"PayPal
+3.9",San Jose, CA,10000+ employees,164000,192000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Engineer,"Tesla Motors
+3.4",Fremont, CA,10000+ employees,164000,192000,1,1,0,1,0,1,1,0,0,0,0,0,0,0,1,1
+Data Engineer,"BlackLine
+3.9",Pleasanton, CA,501 to 1000 employees,164000,192000,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1
+Data Engineer,"Flexton
+4.0",Santa Clara, CA,51 to 200 employees,164000,192000,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"Apple
+4.1",Santa Clara, CA,10000+ employees,164000,192000,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"Google
+4.4",Mountain View, CA,10000+ employees,164000,192000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"Slalom LLC.
+4.1",San Jose, CA,5001 to 10000 employees,164000,192000,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"Affinity Solutions
+3.0",San Jose, CA,51 to 200 employees,164000,192000,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"TalentBurst, Inc.
+3.9",Sunnyvale, CA,501 to 1000 employees,164000,192000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1
+Data Engineer,"Confluent
+4.6",Mountain View, CA,501 to 1000 employees,164000,192000,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1
+Data Engineer,"Google
+4.4",Redwood City, CA,10000+ employees,164000,192000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"EA Team, Inc.
+1.0",Mountain View, CA,51 to 200 employees,164000,192000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"TikTok
+3.8",Mountain View, CA,1001 to 5000 employees,164000,192000,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,1
+Data Engineer,"F5 Networks
+3.8",Santa Clara, CA,5001 to 10000 employees,164000,192000,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+Data Engineer,"CrowdStrike
+4.0",Sunnyvale, CA,1001 to 5000 employees,164000,192000,1,1,0,1,1,0,1,0,0,0,0,1,0,0,0,0
+Data Engineer,"Western Digital
+3.6",San Jose, CA,10000+ employees,164000,192000,1,1,0,1,0,0,1,0,0,0,0,1,1,0,0,0
+Data Engineer,"Facebook
+4.5",Menlo Park, CA,10000+ employees,164000,192000,1,0,0,1,1,0,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"FOCUSKPI INC
+3.1",Mountain View, CA,51 to 200 employees,164000,192000,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"ServiceNow
+3.7",Santa Clara, CA,10000+ employees,164000,192000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Engineer,"Synectics
+3.3",Sunnyvale, CA,201 to 500 employees,164000,192000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1
+Data Engineer,"Houzz
+3.4",Palo Alto, CA,1001 to 5000 employees,164000,192000,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,1
+Data Engineer,"Decision Minds
+3.7",Menlo Park, CA,51 to 200 employees,164000,192000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"AppLovin
+4.8",Palo Alto, CA,201 to 500 employees,108000,199000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Tredence
+3.5",Sunnyvale, CA,501 to 1000 employees,108000,199000,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Decision Minds
+3.7",Menlo Park, CA,51 to 200 employees,108000,199000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"CYNET SYSTEMS
+4.0",Milpitas, CA,501 to 1000 employees,108000,199000,1,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0
+Data Engineer,"DeepMap
+4.9",Palo Alto, CA,51 to 200 employees,108000,199000,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+Data Engineer,"Petuum
+2.5",Sunnyvale, CA,51 to 200 employees,108000,199000,1,1,1,1,1,0,1,0,1,0,0,0,1,0,1,1
+Data Engineer,"Apple
+4.1",Santa Clara, CA,10000+ employees,108000,199000,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+Senior Data Engineer,"Zoom
+4.8",San Jose, CA,1001 to 5000 employees,108000,199000,1,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0
+Data Engineer,"Apple
+4.1",Santa Clara, CA,10000+ employees,108000,199000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Data Engineer,"Indrasol
+5.0",Menlo Park, CA,1 to 50 employees,108000,199000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Engineer,"Khan Academy
+4.1",Mountain View, CA,51 to 200 employees,108000,199000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Grid Dynamics
+3.9",Mountain View, CA,1001 to 5000 employees,108000,199000,1,1,0,1,1,0,1,0,1,0,0,1,1,0,1,0
+Data Engineer,"WE Career
+2.3",Mountain View, CA,1 to 50 employees,108000,199000,1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0
+Data Engineer,"CyberCoders
+4.2",Redwood City, CA,201 to 500 employees,108000,199000,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Data Engineer,"Zoom
+4.8",San Jose, CA,1001 to 5000 employees,108000,199000,1,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0
+Data Engineer,"Trianz
+3.6",Santa Clara, CA,1001 to 5000 employees,108000,199000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Sonus Software Solutions Inc.
+3.0",Sunnyvale, CA,Unknown,108000,199000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Nextgen Technologies
+4.2",San Jose, CA,51 to 200 employees,108000,199000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Apple
+4.1",Santa Clara, CA,10000+ employees,108000,199000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,Trovetechs Inc,Mountain View, CA,Unknown,108000,199000,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0
+Data Engineer,"Saama
+3.5",Campbell, CA,1 to 50 employees,108000,199000,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Mackin
+3.4",Menlo Park, CA,51 to 200 employees,108000,199000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"IntelliPro Group Inc.
+4.1",Sunnyvale, CA,201 to 500 employees,108000,199000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Conch Technologies, Inc
+4.6",San Jose, CA,51 to 200 employees,108000,199000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Plume
+4.1",Palo Alto, CA,51 to 200 employees,77000,145000,1,1,1,1,0,0,1,0,0,0,1,1,0,0,1,0
+Data Engineer,"Edelman Financial Engines
+3.4",Santa Clara, CA,1001 to 5000 employees,77000,145000,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,"Shape Security
+4.1",Santa Clara, CA,51 to 200 employees,77000,145000,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+Data Engineer,"hiretual.com
+3.1",Mountain View, CA,1 to 50 employees,77000,145000,1,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0
+Senior Data Engineer,"The Mom Project
+4.9",Sunnyvale, CA,1 to 50 employees,77000,145000,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1
+Data Engineer,"otsi
+4.6",Fremont, CA,1 to 50 employees,77000,145000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Apple
+4.1",Santa Clara, CA,10000+ employees,77000,145000,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Sharpedge Solutions Inc
+4.7",Menlo Park, CA,Unknown,77000,145000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Safeway Inc
+3.1",Pleasanton, CA,10000+ employees,77000,145000,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0
+Data Engineer,"Nyansa
+3.9",Palo Alto, CA,1 to 50 employees,77000,145000,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"PayPal
+3.9",San Jose, CA,10000+ employees,77000,145000,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Quantum World Technologies Inc
+4.0",Menlo Park, CA,51 to 200 employees,77000,145000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Diverse Lynx
+3.9",San Jose, CA,501 to 1000 employees,77000,145000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Engineer,"Applied Intuition
+4.7",Sunnyvale, CA,1 to 50 employees,77000,145000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Aptude, Inc
+3.9",Menlo Park, CA,51 to 200 employees,77000,145000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Cadence Design Systems
+4.1",San Jose, CA,5001 to 10000 employees,77000,145000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Redolent, Inc
+3.7",Sunnyvale, CA,1 to 50 employees,77000,145000,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Central Business Solutions, Inc
+4.0",San Jose, CA,1 to 50 employees,77000,145000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Object Technology Solutions, Inc.
+4.0",Fremont, CA,51 to 200 employees,77000,145000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Itility
+3.3",San Jose, CA,51 to 200 employees,77000,145000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Akamai
+4.0",San Jose, CA,5001 to 10000 employees,77000,145000,1,1,0,1,1,1,1,0,1,0,0,1,1,0,1,1
+Data Engineer,"eHealth
+3.8",Santa Clara, CA,1001 to 5000 employees,54000,103000,1,0,1,1,1,1,0,0,0,0,1,1,1,0,1,1
+Data Engineer,"SpringML
+4.5",Pleasanton, CA,1 to 50 employees,54000,103000,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"Albertsons Companies
+3.3",Pleasanton, CA,10000+ employees,54000,103000,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0
+Data Engineer,"F5 Networks
+3.8",Santa Clara, CA,5001 to 10000 employees,54000,103000,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+Data Engineer,"Technovert
+3.9",Menlo Park, CA,51 to 200 employees,54000,103000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,Boston Services,San Jose, CA,Unknown,54000,103000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,Mobiveil Technologies Inc.,San Jose, CA,-1,54000,103000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+Data Engineer,GradTests (gradtests.com.au),San Jose, CA,-1,54000,103000,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1
+Data Engineer,"LotusFlare, Inc.
+4.0",Sunnyvale, CA,51 to 200 employees,54000,103000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Best High Technologies
+3.0",Mountain View, CA,201 to 500 employees,54000,103000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Braintree Technology Solutions
+5.0",Menlo Park, CA,1 to 50 employees,54000,103000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Data Engineer,Kforce Technology Staffing,Mountain View, CA,-1,54000,103000,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Atlassian
+4.4",Mountain View, CA,1001 to 5000 employees,54000,103000,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,1
+Data Engineer,"Xoriant Corporation
+3.6",Sunnyvale, CA,1001 to 5000 employees,54000,103000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"K-Tek Resourcing LLC
+3.9",Fremont, CA,201 to 500 employees,54000,103000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Saama Technologies Inc
+3.4",Campbell, CA,501 to 1000 employees,54000,103000,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Globex Digital Solutions
+3.4",Sunnyvale, CA,1 to 50 employees,54000,103000,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+Data Engineer,PETADATA,Fremont, CA,51 to 200 employees,54000,103000,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1
+Data Engineer,"Maania Consultancy Services
+4.6",Sunnyvale, CA,1 to 50 employees,54000,103000,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Amick Brown, LLC
+4.9",Sunnyvale, CA,1 to 50 employees,54000,103000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1
+Data Engineer,"Russell Tobin & Associates
+3.5",Sunnyvale, CA,51 to 200 employees,54000,103000,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0
+Data Engineer,"Robert Half
+3.5",Sunnyvale, CA,10000+ employees,54000,103000,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,Trovetechs Inc,Mountain View, CA,-1,54000,103000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"ByteDance
+3.8",Mountain View, CA,10000+ employees,54000,103000,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Calsoft Labs
+3.2",Sunnyvale, CA,1001 to 5000 employees,54000,103000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Engineer,"Frontend Arts
+4.5",Sunnyvale, CA,1 to 50 employees,54000,103000,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Verizon Media
+3.5",Sunnyvale, CA,10000+ employees,54000,103000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,Ertino Inc,Menlo Park, CA,-1,54000,103000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Entefy
+4.3",Palo Alto, CA,1 to 50 employees,108000,127000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Telaria
+4.4",Mountain View, CA,51 to 200 employees,108000,127000,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+Data Engineer,"CDK
+4.5",San Jose, CA,Unknown,108000,127000,1,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"pddninc.net
+5.0",Sunnyvale, CA,51 to 200 employees,108000,127000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Moveworks
+5.0",Mountain View, CA,51 to 200 employees,108000,127000,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1
+Data Engineer,"VLink Inc
+3.8",Menlo Park, CA,201 to 500 employees,108000,127000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Apple
+4.1",Santa Clara, CA,10000+ employees,108000,127000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,TEK NINJAS,Menlo Park, CA,51 to 200 employees,108000,127000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,pddninc.net,Sunnyvale, CA,-1,108000,127000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"DataStax
+3.8",Santa Clara, CA,501 to 1000 employees,108000,127000,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,"New York Technology Partners
+4.0",Menlo Park, CA,51 to 200 employees,108000,127000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Data Engineer,FutureSoft IT,Sunnyvale, CA,-1,108000,127000,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Apple
+4.1",Santa Clara, CA,10000+ employees,108000,127000,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,"Yochana
+3.2",Sunnyvale, CA,201 to 500 employees,108000,127000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Engineer,"Kforce
+4.1",Mountain View, CA,10000+ employees,108000,127000,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Facebook
+4.5",Fremont, CA,10000+ employees,108000,127000,1,0,0,1,1,0,0,0,1,0,0,0,1,0,1,1
+Data Engineer,"HCL America Inc.
+3.5",Menlo Park, CA,10000+ employees,108000,127000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"CYNET SYSTEMS
+4.0",San Jose, CA,501 to 1000 employees,108000,127000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Hippo Insurance
+5.0",Palo Alto, CA,51 to 200 employees,108000,127000,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+Data Engineer,"Lorven Technologies Inc
+4.0",Sunnyvale, CA,1 to 50 employees,108000,127000,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Nextgen Technologies
+4.2",San Jose, CA,51 to 200 employees,108000,127000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"Intelliswift Software Inc
+3.0",Sunnyvale, CA,201 to 500 employees,108000,127000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Apple
+4.1",Santa Clara, CA,10000+ employees,108000,127000,0,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0
+Data Engineer,"Yochana IT Solutions
+3.2",San Jose, CA,201 to 500 employees,108000,127000,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"B-Stock Solutions
+3.9",Belmont, CA,51 to 200 employees,108000,127000,1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0
+Data Engineer,"Deloitte
+3.9",San Jose, CA,10000+ employees,108000,127000,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"TalentBurst, Inc.
+3.9",Santa Clara, CA,501 to 1000 employees,108000,127000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"NVIDIA
+4.6",Santa Clara, CA,10000+ employees,100000,181000,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,1
+Senior Data Engineer,"Equinix
+3.9",Sunnyvale, CA,5001 to 10000 employees,100000,181000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Applicantz, Inc.",Menlo Park, CA,51 to 200 employees,100000,181000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Engineer,Stride Search,Redwood City, CA,1 to 50 employees,100000,181000,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0
+Data Engineer,"IntelliPro Group Inc.
+4.1",Sunnyvale, CA,201 to 500 employees,100000,181000,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1
+Data Engineer,"Qstride
+4.7",Sunnyvale, CA,1 to 50 employees,100000,181000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"CESUSA, INC.",San Jose, CA,-1,100000,181000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Engineer,"Apex Systems
+3.8",Menlo Park, CA,1001 to 5000 employees,100000,181000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Balyasny Asset Management
+3.9",Austin, TX,501 to 1000 employees,88000,163000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"SciPlay
+4.5",Austin, TX,201 to 500 employees,88000,163000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"SpringML
+4.5",Austin, TX,1 to 50 employees,88000,163000,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"Clinicient
+2.9",Austin, TX,51 to 200 employees,88000,163000,1,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0
+Data Engineer,"Applied Information Sciences
+4.5",Austin, TX,501 to 1000 employees,88000,163000,1,1,0,1,1,1,0,0,1,0,0,1,0,0,1,1
+Data Engineer,"Integral Ad Science
+3.5",Austin, TX,501 to 1000 employees,88000,163000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"SADA
+4.7",Austin, TX,51 to 200 employees,88000,163000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"Amazon
+3.9",Austin, TX,10000+ employees,88000,163000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1
+Data Engineer,"Apple
+4.1",Austin, TX,10000+ employees,88000,163000,1,1,0,1,1,1,1,0,0,0,0,1,0,0,1,1
+Data Engineer,"Apple
+4.1",Austin, TX,10000+ employees,88000,163000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"RunTitle
+4.2",Austin, TX,1 to 50 employees,88000,163000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Tachyon Technologies
+4.4",Austin, TX,201 to 500 employees,88000,163000,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Sense Corp
+3.8",Austin, TX,201 to 500 employees,88000,163000,1,1,0,1,1,0,1,0,1,0,0,0,0,0,1,1
+Senior Data Engineer,"SADA
+4.7",Austin, TX,51 to 200 employees,88000,163000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Scientist,"Zynga
+4.1",Austin, TX,1001 to 5000 employees,88000,163000,1,1,0,1,1,0,0,0,1,0,1,1,1,0,1,0
+Data Engineer,"Applied Information Sciences
+4.5",Austin, TX,501 to 1000 employees,88000,163000,0,1,0,1,1,1,0,0,1,0,1,0,0,0,0,1
+Data Engineer,"Treehouse Technology Group, LLC
+4.9",Austin, TX,1 to 50 employees,88000,163000,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1
+Data Engineer,"Pilytix, LLC
+3.8",Austin, TX,1 to 50 employees,88000,163000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"SpringML
+4.5",Austin, TX,1 to 50 employees,79000,96000,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,"Applied Information Sciences
+4.5",Austin, TX,501 to 1000 employees,79000,96000,1,1,0,1,1,1,0,0,1,0,0,1,0,0,1,1
+Data Engineer,"Phunware, Inc
+3.2",Austin, TX,51 to 200 employees,79000,96000,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0,0
+Data Engineer,"Scientific Games
+3.2",Austin, TX,5001 to 10000 employees,79000,96000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Data Engineer,"EtiVenture, Inc.
+4.8",Austin, TX,1 to 50 employees,79000,96000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"LMI
+4.0",Austin, TX,1001 to 5000 employees,79000,96000,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"Procore Technologies
+4.2",Austin, TX,1001 to 5000 employees,79000,96000,1,1,0,1,1,0,0,1,0,0,0,1,1,0,1,1
+Data Engineer,"Atos Syntel Inc.
+3.5",Austin, TX,10000+ employees,79000,96000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"Forcepoint
+2.9",Austin, TX,1001 to 5000 employees,79000,96000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+Data Engineer,"Octo Consulting Group
+3.9",Austin, TX,501 to 1000 employees,79000,96000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"WorldQuant
+4.0",Austin, TX,501 to 1000 employees,79000,96000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Onica, a Rackspace Company
+4.3",Austin, TX,201 to 500 employees,79000,96000,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Uplink Talent Solutions
+5.0",Austin, TX,1 to 50 employees,79000,96000,1,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0
+Data Engineer,"OBXtek
+3.4",Austin, TX,501 to 1000 employees,79000,96000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Engineer,"NRCCUA
+4.2",Austin, TX,51 to 200 employees,79000,96000,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Mastercard
+4.1",Austin, TX,10000+ employees,79000,96000,1,0,0,1,1,0,1,0,1,0,0,1,0,1,1,1
+Data Engineer,"Integrated Technology Strategies, Inc.",Austin, TX,1 to 50 employees,79000,96000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,BuildGroup Data Services,Austin, TX,-1,79000,96000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Spectrum
+2.9",Austin, TX,10000+ employees,79000,96000,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0
+Data Engineer,"ISHPI Information Technologies
+3.5",Austin, TX,201 to 500 employees,79000,96000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Unizin
+5.0",Austin, TX,1 to 50 employees,79000,96000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Engineer,Bright Metro,Austin, TX,1 to 50 employees,79000,96000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Dimensional Fund Advisors
+3.2",Austin, TX,1001 to 5000 employees,79000,96000,1,0,1,0,1,0,1,0,0,0,0,0,0,0,1,1
+Data Engineer,"IPT Associates
+3.6",Austin, TX,51 to 200 employees,79000,96000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Integral Ad Science
+3.5",Austin, TX,501 to 1000 employees,99000,177000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"SADA
+4.7",Austin, TX,51 to 200 employees,99000,177000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Data Engineer,"Applied Materials
+3.7",Austin, TX,10000+ employees,99000,177000,1,1,1,1,1,0,1,0,1,0,0,1,0,0,0,0
+Senior Data Engineer,"Infoblox Inc.
+4.3",Austin, TX,1001 to 5000 employees,99000,177000,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"Bright Health
+3.9",Austin, TX,201 to 500 employees,99000,177000,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"Pro-Sphere Tek
+3.3",Austin, TX,201 to 500 employees,99000,177000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Rekruiters LLC.
+5.0",Austin, TX,1 to 50 employees,99000,177000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1
+Senior Data Engineer,"H E B
+4.3",Austin, TX,10000+ employees,99000,177000,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Senior Data Engineer,"Intelligent Waves LLC
+4.0",Austin, TX,201 to 500 employees,99000,177000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+Data Scientist,"Amazon
+3.9",Austin, TX,10000+ employees,99000,177000,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+Data Engineer,"Saicon Consultants Inc.
+3.3",Austin, TX,201 to 500 employees,99000,177000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Thrivent
+3.3",Austin, TX,5001 to 10000 employees,99000,177000,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Senior Data Engineer,"SADA
+4.7",Austin, TX,51 to 200 employees,52000,85000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,1
+Senior Data Engineer,"Bazaarvoice
+3.7",Austin, TX,501 to 1000 employees,52000,85000,0,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1
+Senior Data Engineer,"Praetorian
+4.7",Austin, TX,51 to 200 employees,52000,85000,1,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0
+Senior Data Engineer,Civitech,Austin, TX,1 to 50 employees,52000,85000,1,0,0,1,1,1,0,0,1,0,1,1,1,0,1,1
+Senior Data Engineer,"Mastercard
+4.1",Austin, TX,10000+ employees,52000,85000,1,0,0,1,1,0,1,0,1,0,0,1,0,1,1,1
+Data Engineer,"CYNET SYSTEMS
+4.0",Austin, TX,501 to 1000 employees,52000,85000,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0
+Senior Data Engineer,"Ethos Life
+4.2",Austin, TX,51 to 200 employees,52000,85000,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1
+Senior Data Engineer,"Aunt Bertha, a Public Benefit Corp.
+4.2",Austin, TX,51 to 200 employees,52000,85000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,SNIPEBRIDGE,Austin, TX,Unknown,52000,85000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Engineer,"CyberCoders
+4.2",Austin, TX,201 to 500 employees,52000,85000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Applied Information Sciences
+4.5",Austin, TX,501 to 1000 employees,67000,126000,0,1,0,1,1,1,0,0,1,0,1,0,0,0,0,1
+Data Scientist,"Zynga
+4.1",Austin, TX,1001 to 5000 employees,67000,126000,1,1,0,1,1,0,0,0,1,0,1,1,1,0,1,0
+Data Engineer,Nigel Frank International US,Austin, TX,1001 to 5000 employees,67000,126000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"NextXap, Inc.
+1.6",Austin, TX,501 to 1000 employees,67000,126000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"Ethos
+3.1",Austin, TX,1 to 50 employees,67000,126000,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1
+Data Engineer,"Latitude, Inc.
+4.0",Austin, TX,1 to 50 employees,67000,126000,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Data Engineer,"APN Software Services Inc.
+4.1",Round Rock, TX,51 to 200 employees,67000,126000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"pddninc.net
+5.0",Austin, TX,51 to 200 employees,67000,126000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Engineer,"Allegan General Hospital
+3.7",Austin, TX,201 to 500 employees,67000,126000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Data Engineer,"Georgia IT Inc.
+5.0",Austin, TX,1 to 50 employees,67000,126000,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Engineer,"Allegan General Hospital
+3.7",Austin, TX,201 to 500 employees,67000,126000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Data Engineer,"Lorven Technologies Inc
+4.0",Austin, TX,1 to 50 employees,67000,126000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"CyberCoders
+4.2",Austin, TX,201 to 500 employees,82000,130000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Procore Technologies
+4.2",Austin, TX,1001 to 5000 employees,82000,130000,0,0,0,0,1,0,1,0,1,0,0,0,1,0,1,1
+Data Engineer,NaviSite,Austin, TX,Unknown,82000,130000,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0
+Data Engineer,"Thrivent
+3.3",Austin, TX,5001 to 10000 employees,82000,130000,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+Senior Data Engineer,"Ademco Inc.
+3.3",Austin, TX,501 to 1000 employees,82000,130000,1,1,1,1,1,0,1,0,1,0,0,0,1,0,0,0
+Data Engineer,"Integral
+2.7",Austin, TX,201 to 500 employees,82000,130000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1
+Data Engineer,"IPT Associates
+3.6",Austin, TX,51 to 200 employees,82000,130000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"BrainTree Consulting Inc
+2.7",Austin, TX,1 to 50 employees,82000,130000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Senior Data Engineer,"EtiVenture, Inc.
+4.8",Austin, TX,1 to 50 employees,82000,130000,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1
+Senior Data Scientist,"Valkyrie Intelligence
+4.7",Austin, TX,1 to 50 employees,82000,130000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Data Engineer,pddninc.net,Austin, TX,-1,82000,130000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Engineer,"Housecall Pro
+4.6",Austin, TX,51 to 200 employees,82000,130000,1,1,0,1,1,1,0,0,0,0,0,1,1,1,1,1
+Data Engineer,"Accolite Inc
+4.1",Austin, TX,501 to 1000 employees,82000,130000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,"Clearsense
+3.8",Jacksonville, FL,1 to 50 employees,27000,50000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+Data Engineer,"TekPartners
+4.3",Jacksonville, FL,501 to 1000 employees,27000,50000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,GradTests (gradtests.com.au),Jacksonville, FL,-1,27000,50000,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1
+Data Analyst,"Alluvion Staffing
+4.1",Jacksonville, FL,1 to 50 employees,27000,50000,0,1,0,0,1,1,0,0,0,0,1,1,0,0,1,0
+Data Engineer,"American Recruiting and Consulting Group
+5.0",Jacksonville, FL,51 to 200 employees,27000,50000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Engineer,"Blue Cross Blue Shield of Florida
+3.3",Jacksonville, FL,10000+ employees,27000,50000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Engineer,"ARC Group
+5.0",Jacksonville, FL,51 to 200 employees,27000,50000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Kemper
+3.1",Jacksonville, FL,5001 to 10000 employees,27000,50000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,Kaeppel Consulting,Jacksonville, FL,-1,27000,50000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Engineer,Skiltrek,Jacksonville, FL,51 to 200 employees,44000,141000,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0
+Senior Data Engineer,"Charles Schwab
+3.6",Westlake, TX,10000+ employees,65000,120000,1,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0
+Data Engineer,"Allstate
+3.4",Irving, TX,10000+ employees,65000,120000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,"Avantax Wealth Management
+1.7",Irving, TX,501 to 1000 employees,65000,120000,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,1
+Data Engineer,"Amvotech Solutions, Inc
+5.0",Fort Worth, TX,51 to 200 employees,65000,120000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+Data Scientist,"Lockheed Martin
+3.8",Fort Worth, TX,10000+ employees,65000,120000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,Headway Tek Inc,Fort Worth, TX,-1,65000,120000,1,0,0,1,1,0,0,0,1,0,1,0,0,0,1,1
+Data Engineer,"Object Technology Solutions, Inc.
+4.0",Irving, TX,51 to 200 employees,65000,120000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Quadrant, Inc.
+4.7",Fort Worth, TX,501 to 1000 employees,65000,120000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"NT Concepts
+3.3",Fort Worth, TX,501 to 1000 employees,65000,120000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Tek Leaders
+3.5",Fort Worth, TX,501 to 1000 employees,65000,120000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+Data Engineer,"Allstate
+3.4",Irving, TX,10000+ employees,65000,120000,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0
+Data Scientist,"United Software Group
+3.7",Fort Worth, TX,201 to 500 employees,65000,120000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"NTT DATA Corporation
+3.4",Irving, TX,10000+ employees,65000,120000,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1,0
+Data Engineer,"Thrivent
+3.3",Fort Worth, TX,5001 to 10000 employees,65000,120000,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Data Engineer,"Photon Infotech
+3.0",Irving, TX,1001 to 5000 employees,65000,120000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Tachyon Technologies
+4.4",Irving, TX,201 to 500 employees,65000,120000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Data Engineer,"Tata Consultancy Services
+3.8",Irving, TX,10000+ employees,65000,120000,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Data Engineer,"NTT DATA Services
+3.4",Irving, TX,10000+ employees,65000,120000,1,1,1,1,1,0,1,0,1,0,1,1,1,0,0,0
+Data Engineer,"MOA
+1.9",Coppell, TX,51 to 200 employees,65000,120000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"Allstate
+3.4",Irving, TX,10000+ employees,60000,109000,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0
+Senior Data Engineer,"Allstate
+3.4",Irving, TX,10000+ employees,60000,109000,1,1,0,1,1,0,1,1,1,0,0,1,1,0,1,0
+Senior Data Engineer,"Quadrant, Inc.
+4.7",Fort Worth, TX,501 to 1000 employees,60000,109000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Engineer,"Hilltop Holdings
+2.9",Irving, TX,1001 to 5000 employees,60000,109000,1,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+Data Engineer,"OTSI
+4.6",Irving, TX,1 to 50 employees,60000,109000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Thrivent
+3.3",Fort Worth, TX,5001 to 10000 employees,60000,109000,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+Data Engineer,"Caris Life Sciences
+2.9",Irving, TX,201 to 500 employees,60000,109000,1,1,1,1,1,0,1,0,0,1,0,1,1,0,0,0
+Data Engineer,"Tata Consultancy Services (North America)
+3.7",Irving, TX,10000+ employees,60000,109000,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Senior Data Engineer,"BICP
+5.0",Fort Worth, TX,1 to 50 employees,60000,109000,1,1,0,1,1,0,1,0,1,0,0,1,1,0,0,0
+Data Engineer,"Scuttlebutt Services, LLC",Fort Worth, TX,Unknown,60000,109000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Tachyon Technologies LLC
+4.4",Irving, TX,201 to 500 employees,60000,109000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Engineer,Node.Digital LLC,Arlington, TX,1 to 50 employees,60000,109000,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Enterprise Solutions Inc
+3.8",Irving, TX,51 to 200 employees,60000,109000,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Data Scientist,"CGI
+3.5",Arlington, TX,10000+ employees,60000,109000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Object Technology Solutions, Inc.
+4.0",Irving, TX,51 to 200 employees,60000,109000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Tek Leaders
+3.5",Irving, TX,501 to 1000 employees,60000,109000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Senior Data Engineer,"Photon Infotech
+3.0",Irving, TX,1001 to 5000 employees,60000,109000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Quadrant, Inc.
+4.7",Fort Worth, TX,501 to 1000 employees,30000,60000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Net2Source
+3.2",Coppell, TX,1001 to 5000 employees,30000,60000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"Diverse Lynx
+3.9",Irving, TX,501 to 1000 employees,30000,60000,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Data Engineer,"YASMESOFT INC
+3.8",Irving, TX,1 to 50 employees,30000,60000,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"YASMESOFT INC
+3.8",Irving, TX,1 to 50 employees,30000,60000,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Eitacies
+5.0",Irving, TX,1 to 50 employees,30000,60000,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Data Engineer,Incendia Partners,Irving, TX,1 to 50 employees,30000,60000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Object Technology Solutions, Inc. (OTSI)",Irving, TX,-1,30000,60000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Object Technology Solutions, Inc. (OTSI)",Irving, TX,-1,30000,60000,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Data Engineer,"Photon Infotech
+3.0",Irving, TX,1001 to 5000 employees,100000,160000,1,1,1,1,1,1,1,0,0,0,1,1,1,0,0,0
+Senior Data Engineer,"Object Technology Solutions, Inc.
+4.0",Irving, TX,51 to 200 employees,100000,160000,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"CoreLogic
+3.0",Irving, TX,5001 to 10000 employees,100000,160000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Avacend, Inc.
+2.5",Irving, TX,51 to 200 employees,100000,160000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Engineer,"HMS Holdings
+3.8",Irving, TX,1001 to 5000 employees,100000,160000,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Data Engineer,"CoreLogic
+3.0",Irving, TX,5001 to 10000 employees,100000,160000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,"Sysmind LLC
+4.1",Irving, TX,51 to 200 employees,100000,160000,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+Senior Data Engineer,"Charles Schwab Corporation
+3.6",Westlake, TX,10000+ employees,100000,160000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Frontend Arts
+4.5",Irving, TX,1 to 50 employees,100000,160000,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"CoreLogic
+3.0",Irving, TX,5001 to 10000 employees,100000,160000,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+Data Engineer,"Suncap Technology, Inc.",Irving, TX,-1,100000,160000,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0
+Senior Data Engineer,"Schwab
+3.5",Westlake, TX,Unknown,48000,74000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Data Engineer,"Cash Store
+2.2",Irving, TX,1001 to 5000 employees,48000,74000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Data Engineer,"Cottonwood Financial
+2.5",Irving, TX,1001 to 5000 employees,48000,74000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Senior Data Engineer,"EITAcies, Inc.
+5.0",Irving, TX,1 to 50 employees,48000,74000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Photon Infotech
+3.0",Irving, TX,1001 to 5000 employees,48000,74000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Health Management Systems, Inc.
+2.5",Irving, TX,201 to 500 employees,48000,74000,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Senior Data Engineer,"Photon Infotech
+3.0",Irving, TX,1001 to 5000 employees,56000,89000,1,1,1,1,1,1,1,0,0,0,1,1,1,0,0,0
+Senior Data Engineer,"Solekai Systems Corp
+4.2",Irving, TX,1 to 50 employees,56000,89000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"NTT DATA
+3.4",Irving, TX,10000+ employees,56000,89000,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0
+Senior Data Engineer,"Schwab
+3.5",Westlake, TX,Unknown,56000,89000,1,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0
+Senior Data Engineer,"TECHNOCRAFT Solutions
+3.4",Irving, TX,1 to 50 employees,76000,128000,1,1,0,1,1,0,1,0,1,0,0,0,1,0,1,0
+Senior Data Engineer,"Cincinnati Bell Technology Solutions
+3.7",Irving, TX,501 to 1000 employees,76000,128000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0

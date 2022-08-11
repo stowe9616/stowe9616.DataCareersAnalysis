@@ -1,0 +1,3147 @@
+Job.Title,Company.Name,City,State,Size,MinSalary,MaxSalary,python,hadoop,mongo,spark,sql,tableau,kafka,excel,azure,pandas,visualization,machinelearning,aws,saas,etl,warehouse
+Data Analyst,"Vera Institute of Justice
+3.2",New York, NY,201 to 500 employees,37000,66000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"Visiting Nurse Service of New York
+3.8",New York, NY,10000+ employees,37000,66000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Squarespace
+3.4",New York, NY,1001 to 5000 employees,37000,66000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Celerity
+4.1",New York, NY,201 to 500 employees,37000,66000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"FanDuel
+3.9",New York, NY,501 to 1000 employees,37000,66000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Point72
+3.9",New York, NY,1001 to 5000 employees,37000,66000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Two Sigma
+4.4",New York, NY,1001 to 5000 employees,37000,66000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"DMGT
+4.0",New York, NY,5001 to 10000 employees,37000,66000,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Riskified
+4.4",New York, NY,501 to 1000 employees,37000,66000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"NYU Langone Health
+4.0",New York, NY,10000+ employees,37000,66000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,BulbHead,Fairfield, NJ,1 to 50 employees,37000,66000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Montefiore Medical
+3.7",New York, NY,10000+ employees,37000,66000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Known
+3.0",New York, NY,201 to 500 employees,37000,66000,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Advisor Group
+3.4",Jersey City, NJ,1001 to 5000 employees,37000,66000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"CodeGreen Solutions
+3.6",New York, NY,1 to 50 employees,37000,66000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Undertone
+3.8",New York, NY,201 to 500 employees,37000,66000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"NYSTEC
+3.8",New York, NY,51 to 200 employees,37000,66000,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Data Analyst,"Teachers Pay Teachers
+4.9",New York, NY,51 to 200 employees,37000,66000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Macquarie Group
+3.3",New York, NY,10000+ employees,37000,66000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Andiamo
+3.5",New York, NY,201 to 500 employees,37000,66000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Dash Technologies Inc
+3.8",New York, NY,1 to 50 employees,37000,66000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Hearst Communications
+4.0",New York, NY,1 to 50 employees,37000,66000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Ro
+4.8",New York, NY,51 to 200 employees,37000,66000,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Data Analyst,"Endai
+3.7",New York, NY,1 to 50 employees,37000,66000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"BlueLabs
+4.7",New York, NY,1 to 50 employees,37000,66000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Revel
+3.6",Brooklyn, NY,51 to 200 employees,46000,87000,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1
+Data Analyst,"NALLAS CORPORATION
+3.6",Jersey City, NJ,1 to 50 employees,46000,87000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Pozent
+3.5",New York, NY,1 to 50 employees,46000,87000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Carry1st,New York, NY,-1,46000,87000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Bank of America
+3.7",New York, NY,10000+ employees,46000,87000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Nutech Information Systems
+3.6",New York, NY,1 to 50 employees,46000,87000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"The Trevor Project
+4.6",New York, NY,51 to 200 employees,46000,87000,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,1
+Data Analyst,AB InBev,New York, NY,1001 to 5000 employees,46000,87000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Whip Media Group
+5.0",New York, NY,51 to 200 employees,46000,87000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Two95 International Inc.
+4.0",New York, NY,1 to 50 employees,46000,87000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Vettery
+3.0",New York, NY,201 to 500 employees,46000,87000,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0
+Data Analyst,"Nesco Resource, LLC
+2.9",New York, NY,1001 to 5000 employees,46000,87000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Hearst Communications
+4.0",New York, NY,1 to 50 employees,46000,87000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"MediaMath
+3.6",New York, NY,501 to 1000 employees,46000,87000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Scientist,"Roku
+3.9",New York, NY,1001 to 5000 employees,46000,87000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Senior Data Analyst,"Walt Disney Co.
+4.0",New York, NY,10000+ employees,46000,87000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Xoriant Corporation
+3.7",Jersey City, NJ,1001 to 5000 employees,46000,87000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Gemini
+3.6",New York, NY,51 to 200 employees,46000,87000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Scientist,"TSR, Inc.
+3.6",Weehawken, NJ,201 to 500 employees,46000,87000,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Walt Disney Co.
+4.0",New York, NY,10000+ employees,46000,87000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Fragomen Worldwide
+3.2",New York, NY,1001 to 5000 employees,46000,87000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Bloomberg
+3.8",New York, NY,10000+ employees,46000,87000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Real Capital Analytics
+3.9",New York, NY,51 to 200 employees,46000,87000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Ro
+4.8",New York, NY,51 to 200 employees,51000,88000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Perficient
+3.6",New York, NY,1001 to 5000 employees,51000,88000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Perficient
+3.6",New York, NY,1001 to 5000 employees,51000,88000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Perficient
+3.6",New York, NY,1001 to 5000 employees,51000,88000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Kforce
+4.1",New York, NY,10000+ employees,51000,88000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"Criteo
+3.9",New York, NY,1001 to 5000 employees,51000,88000,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Royal Communications
+3.0",New York, NY,1 to 50 employees,51000,88000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Neuberger Berman
+3.7",New York, NY,1001 to 5000 employees,51000,88000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"eTeam Inc.
+3.7",New York, NY,51 to 200 employees,51000,88000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,impakt Advisors,New York, NY,1 to 50 employees,51000,88000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Current
+3.6",New York, NY,201 to 500 employees,51000,88000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Axelon Services Corporation
+3.6",New York, NY,501 to 1000 employees,51000,88000,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Discovery Communications, Inc.
+3.5",New York, NY,10000+ employees,51000,88000,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+Data Analyst,"Randstad
+3.7",Jersey City, NJ,1001 to 5000 employees,51000,88000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Mulberry Technology
+5.0",New York, NY,1 to 50 employees,51000,88000,1,0,1,0,1,1,0,0,0,1,0,0,1,0,1,0
+Data Analyst,"Two95 International Inc.
+4.0",New York, NY,1 to 50 employees,51000,88000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"SoftStandard Solutions
+4.8",New York, NY,51 to 200 employees,51000,88000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"EDO, Inc.
+5.0",New York, NY,1 to 50 employees,51000,88000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Guidepoint
+3.3",New York, NY,501 to 1000 employees,51000,88000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Mitchell Martin
+4.1",New York, NY,501 to 1000 employees,51000,88000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",New York, NY,1 to 50 employees,51000,88000,1,0,1,0,1,0,0,0,0,1,1,1,0,0,0,0
+Data Analyst,Fintech Recruiters,New York, NY,Unknown,51000,88000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Sphinix Network Solutions Inc.
+1.0",New York, NY,1 to 50 employees,51000,88000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Global Atlantic Financial Group
+4.5",New York, NY,1001 to 5000 employees,51000,88000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"FINRA
+3.4",New York, NY,1001 to 5000 employees,51000,88000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,NYU Langone Medical Center,New York, NY,-1,51000,87000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Jefferies
+3.6",New York, NY,1001 to 5000 employees,51000,87000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"RGP
+4.1",New York, NY,1001 to 5000 employees,51000,87000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Tachyon Technologies
+4.4",New York, NY,201 to 500 employees,51000,87000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Apex Systems
+3.8",Jersey City, NJ,1001 to 5000 employees,51000,87000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Hagerty Consulting
+3.2",New York, NY,1 to 50 employees,51000,87000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Gainful Health,New York, NY,1 to 50 employees,51000,87000,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+Data Analyst,"Cortex consultants LLC
+3.8",New York, NY,501 to 1000 employees,51000,87000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Medly Pharmacy
+4.7",Brooklyn, NY,201 to 500 employees,51000,87000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Fair Health
+2.3",New York, NY,1 to 50 employees,51000,87000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Peloton Interactive
+3.8",New York, NY,1001 to 5000 employees,51000,87000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"ektello
+4.6",New York, NY,201 to 500 employees,51000,87000,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,1
+Data Analyst,"Fund for Public Health
+3.0",Long Island City, NY,201 to 500 employees,51000,87000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Reliable Software Resources
+4.0",New York, NY,501 to 1000 employees,51000,87000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,Hyde Leadership Brooklyn,Brooklyn, NY,51 to 200 employees,51000,87000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Vertex Intel Systems,Jersey City, NJ,-1,51000,87000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"FJA-US Inc.
+2.8",New York, NY,51 to 200 employees,51000,87000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Averity
+5.0",New York, NY,1 to 50 employees,51000,87000,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+Data Analyst,"Capgemini
+3.8",Jersey City, NJ,10000+ employees,51000,87000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Wildlife Conservation Society
+3.4",New York, NY,1001 to 5000 employees,51000,87000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Asembia
+3.6",Florham Park, NJ,501 to 1000 employees,51000,87000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"1199SEIU Funds
+3.2",New York, NY,1001 to 5000 employees,51000,87000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Nutrafol
+3.8",New York, NY,51 to 200 employees,59000,85000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"New York Life Insurance Co
+3.5",New York, NY,10000+ employees,59000,85000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"EDP World, Inc.
+3.5",New York, NY,1 to 50 employees,59000,85000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Phyton Talent Advisors
+4.1",Jersey City, NJ,1 to 50 employees,59000,85000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",New York, NY,51 to 200 employees,59000,85000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"IBM
+3.7",New York, NY,10000+ employees,59000,85000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Scientist,"Huxley
+3.3",New York, NY,201 to 500 employees,59000,85000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Vericred
+2.9",New York, NY,1 to 50 employees,59000,85000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"Scotiabank
+3.6",New York, NY,10000+ employees,59000,85000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Child Mind Institute
+3.2",New York, NY,201 to 500 employees,59000,85000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Asset Staffing
+3.4",Newark, NJ,201 to 500 employees,59000,85000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Reliable Software Resources
+4.0",New York, NY,501 to 1000 employees,59000,85000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Hearst Television, Inc
+4.3",New York, NY,51 to 200 employees,59000,85000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Rockstar Games
+4.1",New York, NY,1001 to 5000 employees,59000,85000,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"ZDAAS
+4.4",Brooklyn, NY,1 to 50 employees,59000,85000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Decision Resources Group
+3.1",New York, NY,1001 to 5000 employees,59000,85000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Highbridge Consulting LLC
+3.0",New York, NY,1 to 50 employees,59000,85000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"NTT DATA, Inc.
+2.9",New York, NY,201 to 500 employees,59000,85000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Precision technologies corp
+4.2",New York, NY,201 to 500 employees,59000,85000,1,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0
+Data Analyst,"Cuny Research Foundation
+4.2",New York, NY,10000+ employees,59000,85000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Amazon
+3.9",New York, NY,10000+ employees,59000,85000,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"Voice
+3.4",Brooklyn, NY,Unknown,59000,85000,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"NTT DATA, Inc.
+2.9",New York, NY,201 to 500 employees,59000,85000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1
+Data Analyst,"NYU Langone Health
+4.0",New York, NY,10000+ employees,43000,76000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Mount Sinai Health System
+3.4",New York, NY,10000+ employees,43000,76000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Monkey Algorithms LLC,New York, NY,-1,43000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Halcyon Solutions, Inc.
+3.3",New York, NY,51 to 200 employees,43000,76000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Roman
+3.2",New York, NY,201 to 500 employees,43000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"COUNCIL ON ACCREDITATION
+3.8",New York, NY,51 to 200 employees,43000,76000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,APR Staffing,New York, NY,-1,43000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Mount Sinai Health System
+3.4",New York, NY,10000+ employees,43000,76000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Child Mind Institute
+3.2",New York, NY,201 to 500 employees,43000,76000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Stark HR Consulting LLC,New York, NY,-1,43000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Amenity Analytics
+3.8",New York, NY,51 to 200 employees,43000,76000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Halcyon Solutions, Inc.
+3.3",New York, NY,51 to 200 employees,43000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Vericred
+2.9",New York, NY,1 to 50 employees,43000,76000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Softcom Systems
+4.4",Weehawken, NJ,1 to 50 employees,43000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Fair Health
+2.3",New York, NY,1 to 50 employees,43000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Workforce Logiq
+3.6",Haworth, NJ,501 to 1000 employees,43000,76000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Cross River Bank
+3.3",Fort Lee, NJ,201 to 500 employees,43000,76000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+Senior Data Analyst,"NBCUniversal
+3.8",New York, NY,10000+ employees,43000,76000,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Narrativ
+3.7",New York, NY,1 to 50 employees,43000,76000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,CompuForce,New York, NY,Unknown,43000,76000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Senior Data Analyst,"Perficient
+3.6",New York, NY,1001 to 5000 employees,43000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Bounce Exchange
+4.1",New York, NY,201 to 500 employees,60000,110000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Green Key Resources
+4.5",New York, NY,201 to 500 employees,60000,110000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"22nd Century Technologies
+3.7",New York, NY,1001 to 5000 employees,60000,110000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Capgemini America, Inc.",Jersey City, NJ,-1,60000,110000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Software Guidance & Assistance
+3.7",Jersey City, NJ,51 to 200 employees,60000,110000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Metropolitan Council on Jewish Poverty
+3.2",New York, NY,201 to 500 employees,60000,110000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Take-Two Interactive Software, Inc.
+3.7",New York, NY,1001 to 5000 employees,60000,110000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,Teus Health,Newark, NJ,-1,60000,110000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Xoriant Corporation
+3.7",Jersey City, NJ,1001 to 5000 employees,60000,110000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"The Denzel Group
+4.7",South Plainfield, NJ,1 to 50 employees,60000,110000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Montefiore Medical
+3.7",New York, NY,10000+ employees,60000,110000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Cedent Consulting
+3.3",New York, NY,1 to 50 employees,60000,110000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Analyst,"ACS
+3.4",New York, NY,1 to 50 employees,60000,110000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Newspaper Administration,New York, NY,-1,60000,110000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"VISTRADA
+5.0",New York, NY,1 to 50 employees,60000,110000,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Disney Streaming Services
+3.6",New York, NY,501 to 1000 employees,60000,110000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Royal Communications Consultants Inc
+3.0",New York, NY,1 to 50 employees,60000,110000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"CASES
+3.5",New York, NY,201 to 500 employees,60000,110000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Sphinix Network Solutions Inc.
+1.0",New York, NY,1 to 50 employees,60000,110000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",New York, NY,51 to 200 employees,41000,78000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,"Earnest Research
+5.0",New York, NY,51 to 200 employees,41000,78000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Bloomberg
+3.8",New York, NY,10000+ employees,41000,78000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"APN Software Services Inc.
+4.1",New York, NY,51 to 200 employees,41000,78000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Acacia Network
+3.3",Bronx, NY,1001 to 5000 employees,41000,78000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,Miller Cang Agency,New York, NY,-1,41000,78000,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"NTT DATA
+3.4",New York, NY,10000+ employees,41000,78000,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+Senior Data Analyst,Attentive,New York, NY,1 to 50 employees,41000,78000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Fidelis Group
+3.5",Little Ferry, NJ,51 to 200 employees,41000,78000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Phyton Talent Advisors
+4.1",New York, NY,1 to 50 employees,41000,78000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Source of Future Technology Inc
+4.2",New York, NY,1 to 50 employees,41000,78000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Seven Seven Softwares
+3.1",Newark, NJ,201 to 500 employees,41000,78000,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+Senior Data Analyst,"Mobilityware
+4.5",New York, NY,51 to 200 employees,41000,78000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"TechProjects
+4.8",Jersey City, NJ,1 to 50 employees,41000,78000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"ProHEALTH Care
+2.7",Lake Success, NY,1001 to 5000 employees,41000,78000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Mount Sinai Medical Center
+3.1",New York, NY,1001 to 5000 employees,41000,78000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Professional Resource Group
+5.0",Lake Success, NY,1 to 50 employees,41000,78000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Analyst,"JPMorgan Chase
+3.9",New York, NY,10000+ employees,41000,78000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Capgemini
+3.8",Jersey City, NJ,10000+ employees,45000,88000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"IPRO
+3.0",Lake Success, NY,201 to 500 employees,45000,88000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"CASES
+3.2",New York, NY,1 to 50 employees,45000,88000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Brown Brothers Harriman
+3.3",New York, NY,1001 to 5000 employees,45000,88000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Mount Sinai Medical Center
+3.1",New York, NY,1001 to 5000 employees,45000,88000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,APR Staffing,Lake Success, NY,-1,45000,88000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Columbia University
+3.9",New York, NY,10000+ employees,45000,88000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Walt Disney Company
+4.0",New York, NY,10000+ employees,45000,88000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,"Diverse Lynx
+3.9",New York, NY,501 to 1000 employees,45000,88000,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Capgemini
+3.8",New York, NY,10000+ employees,73000,127000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,Darmor Partners,New York, NY,-1,73000,127000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Perficient
+3.6",New York, NY,1001 to 5000 employees,73000,127000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Talent Bundle LLC,New York, NY,-1,73000,127000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Nesco Resource, LLC
+2.9",New York, NY,1001 to 5000 employees,73000,127000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Museum of Ice Cream
+2.3",New York, NY,201 to 500 employees,73000,127000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,Kinship,New York, NY,1 to 50 employees,73000,127000,1,0,0,1,1,1,0,1,1,0,1,0,1,1,0,0
+Data Analyst,"APN Consulting
+4.2",New York, NY,1 to 50 employees,73000,127000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Siri InfoSolutions
+3.4",Summit, NJ,51 to 200 employees,73000,127000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Avani Technology Solutions
+4.5",New York, NY,501 to 1000 employees,73000,127000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",New York, NY,1 to 50 employees,84000,90000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Altech Star Inc.
+2.6",New York, NY,1 to 50 employees,84000,90000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Diverse Lynx
+3.9",New York, NY,501 to 1000 employees,84000,90000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"V R Della Infotech Inc
+4.1",Haworth, NJ,51 to 200 employees,84000,90000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Blue Rock Consulting
+5.0",New York, NY,1 to 50 employees,84000,90000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"Diverse Lynx
+3.9",New York, NY,501 to 1000 employees,84000,90000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Delaware Investments Colorado Municipal Income Fund, Inc",New York, NY,-1,84000,90000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"TechProjects
+4.8",New York, NY,1 to 50 employees,84000,90000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,Vestracare,Valley Stream, NY,-1,84000,90000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Informa Intelligence
+3.8",New York, NY,1001 to 5000 employees,84000,90000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Integra Managed Care
+3.5",Lake Success, NY,501 to 1000 employees,84000,90000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"RMS Computer
+3.0",Jersey City, NJ,201 to 500 employees,84000,90000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Jay Hill Repairs,Fairfield, NJ,1 to 50 employees,27000,52000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"American CyberSystems
+4.0",New York, NY,10000+ employees,27000,52000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"The Bank of New York Mellon
+3.2",New York, NY,10000+ employees,27000,52000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"M&T Bank Corporation
+3.3",New York, NY,10000+ employees,27000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,SoluStaff,Brooklyn, NY,1 to 50 employees,27000,52000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Oracle
+3.6",New York, NY,10000+ employees,27000,52000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,Equation Staffing,New York, NY,1 to 50 employees,27000,52000,0,0,0,1,1,1,0,1,0,0,1,1,0,0,1,0
+Senior Data Analyst,"AbleTo
+4.3",New York, NY,51 to 200 employees,27000,52000,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Senior Data Analyst,"Reliable Software Resources
+4.0",New York, NY,501 to 1000 employees,27000,52000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Kforce
+4.1",Summit, NJ,10000+ employees,27000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Mount Sinai Medical Center
+3.1",New York, NY,1001 to 5000 employees,27000,52000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Top Prospect Group, Inc.",New York, NY,-1,27000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Mitchell Martin
+4.1",Jersey City, NJ,501 to 1000 employees,27000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"RMS Computer
+3.0",Jersey City, NJ,201 to 500 employees,27000,52000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Hexacorp
+3.4",New York, NY,51 to 200 employees,27000,52000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"TechProjects
+4.8",New York, NY,1 to 50 employees,27000,52000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Informa
+3.2",New York, NY,10000+ employees,27000,52000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Columbia University Medical Center
+3.8",New York, NY,5001 to 10000 employees,27000,52000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Momentum Solar
+3.7",South Plainfield, NJ,501 to 1000 employees,27000,52000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Scientist,"VIVA USA INC
+4.6",Franklin Lakes, NJ,51 to 200 employees,27000,52000,1,1,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Data Analyst,"ProHEALTH Medical Management
+2.7",Lake Success, NY,1001 to 5000 employees,42000,74000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Reliable Software Resources
+4.0",New York, NY,501 to 1000 employees,42000,74000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,Maisonette Careers,Brooklyn, NY,-1,42000,74000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Saratoga Medical Center
+4.1",New York, NY,201 to 500 employees,42000,74000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"YAI/NIPD Network
+3.1",New York, NY,5001 to 10000 employees,42000,74000,1,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0
+Data Analyst,"Mount Sinai Medical Center
+3.1",New York, NY,1001 to 5000 employees,42000,74000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Quad Consultancy
+4.3",Mount Vernon, NY,1 to 50 employees,42000,74000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"1199SEIU Funds
+3.2",New York, NY,1001 to 5000 employees,42000,74000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Peloton Interactive
+3.8",New York, NY,1001 to 5000 employees,42000,74000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+Data Analyst,The Enosys Group LLC,New York, NY,1 to 50 employees,42000,74000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"EmblemHealth
+2.4",New York, NY,1001 to 5000 employees,42000,74000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Reliable Software Resources
+4.0",New York, NY,501 to 1000 employees,42000,74000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Reliable Software Resources
+4.0",New York, NY,501 to 1000 employees,42000,74000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Scientist,"Jackson Hewitt
+3.6",Jersey City, NJ,201 to 500 employees,42000,74000,1,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0
+Senior Data Analyst,"Reliable Software Resources
+4.0",New York, NY,501 to 1000 employees,42000,74000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"National Kidney Foundation
+3.2",New York, NY,51 to 200 employees,42000,74000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Scientist,"CheckedUp
+2.5",New York, NY,1 to 50 employees,42000,74000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Horizon Blue Cross Blue Shield of New Jersey
+3.6",Newark, NJ,1001 to 5000 employees,42000,74000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"IPRO
+3.0",Lake Success, NY,201 to 500 employees,42000,74000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Criteo
+3.9",New York, NY,1001 to 5000 employees,77000,132000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Analyst,"EmblemHealth
+2.4",New York, NY,1001 to 5000 employees,77000,132000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"ERGO
+2.8",New York, NY,1 to 50 employees,77000,132000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"ACT Consulting
+4.4",New York, NY,1 to 50 employees,77000,132000,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",New York, NY,51 to 200 employees,77000,132000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,"8K Miles Software Services, Inc.
+3.7",New York, NY,201 to 500 employees,77000,132000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Sky I.T. Group (Sky Business Intelligence Team),New York, NY,-1,77000,132000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+Data Analyst,"Robert Half
+3.5",Jersey City, NJ,10000+ employees,77000,132000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Village Care
+2.0",New York, NY,501 to 1000 employees,77000,132000,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+Data Analyst,Softinc,New York, NY,51 to 200 employees,77000,132000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"KnowledgePro, LLC",New York, NY,-1,77000,132000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Creative Data Resources
+5.0",New York, NY,1 to 50 employees,77000,132000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Analyst,"EVERSANA
+3.4",New York, NY,1001 to 5000 employees,77000,132000,1,0,0,0,1,1,0,0,1,0,1,0,1,0,1,0
+Senior Data Analyst,"National Grid USA
+3.6",Brooklyn, NY,10000+ employees,77000,132000,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Barnabas Health
+2.1",West Orange, NJ,501 to 1000 employees,77000,132000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"RMS Computer Corporation
+3.0",Jersey City, NJ,201 to 500 employees,77000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"RAMPS International Inc
+4.5",New York, NY,51 to 200 employees,77000,132000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Episcopal Health Services Inc.,Far Rockaway, NY,-1,77000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"NYU Langone Health
+4.0",New York, NY,10000+ employees,77000,132000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Professional Resource Group
+5.0",Lake Success, NY,1 to 50 employees,77000,132000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Altice USA
+3.0",Long Island City, NY,10000+ employees,77000,132000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Reliable Software Resources
+4.0",Florham Park, NJ,501 to 1000 employees,98000,114000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"The Bank of New York Mellon
+3.2",Florham Park, NJ,10000+ employees,98000,114000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Atrium Staffing
+3.3",Parsippany, NJ,51 to 200 employees,98000,114000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Metroplus Health Plan
+2.7",New York, NY,1001 to 5000 employees,98000,114000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Avani Technology Solutions
+4.5",Whippany, NJ,501 to 1000 employees,98000,114000,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+Senior Data Analyst,"Riskified
+4.4",New York, NY,501 to 1000 employees,98000,114000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,IPro.org,Great Neck, NY,-1,98000,114000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Cecelia Health
+4.3",New York, NY,51 to 200 employees,98000,114000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"TechProjects
+4.8",Jersey City, NJ,1 to 50 employees,98000,114000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"IPRO
+3.0",Lake Success, NY,201 to 500 employees,98000,114000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"CyberCoders
+4.2",Hoboken, NJ,201 to 500 employees,98000,114000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"RWJBarnabas Health
+3.7",West Orange, NJ,10000+ employees,98000,114000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Capgemini
+3.8",Jersey City, NJ,10000+ employees,48000,96000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,Village Care,New York, NY,Unknown,48000,96000,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+Data Analyst,Clear Technology Consulting,New York, NY,-1,48000,96000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",Harrison, NY,1 to 50 employees,48000,96000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"BNY Mellon
+3.2",Florham Park, NJ,10000+ employees,48000,96000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,NYU Family Health Centers,Brooklyn, NY,-1,48000,96000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",New York, NY,51 to 200 employees,48000,96000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Scientist,"The Bank of New York Mellon
+3.2",New York, NY,10000+ employees,48000,96000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"HomeBridge Financial Services
+3.1",Iselin, NJ,1001 to 5000 employees,48000,96000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Sharp Electronics Corporation
+3.9",Montvale, NJ,1001 to 5000 employees,48000,96000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,JR Cigar/MC Management,Whippany, NJ,-1,48000,96000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1
+Senior Data Analyst,"Avani Technology Solutions
+4.5",Brooklyn, NY,501 to 1000 employees,48000,96000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Care Design New York
+3.2",Bronx, NY,1001 to 5000 employees,48000,96000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"ACT Consulting
+4.4",Parsippany, NJ,1 to 50 employees,48000,96000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"TekniSMart Solutions
+3.8",Franklin Lakes, NJ,1 to 50 employees,48000,96000,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+Data Analyst,HOUSING AUTHORITY OF THE COUNTY OF SALT LAKE,Salt Lake City, UT,51 to 200 employees,26000,47000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"CAO Group, INC
+2.0",West Jordan, UT,51 to 200 employees,26000,47000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"University of Utah
+4.2",Salt Lake City, UT,10000+ employees,26000,47000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Paladin Consulting Inc
+3.6",Salt Lake City, UT,501 to 1000 employees,26000,47000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"SunTechPros, Inc.
+4.3",Salt Lake City, UT,1 to 50 employees,26000,47000,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+Data Analyst,"SGI Global, LLC
+4.0",Salt Lake City, UT,501 to 1000 employees,26000,47000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"HCL Global Systems
+4.3",Salt Lake City, UT,10000+ employees,26000,47000,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+Data Analyst,"Abnormal Security
+4.1",Lehi, UT,51 to 200 employees,26000,47000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Vimerse
+4.5",Salt Lake City, UT,51 to 200 employees,26000,47000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Akraya Inc.
+4.6",Salt Lake City, UT,51 to 200 employees,26000,47000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"Idexcel Inc.
+4.1",Salt Lake City, UT,501 to 1000 employees,26000,47000,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+Data Engineer,"SPECTRAFORCE TECHNOLOGIES Inc.
+3.6",Salt Lake City, UT,501 to 1000 employees,26000,47000,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+Data Analyst,"Easton Technical Products
+2.6",Salt Lake City, UT,201 to 500 employees,26000,47000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"CIVICA INC
+3.0",Lehi, UT,1 to 50 employees,26000,47000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,1
+Data Analyst,"VED Software Services, Inc.
+2.9",Salt Lake City, UT,51 to 200 employees,26000,47000,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+Senior Data Analyst,"Ascential
+3.4",Salt Lake City, UT,1001 to 5000 employees,26000,47000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Data Analyst,Artius Solutions,Salt Lake City, UT,-1,26000,47000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Vimerse
+4.5",Salt Lake City, UT,51 to 200 employees,26000,47000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"F5 Networks
+3.8",Draper, UT,5001 to 10000 employees,26000,47000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,"Janus International Group, LLC
+2.7",Lehi, UT,501 to 1000 employees,26000,47000,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0
+Data Analyst,"ClientSolv Technologies
+3.3",American Fork, UT,51 to 200 employees,26000,47000,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+Senior Data Analyst,DrangKro Aerospace,Salt Lake City, UT,-1,26000,47000,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+Data Analyst,POPi/o Mobile Video Cloud,Sandy, UT,-1,26000,47000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Resiliency LLC
+5.0",Salt Lake City, UT,1 to 50 employees,26000,47000,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+Data Analyst,"Vivint Solar
+3.5",Lehi, UT,1001 to 5000 employees,26000,47000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"YORKTOWN SYSTEMS GROUP INC
+3.5",Riverton, UT,501 to 1000 employees,26000,47000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Shape Security
+4.1",Draper, UT,51 to 200 employees,26000,47000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Vivint Solar
+3.5",Lehi, UT,1001 to 5000 employees,31000,59000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"VED Software Services, Inc.
+2.9",Salt Lake City, UT,51 to 200 employees,31000,59000,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+Data Analyst,"Robert Half
+3.5",Reedley, CA,10000+ employees,47000,81000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"TCOE
+3.7",Visalia, CA,1 to 50 employees,47000,81000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Public Health Foundation Enterprises, In
+3.3",Hanford, CA,1001 to 5000 employees,47000,81000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Hampton University
+2.5",Hampton, VA,1001 to 5000 employees,43000,69000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Patient Advocate Foundation
+2.7",Hampton, VA,51 to 200 employees,43000,69000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Hampton, VA,51 to 200 employees,43000,69000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Orbis, Inc.
+4.9",Portsmouth, VA,201 to 500 employees,43000,69000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Bluemont Technology & Research, Inc.
+1.0",Norfolk, VA,1 to 50 employees,43000,69000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"ForKids, inc
+3.5",Norfolk, VA,51 to 200 employees,43000,69000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Hampton, VA,51 to 200 employees,43000,69000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Orbis, Inc.
+4.9",Portsmouth, VA,201 to 500 employees,43000,69000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Dunhill Professional Search
+3.4",Chesapeake, VA,1 to 50 employees,43000,69000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Booz Allen Hamilton
+3.8",Suffolk, VA,10000+ employees,43000,69000,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+Data Analyst,"EVMS
+1.0",Norfolk, VA,501 to 1000 employees,43000,69000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Epsilon Systems Solutions, Inc.
+3.5",Norfolk, VA,501 to 1000 employees,43000,69000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Counter Threat Solutions
+5.0",Norfolk, VA,51 to 200 employees,43000,69000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Hampton, VA,51 to 200 employees,43000,69000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"ITA International
+3.0",Newport News, VA,201 to 500 employees,43000,69000,1,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0
+Data Analyst,"Oasis Systems
+3.8",Hampton, VA,1001 to 5000 employees,43000,69000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Orbis, Inc.
+4.9",Portsmouth, VA,201 to 500 employees,43000,69000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Oasis Systems, LLC
+3.8",Hampton, VA,1001 to 5000 employees,43000,69000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Occam Solutions Inc
+3.1",Virginia Beach, VA,1 to 50 employees,43000,69000,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Orbis, Inc.
+4.9",Portsmouth, VA,201 to 500 employees,43000,69000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Analytical Mechanics Associates
+3.5",Hampton, VA,201 to 500 employees,49000,112000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Bluemont Technology & Research, Inc.
+1.0",Norfolk, VA,1 to 50 employees,49000,112000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Counter Threat Solutions
+5.0",Norfolk, VA,51 to 200 employees,49000,112000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Guidehouse
+3.4",Norfolk, VA,5001 to 10000 employees,49000,112000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Tamayo Federal Solutions, LLC",Portsmouth, VA,-1,49000,112000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Guidehouse
+3.4",Norfolk, VA,5001 to 10000 employees,49000,112000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"CACI International
+3.6",Norfolk, VA,10000+ employees,49000,112000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Tamayo Federal Solutions, LLC",Portsmouth, VA,-1,49000,112000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"PROSOFT
+3.7",Norfolk, VA,201 to 500 employees,49000,112000,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+Senior Data Analyst,"Tamayo Federal Solutions, LLC",Portsmouth, VA,-1,49000,112000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Gainesville, FL,51 to 200 employees,30000,54000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Gainesville, FL,51 to 200 employees,30000,54000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"University of Florida
+4.3",Gainesville, FL,10000+ employees,30000,54000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Gainesville, FL,51 to 200 employees,30000,54000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Gainesville, FL,51 to 200 employees,30000,54000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Stamps.com
+3.1",El Segundo, CA,1001 to 5000 employees,55000,103000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Headspace
+3.6",Santa Monica, CA,201 to 500 employees,55000,103000,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Wellth Inc.
+5.0",Los Angeles, CA,1 to 50 employees,55000,103000,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Data Analyst,People Tree,Hermosa Beach, CA,1 to 50 employees,55000,103000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Los Angeles, CA,51 to 200 employees,55000,103000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"First Professional Services
+5.0",Los Angeles, CA,51 to 200 employees,55000,103000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Steady
+3.6",Los Angeles, CA,1 to 50 employees,55000,103000,1,0,0,1,1,1,0,0,0,0,1,1,1,0,1,1
+Data Analyst,"ConsultNet, LLC
+4.3",Burbank, CA,201 to 500 employees,55000,103000,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Signal Sciences
+4.3",Los Angeles, CA,51 to 200 employees,55000,103000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"HireTalent
+4.5",Los Angeles, CA,201 to 500 employees,55000,103000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Dave
+4.3",Los Angeles, CA,1 to 50 employees,55000,103000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Expertise LLC,Los Angeles, CA,1 to 50 employees,55000,103000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",Los Angeles, CA,1 to 50 employees,55000,103000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,Eleven Recruiting - CHURN,Los Angeles, CA,1 to 50 employees,55000,103000,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Data Analyst,"ICONMA
+3.6",Culver City, CA,1001 to 5000 employees,55000,103000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"HITRECORD
+3.5",Los Angeles, CA,1 to 50 employees,55000,103000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Dot818
+5.0",Glendale, CA,1 to 50 employees,55000,103000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"DatamanUSA
+3.4",Los Angeles, CA,51 to 200 employees,55000,103000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Eleven Recruiting - CHURN,Los Angeles, CA,-1,55000,103000,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Data Analyst,"Robert Half
+3.5",El Segundo, CA,10000+ employees,55000,103000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Radiology Partners
+3.2",El Segundo, CA,1001 to 5000 employees,55000,103000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"PeerStreet
+4.7",El Segundo, CA,51 to 200 employees,55000,103000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"PlayQ
+4.7",Santa Monica, CA,51 to 200 employees,55000,103000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Lucky Day
+4.0",Los Angeles, CA,1 to 50 employees,55000,103000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Center For Policing Equity,Los Angeles, CA,51 to 200 employees,37000,70000,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Swinerton Builders
+4.1",Los Angeles, CA,1001 to 5000 employees,37000,70000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Relevante, Inc.
+3.1",Los Angeles, CA,51 to 200 employees,37000,70000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"iSpace, Inc
+3.7",Glendale, CA,51 to 200 employees,37000,70000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Kharon,Los Angeles, CA,51 to 200 employees,37000,70000,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"System1
+3.8",Venice, CA,201 to 500 employees,37000,70000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Tilde Staff Inc.
+5.0",Pasadena, CA,1 to 50 employees,37000,70000,1,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0
+Senior Data Analyst,"Hulu
+3.8",Santa Monica, CA,1001 to 5000 employees,37000,70000,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Login Consulting Services
+3.8",El Segundo, CA,51 to 200 employees,37000,70000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Delmarva Foundation
+3.1",Cerritos, CA,501 to 1000 employees,37000,70000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,NextDeavor Services,Carson, CA,-1,37000,70000,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0
+Data Analyst,"Cenergy
+3.5",Irwindale, CA,51 to 200 employees,37000,70000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Electronic Arts
+3.9",Los Angeles, CA,5001 to 10000 employees,37000,70000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Capital Group
+3.9",Los Angeles, CA,5001 to 10000 employees,37000,70000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"AIDS Healthcare Foundation
+4.7",Los Angeles, CA,1001 to 5000 employees,37000,70000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Lucky Day
+4.0",Los Angeles, CA,1 to 50 employees,37000,70000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Arize Corporation
+2.9",Anaheim, CA,201 to 500 employees,37000,70000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"SAG-AFTRA Health Plan and SAG-Producers Pension Plan
+2.8",Burbank, CA,Unknown,37000,70000,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Computershare
+3.1",El Segundo, CA,10000+ employees,37000,70000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Los Angeles, CA,51 to 200 employees,37000,70000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Cenergy International
+3.2",Irwindale, CA,51 to 200 employees,57000,103000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Scale Media
+5.0",Los Angeles, CA,1 to 50 employees,57000,103000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Mobilityware
+4.5",Los Angeles, CA,51 to 200 employees,57000,103000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Acorns
+3.9",Anaheim, CA,201 to 500 employees,57000,103000,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"LEAPROS
+5.0",Long Beach, CA,1 to 50 employees,57000,103000,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+Data Analyst,Kforce Technology Staffing,Los Angeles, CA,-1,57000,103000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"L.A. Care Health Plan
+3.1",Los Angeles, CA,1001 to 5000 employees,57000,103000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Superior Court of California County of Los Angeles
+3.6",Los Angeles, CA,1001 to 5000 employees,57000,103000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Tillster
+3.3",Los Angeles, CA,51 to 200 employees,57000,103000,1,0,0,0,1,1,0,1,0,1,1,1,0,0,1,0
+Data Analyst,"Tripalink
+3.7",Los Angeles, CA,1 to 50 employees,57000,103000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Senior Data Analyst,"TutorMe
+4.6",Los Angeles, CA,51 to 200 employees,57000,103000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Century Group (CA)
+4.5",El Segundo, CA,51 to 200 employees,57000,103000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Netflix, Inc.
+3.9",Los Angeles, CA,1001 to 5000 employees,57000,103000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"UC Davis Medical Center
+3.8",Los Angeles, CA,10000+ employees,57000,103000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Tarzana
+3.0",Northridge, CA,501 to 1000 employees,57000,103000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Internet Brands
+3.4",Los Angeles, CA,1001 to 5000 employees,57000,103000,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Senior Data Analyst,"Fox Corporation
+4.0",Los Angeles, CA,5001 to 10000 employees,57000,103000,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1
+Data Analyst,"Connect International
+5.0",Los Angeles, CA,1 to 50 employees,57000,103000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"PUBG Santa Monica
+4.5",Los Angeles, CA,501 to 1000 employees,57000,103000,1,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0
+Data Analyst,"UCLA Health
+4.0",Los Angeles, CA,5001 to 10000 employees,57000,103000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Robert Half
+3.5",Los Angeles, CA,10000+ employees,57000,103000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Activision Blizzard
+3.4",El Segundo, CA,10000+ employees,57000,103000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"The Loot Company
+2.1",Los Angeles, CA,201 to 500 employees,57000,103000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"System1
+3.8",Venice, CA,201 to 500 employees,57000,103000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Los Angeles, CA,51 to 200 employees,35000,45000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,Elever Professional,Los Angeles, CA,1 to 50 employees,35000,45000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Kaiser Permanente
+4.0",Pasadena, CA,10000+ employees,35000,45000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Tecolote Research
+3.8",El Segundo, CA,501 to 1000 employees,35000,45000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Cypress HCM
+4.9",Los Angeles, CA,51 to 200 employees,35000,45000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Infonex Technologies, Inc.",Pasadena, CA,Unknown,35000,45000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"City National Bank
+3.6",Los Angeles, CA,1001 to 5000 employees,35000,45000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Bloom Ads Global Media Group,Los Angeles, CA,-1,35000,45000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Internet Brands, Inc.
+3.4",Los Angeles, CA,1001 to 5000 employees,35000,45000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Kforce
+4.1",Los Angeles, CA,10000+ employees,35000,45000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Scientist,"Beautycounter
+3.0",Santa Monica, CA,201 to 500 employees,35000,45000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"IBM
+3.7",Los Angeles, CA,10000+ employees,35000,45000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"The Wonderful Company LLC
+3.6",Los Angeles, CA,5001 to 10000 employees,35000,45000,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+Senior Data Analyst,"Akraya Inc.
+4.6",Los Angeles, CA,51 to 200 employees,35000,45000,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,Catasys Health,Santa Monica, CA,-1,35000,45000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"TikTok
+3.8",Los Angeles, CA,1001 to 5000 employees,35000,45000,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"MotorTrend Group
+2.7",El Segundo, CA,501 to 1000 employees,35000,45000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Mercury Insurance Group
+3.4",Brea, CA,1001 to 5000 employees,35000,45000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Tripalink
+3.7",Los Angeles, CA,1 to 50 employees,42000,66000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Data Analyst,Ottimo Resources,Duarte, CA,Unknown,42000,66000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"INSPIRE IT Solutions
+3.0",Monterey Park, CA,1 to 50 employees,42000,66000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Saicon Consultants Inc
+3.3",Burbank, CA,201 to 500 employees,42000,66000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Recruiting Resources, Inc.",El Segundo, CA,1 to 50 employees,42000,66000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Prime MSO, LLC.
+4.0",Glendale, CA,1 to 50 employees,42000,66000,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Senior Data Analyst,"KORE1 Technologies
+4.9",Santa Monica, CA,51 to 200 employees,42000,66000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"City National Corporation
+3.6",Los Angeles, CA,1001 to 5000 employees,42000,66000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Pddn
+5.0",Pasadena, CA,51 to 200 employees,42000,66000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Analyst,"ConsultNet, LLC
+4.3",Burbank, CA,201 to 500 employees,42000,66000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Aviana Global Technologies, Inc
+4.2",Los Angeles, CA,1 to 50 employees,42000,66000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Jam City
+3.9",Culver City, CA,501 to 1000 employees,42000,66000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Apple
+4.1",Culver City, CA,10000+ employees,42000,66000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Dollar Shave Club
+3.8",Marina del Rey, CA,201 to 500 employees,42000,66000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"TikTok
+3.8",Culver City, CA,1001 to 5000 employees,42000,66000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Recargo, Inc., makers of PlugShare",El Segundo, CA,-1,42000,66000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"City National Bank
+3.6",Beverly Hills, CA,1001 to 5000 employees,42000,66000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"U.S. Auto Parts Network, Inc.
+3.4",Torrance, CA,1001 to 5000 employees,42000,66000,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0
+Senior Data Analyst,"MyLife.com
+3.1",Los Angeles, CA,1 to 50 employees,42000,66000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Center for Family Health and Education
+1.0",Panorama City, CA,1 to 50 employees,42000,66000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+Senior Data Analyst,"DISQO
+4.7",Glendale, CA,51 to 200 employees,65000,81000,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Dot 818,Glendale, CA,-1,65000,81000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Analyst,BBCN Bank,Los Angeles, CA,-1,65000,81000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Senior Data Analyst,Launch Infotech,Signal Hill, CA,-1,65000,81000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Tech Air
+3.9",Long Beach, CA,201 to 500 employees,65000,81000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Midcom
+3.5",Azusa, CA,51 to 200 employees,65000,81000,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Data Analyst,"Odesus
+3.8",Burbank, CA,51 to 200 employees,65000,81000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Login Consulting Services
+3.8",El Segundo, CA,51 to 200 employees,65000,81000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Unilever
+4.0",Marina del Rey, CA,10000+ employees,65000,81000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Blue Shield of California
+4.1",Woodland Hills, CA,5001 to 10000 employees,65000,81000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Clear Technology Consulting,Glendale, CA,-1,65000,81000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Airgas
+3.8",Long Beach, CA,10000+ employees,65000,81000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Apollo Global Management
+3.0",El Segundo, CA,1001 to 5000 employees,65000,81000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Georgia IT Inc.
+5.0",Cerritos, CA,1 to 50 employees,65000,81000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Recargo, Inc., makers of PlugShare",El Segundo, CA,-1,65000,81000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Bank Of Hope
+2.6",Los Angeles, CA,201 to 500 employees,65000,81000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Senior Data Analyst,"SAG-AFTRA Health Plan and SAG-Producers Pension Plan
+2.8",Burbank, CA,Unknown,65000,81000,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1
+Data Analyst,"SCAN Health Plan
+3.2",Long Beach, CA,501 to 1000 employees,65000,81000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"PlayQ
+4.7",Santa Monica, CA,51 to 200 employees,65000,81000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Molina Healthcare
+3.1",Long Beach, CA,10000+ employees,65000,81000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"NetSource, Inc.
+2.5",Los Angeles, CA,51 to 200 employees,65000,81000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Quinn Group, Inc.
+3.3",City of Industry, CA,501 to 1000 employees,65000,81000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"zz-Tarzana Treatment Centers, Inc.",Northridge, CA,-1,65000,81000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Pacific Clinics
+2.9",Arcadia, CA,501 to 1000 employees,113000,132000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Quinn Group
+5.0",City of Industry, CA,51 to 200 employees,113000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,DT Professional Services,Los Angeles, CA,1 to 50 employees,113000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"LaBine & Associates
+5.0",Santa Monica, CA,1 to 50 employees,113000,132000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Quinn Company CAT
+3.3",City of Industry, CA,501 to 1000 employees,113000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"NTT DATA, Inc.
+2.9",Burbank, CA,201 to 500 employees,113000,132000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"SCAN Health Plan
+3.2",Long Beach, CA,501 to 1000 employees,113000,132000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"AppleOne
+3.3",Woodland Hills, CA,1001 to 5000 employees,113000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Login Consulting Services
+3.8",El Segundo, CA,51 to 200 employees,113000,132000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,Shapestone Inc.,Burbank, CA,-1,113000,132000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0
+Senior Data Analyst,"Blue Shield of California
+4.1",Woodland Hills, CA,5001 to 10000 employees,113000,132000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,SCAN Healthplan,Long Beach, CA,-1,113000,132000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Providence Health & Services
+3.4",Gardena, CA,10000+ employees,113000,132000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Molina Healthcare
+3.1",Long Beach, CA,10000+ employees,113000,132000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"To Help Everyone Health & Wellness Centers
+2.4",Los Angeles, CA,201 to 500 employees,113000,132000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"AppleOne
+3.3",Woodland Hills, CA,1001 to 5000 employees,113000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"USDM Life Sciences
+4.6",Santa Monica, CA,201 to 500 employees,113000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"SkillsetGroup - Professional Staffing Solutions
+2.9",Pico Rivera, CA,1 to 50 employees,113000,132000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"PIH Health
+3.6",Whittier, CA,5001 to 10000 employees,113000,132000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,KLM Careers,Anaheim, CA,-1,113000,132000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"TikTok
+3.8",Los Angeles, CA,1001 to 5000 employees,113000,132000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Mercury Insurance Group
+3.4",Brea, CA,1001 to 5000 employees,113000,132000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,TopTalentFetch,Anaheim, CA,-1,42000,63000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Stark HR Consulting LLC,Anaheim, CA,-1,42000,63000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"AlphaProTemps, A.P.R., Inc.",San Fernando, CA,-1,42000,63000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Devotion Business Solutions,Anaheim, CA,-1,42000,63000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Wintrust Financial
+3.9",Chicago, IL,1001 to 5000 employees,60000,66000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"NCSA - Next College Student Athlete
+3.7",Chicago, IL,501 to 1000 employees,60000,66000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Riskonnect
+3.7",Chicago, IL,201 to 500 employees,60000,66000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"GoHealth
+3.2",Chicago, IL,501 to 1000 employees,60000,66000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Kelly
+3.4",Downers Grove, IL,5001 to 10000 employees,60000,66000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Kelly
+3.4",Chicago, IL,5001 to 10000 employees,60000,66000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Data Analyst,"Undertone
+3.8",Chicago, IL,201 to 500 employees,60000,66000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Mike's Hard Lemonade
+2.8",Chicago, IL,201 to 500 employees,60000,66000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Allscripts
+3.3",Chicago, IL,5001 to 10000 employees,60000,66000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Circle Logistics
+3.7",Chicago, IL,201 to 500 employees,60000,66000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"University of Chicago
+4.0",Chicago, IL,10000+ employees,60000,66000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Mondo
+3.9",Chicago, IL,51 to 200 employees,60000,66000,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,KesarWeb,Chicago, IL,1 to 50 employees,60000,66000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Swoon
+4.6",Downers Grove, IL,201 to 500 employees,60000,66000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Swoon
+4.6",Downers Grove, IL,201 to 500 employees,60000,66000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Bosch Group
+4.1",Broadview, IL,10000+ employees,60000,66000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Tempus
+3.3",Chicago, IL,51 to 200 employees,60000,66000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Feeding America
+3.3",Chicago, IL,51 to 200 employees,60000,66000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"CRS Group
+4.7",Chicago, IL,51 to 200 employees,60000,66000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Peterson Technology Partners
+4.3",Chicago, IL,201 to 500 employees,60000,66000,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+Data Analyst,"BMO
+3.2",Chicago, IL,10000+ employees,60000,66000,1,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0
+Data Analyst,"AppleOne
+3.3",Downers Grove, IL,1001 to 5000 employees,60000,66000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Robert Bosch Tool Corporation
+3.1",Broadview, IL,1001 to 5000 employees,60000,66000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Chicago Public Schools
+3.5",Chicago, IL,10000+ employees,60000,66000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Milliman
+3.8",Chicago, IL,1001 to 5000 employees,60000,66000,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+Data Analyst,"BMO Financial Group
+3.7",Chicago, IL,10000+ employees,60000,66000,1,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0
+Data Analyst,"BMO
+3.2",Chicago, IL,10000+ employees,60000,66000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"UST Global
+4.2",Chicago, IL,10000+ employees,73000,82000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Analyst,"First Stop Health
+4.6",Chicago, IL,1 to 50 employees,73000,82000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"MeadWestVaco
+3.2",Woodridge, IL,10000+ employees,73000,82000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Care Advisors Inc
+3.5",Chicago, IL,1 to 50 employees,73000,82000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Ann & Robert H. Lurie Children's Hospital of Chicago
+3.7",Chicago, IL,1001 to 5000 employees,73000,82000,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"TEKsystems, Inc
+3.9",Chicago, IL,1001 to 5000 employees,73000,82000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"HNI
+3.4",Chicago, IL,5001 to 10000 employees,73000,82000,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0
+Data Analyst,"SkySource Solutions
+4.1",Downers Grove, IL,1 to 50 employees,73000,82000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Chicago, IL,51 to 200 employees,73000,82000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,"Flexport
+3.5",Chicago, IL,1001 to 5000 employees,73000,82000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Randstad
+3.7",Downers Grove, IL,1001 to 5000 employees,73000,82000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Level Ex, Inc.
+3.6",Chicago, IL,51 to 200 employees,73000,82000,1,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,Show Me Leads,Chicago, IL,-1,73000,82000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,Leap,Chicago, IL,Unknown,73000,82000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Diverse Lynx
+3.9",Chicago, IL,501 to 1000 employees,73000,82000,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Chicago, IL,51 to 200 employees,73000,82000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"CRS Group
+4.7",Chicago, IL,51 to 200 employees,73000,82000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Data Analyst,"Chicago Public Schools
+3.5",Chicago, IL,10000+ employees,73000,82000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Tempus Labs
+3.2",Chicago, IL,501 to 1000 employees,73000,82000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,TalentDash,Chicago, IL,1 to 50 employees,73000,82000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"VIVA USA INC
+4.6",Chicago, IL,51 to 200 employees,73000,82000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Senior Data Analyst,"360pi
+4.2",Chicago, IL,1 to 50 employees,73000,82000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Senior Data Analyst,"Leap
+3.9",Chicago, IL,51 to 200 employees,73000,82000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Analyst,"Braviant Holdings
+4.8",Chicago, IL,51 to 200 employees,73000,82000,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1
+Data Analyst,Bartech Group,Burr Ridge, IL,51 to 200 employees,67000,92000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",Chicago, IL,1 to 50 employees,67000,92000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Rush University Medical Center
+3.9",Chicago, IL,5001 to 10000 employees,67000,92000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"TechUSA
+2.7",Chicago, IL,1001 to 5000 employees,67000,92000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Alliant Credit Union
+3.4",Rolling Meadows, IL,501 to 1000 employees,67000,92000,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Green Key Resources
+4.5",Chicago, IL,201 to 500 employees,67000,92000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"University of Chicago
+4.0",Chicago, IL,10000+ employees,67000,92000,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+Data Analyst,"Accounting Aid Society
+3.7",Chicago, IL,1 to 50 employees,67000,92000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Roig Lawyers
+4.0",Deerfield, IL,201 to 500 employees,67000,92000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,TalentDash,Chicago, IL,1 to 50 employees,67000,92000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Invenergy
+3.8",Chicago, IL,501 to 1000 employees,67000,92000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"WIN Home Inspection
+3.9",Chicago, IL,1 to 50 employees,67000,92000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Ferrara Candy Company
+3.5",Chicago, IL,5001 to 10000 employees,67000,92000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"The Accuro Group
+3.0",Chicago, IL,201 to 500 employees,67000,92000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Numerator
+3.9",Chicago, IL,1001 to 5000 employees,67000,92000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Senior Data Analyst,"Mondo
+3.9",Chicago, IL,51 to 200 employees,67000,92000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Empire Today
+3.7",Northlake, IL,1001 to 5000 employees,67000,92000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,El Hogar del Nino - The Home of the Child,Chicago, IL,-1,67000,92000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Fast Switch, LTD
+4.3",Northbrook, IL,501 to 1000 employees,67000,92000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Sphinix Solutions
+1.0",Chicago, IL,1 to 50 employees,67000,92000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+Data Analyst,"BMO Financial Group
+3.7",Chicago, IL,10000+ employees,67000,92000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Epiq Systems
+3.6",Chicago, IL,5001 to 10000 employees,67000,92000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"MRINetwork
+4.0",Des Plaines, IL,1001 to 5000 employees,67000,92000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"PEAK6 Investments
+2.9",Chicago, IL,1001 to 5000 employees,67000,92000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"ABS Graphics
+2.5",Itasca, IL,51 to 200 employees,67000,92000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Kforce
+4.1",Evanston, IL,10000+ employees,42000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"The Chicago Lighthouse
+3.3",Chicago, IL,501 to 1000 employees,42000,76000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Genesys Talent
+4.8",Northbrook, IL,1 to 50 employees,42000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Stampede Meat, Inc.
+3.3",Bridgeview, IL,1001 to 5000 employees,42000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"ALERE
+2.8",Chicago, IL,5001 to 10000 employees,42000,76000,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1
+Data Analyst,"Kelly Mitchell Group
+3.6",Downers Grove, IL,1001 to 5000 employees,42000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"TreeHouse Foods, Inc.
+2.5",Oak Brook, IL,10000+ employees,42000,76000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Senior Data Analyst,"Chicago Public Schools
+3.5",Chicago, IL,10000+ employees,42000,76000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Sphinix Solutions
+1.0",Chicago, IL,1 to 50 employees,42000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Net2Source
+3.2",Northbrook, IL,1001 to 5000 employees,42000,76000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Ongig
+4.8",Woodridge, IL,1 to 50 employees,42000,76000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"HIMSS
+2.9",Chicago, IL,201 to 500 employees,42000,76000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"Flagstone Foods
+3.4",Oak Brook, IL,501 to 1000 employees,42000,76000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"University of Illinois at Chicago
+4.1",Chicago, IL,Unknown,42000,76000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Foresight ROI
+5.0",Chicago, IL,1 to 50 employees,42000,76000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,1
+Senior Data Analyst,"LEARN Charter School
+4.1",Chicago, IL,201 to 500 employees,42000,76000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"BankFinancial Corporation
+2.5",Downers Grove, IL,201 to 500 employees,42000,76000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Avani Technology Solutions
+4.5",Chicago, IL,501 to 1000 employees,42000,76000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Chicago Public Schools
+3.5",Chicago, IL,10000+ employees,42000,76000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Chicago, IL,51 to 200 employees,42000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,Trilogy Behavioral Health,Chicago, IL,-1,42000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Capital Management
+2.1",Chicago, IL,1 to 50 employees,42000,76000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Stark HR Consulting LLC,Chicago, IL,-1,42000,76000,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Maine Pointe
+4.5",Chicago, IL,51 to 200 employees,97000,129000,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Synchronous Solutions, Inc",Chicago, IL,1 to 50 employees,97000,129000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Scientist,"HR Pundits
+2.0",Chicago, IL,1 to 50 employees,97000,129000,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Trinity Health
+3.3",Maywood, IL,10000+ employees,97000,129000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Capgemini
+3.8",Chicago, IL,10000+ employees,97000,129000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+Senior Data Analyst,"Tempus Labs
+3.2",Chicago, IL,501 to 1000 employees,97000,129000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Robert Half
+3.5",Chicago, IL,10000+ employees,97000,129000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Jobot
+5.0",Chicago, IL,51 to 200 employees,97000,129000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1
+Senior Data Analyst,"Esquire Recruiting
+4.6",Chicago, IL,1 to 50 employees,97000,129000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Source Alliance Network LLC,Chicago, IL,1 to 50 employees,97000,129000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Tempus
+3.3",Chicago, IL,51 to 200 employees,97000,129000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Xeris Pharmaceuticals, Inc.
+5.0",Chicago, IL,51 to 200 employees,97000,129000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Sahara Management Inc.
+4.0",Rolling Meadows, IL,1 to 50 employees,97000,129000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"IlliniCare Health Plan
+2.2",Chicago, IL,1001 to 5000 employees,97000,129000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Senior Data Analyst,Medical Home Network,Chicago, IL,Unknown,97000,129000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"TechUSA
+2.7",Chicago, IL,1001 to 5000 employees,97000,129000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Metropolitan Family Services
+3.2",Chicago, IL,201 to 500 employees,97000,129000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Flexport
+3.5",Chicago, IL,1001 to 5000 employees,97000,129000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,Kbyte Systems LLC.,Chicago, IL,-1,97000,129000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Analyst,Kbyte Systems LLC.,Chicago, IL,-1,68000,87000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Senior Data Analyst,"Centene Corporation
+3.3",Chicago, IL,10000+ employees,68000,87000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"University of Illinois at Chicago
+4.1",Chicago, IL,Unknown,68000,87000,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,Kbyte Systems LLC.,Chicago, IL,-1,68000,87000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Engineer,"Retail Business Services, LLC
+3.9",Chicago, IL,1001 to 5000 employees,68000,87000,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0
+Data Analyst,"22nd Century Technologies
+3.7",Chicago, IL,1001 to 5000 employees,68000,87000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",Arlington Heights, IL,1 to 50 employees,68000,87000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Engineer,"Walgreens
+3.0",Deerfield, IL,10000+ employees,68000,87000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Scientist,"PNC Financial Services Group
+3.4",Downers Grove, IL,10000+ employees,68000,87000,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",Chicago, IL,1 to 50 employees,68000,87000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"N.F. Smith & Associates
+4.1",Houston, TX,201 to 500 employees,29000,38000,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Virtus Partners LLC
+2.8",Houston, TX,201 to 500 employees,29000,38000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Smith and Associates
+3.0",Houston, TX,1 to 50 employees,29000,38000,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Andiamo
+3.5",Houston, TX,201 to 500 employees,29000,38000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Luminess Cosmetics
+2.7",Stafford, TX,51 to 200 employees,29000,38000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Mondo
+3.9",Houston, TX,51 to 200 employees,29000,38000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"cPanel
+3.9",Houston, TX,201 to 500 employees,29000,38000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Harris County
+3.4",Houston, TX,5001 to 10000 employees,29000,38000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+Data Analyst,Entera,Houston, TX,Unknown,29000,38000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Genesys Talent
+4.8",Houston, TX,1 to 50 employees,29000,38000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Horne LLP
+3.1",Houston, TX,501 to 1000 employees,29000,38000,0,0,0,0,1,1,0,0,1,0,1,0,1,0,1,1
+Data Analyst,"McLane Global
+4.0",Houston, TX,51 to 200 employees,29000,38000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,H-GAC,Houston, TX,-1,29000,38000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Kelsey-Seybold Medical Group
+3.6",Pearland, TX,1001 to 5000 employees,29000,38000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Pareto Systems
+4.3",Stafford, TX,1 to 50 employees,29000,38000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,Houston Exponential,Houston, TX,-1,29000,38000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Houston-Galveston Area Council
+2.5",Houston, TX,51 to 200 employees,29000,38000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Rosen
+3.7",Houston, TX,201 to 500 employees,29000,38000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Randstad US
+3.7",Houston, TX,1001 to 5000 employees,29000,38000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Competentia Holding
+4.9",Houston, TX,501 to 1000 employees,29000,38000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"FIS
+3.6",Houston, TX,10000+ employees,29000,38000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Avetta, LLC
+3.9",Houston, TX,201 to 500 employees,29000,38000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Houston, TX,51 to 200 employees,47000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"HealthHelp
+2.5",Houston, TX,201 to 500 employees,47000,76000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Encore Consulting Services
+1.0",Houston, TX,1 to 50 employees,47000,76000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"GeoDigital
+2.4",Houston, TX,51 to 200 employees,47000,76000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"ForeFlight
+3.3",Houston, TX,51 to 200 employees,47000,76000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Capgemini
+3.8",Houston, TX,10000+ employees,47000,76000,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+Data Analyst,"ICF
+3.5",Houston, TX,5001 to 10000 employees,47000,76000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Corporate
+2.0",Houston, TX,1001 to 5000 employees,47000,76000,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Arthur Lawrence
+4.1",Houston, TX,201 to 500 employees,47000,76000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"EAG Services
+4.6",Houston, TX,1 to 50 employees,47000,76000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Sun and Ski Sports
+3.6",Houston, TX,501 to 1000 employees,47000,76000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Harris County
+3.4",Houston, TX,5001 to 10000 employees,47000,76000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Simplex info systems Inc,
+4.2",Houston, TX,1 to 50 employees,47000,76000,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Wellcare
+3.7",Houston, TX,5001 to 10000 employees,47000,76000,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Centene Corporation
+3.3",Houston, TX,10000+ employees,47000,76000,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Virtus Partners LLC
+2.8",Houston, TX,201 to 500 employees,47000,76000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Kelsey Seybold Clinic
+3.6",Pearland, TX,1001 to 5000 employees,47000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Harris Health System
+3.4",Houston, TX,5001 to 10000 employees,74000,123000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Smith Hanley Associates
+4.5",Houston, TX,1 to 50 employees,74000,123000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,AllRedi,Pasadena, TX,-1,74000,123000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Servient
+4.0",Houston, TX,51 to 200 employees,74000,123000,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Kelsey Seybold Clinic
+3.6",Pearland, TX,1001 to 5000 employees,74000,123000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"The Jupiter Group
+4.4",Spring, TX,51 to 200 employees,74000,123000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Kelsey-Seybold Medical Group
+3.6",Pearland, TX,1001 to 5000 employees,74000,123000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Crawford Thomas Recruiting
+5.0",Houston, TX,51 to 200 employees,74000,123000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Jobot
+5.0",Sugar Land, TX,51 to 200 employees,74000,123000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,Talbridge Corporation,Houston, TX,51 to 200 employees,74000,123000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Analyst,"Texas Dow Employees Credit Union
+3.1",Sugar Land, TX,501 to 1000 employees,74000,123000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"MUFG
+3.1",Tempe, AZ,10000+ employees,53000,94000,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Senior Data Analyst,"Integrate
+4.4",Phoenix, AZ,201 to 500 employees,53000,94000,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1
+Data Analyst,"Corbins Electric
+3.7",Phoenix, AZ,501 to 1000 employees,53000,94000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Discount Tire
+4.0",Scottsdale, AZ,10000+ employees,53000,94000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"Robert Half
+3.5",Phoenix, AZ,10000+ employees,53000,94000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"TekCom Resources, Inc.
+4.9",Phoenix, AZ,51 to 200 employees,53000,94000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Viasat
+4.1",Phoenix, AZ,5001 to 10000 employees,53000,94000,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0
+Data Analyst,"National Education Partners
+4.6",Scottsdale, AZ,201 to 500 employees,53000,94000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Parker & Lynch
+3.6",Phoenix, AZ,501 to 1000 employees,53000,94000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"The Accuro Group
+3.0",Tempe, AZ,201 to 500 employees,53000,94000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Modis
+3.2",Phoenix, AZ,5001 to 10000 employees,53000,94000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Gatestone & Co. Inc
+2.9",Phoenix, AZ,1001 to 5000 employees,53000,94000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Diverse Lynx
+3.9",Tempe, AZ,501 to 1000 employees,53000,94000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"FAMILY INVOLVEMENT CENTER
+3.6",Phoenix, AZ,1 to 50 employees,53000,94000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Career Evolutions
+2.5",Scottsdale, AZ,1 to 50 employees,53000,94000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Softcom Systems
+4.4",Tempe, AZ,1 to 50 employees,53000,94000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,Door Sales & Installations,Tempe, AZ,-1,53000,94000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"National Education Partners
+4.6",Scottsdale, AZ,201 to 500 employees,53000,94000,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"MUFG
+3.1",Tempe, AZ,10000+ employees,53000,94000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"The Paragon Group
+2.9",Scottsdale, AZ,1001 to 5000 employees,53000,94000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Amazon
+3.9",Tempe, AZ,10000+ employees,53000,94000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,MLWIZ Team,Phoenix, AZ,1 to 50 employees,46000,102000,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Net Orbit Inc
+4.3",Tempe, AZ,501 to 1000 employees,46000,102000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Shamrock Foods
+3.4",Phoenix, AZ,1001 to 5000 employees,46000,102000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1
+Senior Data Analyst,"Tech Finders
+3.4",Phoenix, AZ,1 to 50 employees,46000,102000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1
+Data Analyst,"Infotree Service Inc
+3.7",Chandler, AZ,51 to 200 employees,46000,102000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"O'Reilly Automotive
+3.1",Phoenix, AZ,10000+ employees,46000,102000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Sanford Federal,Phoenix, AZ,Unknown,46000,102000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Matrix Medical Network
+2.5",Scottsdale, AZ,1001 to 5000 employees,46000,102000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Avacend, Inc.
+2.5",Tempe, AZ,51 to 200 employees,46000,102000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Nucleusteq
+5.0",Phoenix, AZ,201 to 500 employees,46000,102000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,Isaac Elementary School District #5,Phoenix, AZ,-1,46000,102000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Edupoint
+3.3",Mesa, AZ,1 to 50 employees,46000,102000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Vanguard
+3.2",Scottsdale, AZ,10000+ employees,46000,102000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Efinancial
+3.5",Tempe, AZ,201 to 500 employees,46000,102000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Envision Healthcare
+3.0",Phoenix, AZ,10000+ employees,46000,102000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,Bartech Group,Chandler, AZ,51 to 200 employees,46000,102000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Envision Physician Services
+3.6",Phoenix, AZ,10000+ employees,46000,102000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Atos Syntel Inc.
+3.5",Phoenix, AZ,10000+ employees,46000,102000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"The Accuro Group
+3.0",Tempe, AZ,201 to 500 employees,43000,94000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"TekCom Resources, Inc.
+4.9",Phoenix, AZ,51 to 200 employees,43000,94000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Diverse Lynx
+3.9",Phoenix, AZ,501 to 1000 employees,43000,94000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Na Ali'i
+4.3",DC Ranch, AZ,201 to 500 employees,43000,94000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Capgemini America, Inc.",Tempe, AZ,-1,43000,94000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Mastech Digital
+4.5",Phoenix, AZ,1001 to 5000 employees,43000,94000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,Discount Tire Corporate Careers,Scottsdale, AZ,-1,43000,94000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Engineer,"Infotree Service Inc
+3.7",Chandler, AZ,51 to 200 employees,43000,94000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,Green Lion Search Group,Tempe, AZ,-1,43000,94000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Pegasus Knowledge Solutions
+4.2",Scottsdale, AZ,201 to 500 employees,43000,94000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Signature Consultants
+3.6",Chandler, AZ,1001 to 5000 employees,43000,94000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,Pure Flix Digital,Scottsdale, AZ,-1,43000,94000,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Data Analyst,"MUFG
+3.1",Tempe, AZ,10000+ employees,43000,94000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Softcom Systems
+4.4",Phoenix, AZ,1 to 50 employees,43000,94000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"The Judge Group, Inc.
+3.5",Tempe, AZ,1001 to 5000 employees,43000,94000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"ICST, LLC
+3.6",Glendale, AZ,501 to 1000 employees,43000,94000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Equity Methods
+3.8",Scottsdale, AZ,51 to 200 employees,43000,94000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Desert Choice Transport,Glendale, AZ,-1,43000,94000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Stantec
+3.7",Chandler, AZ,10000+ employees,43000,94000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Crisis Response Network
+3.8",Tempe, AZ,51 to 200 employees,43000,94000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,1,1
+Data Analyst,"Georgia IT Inc.
+5.0",Phoenix, AZ,1 to 50 employees,43000,94000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Kforce
+4.1",Chandler, AZ,10000+ employees,43000,94000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Kineticom
+4.1",Chandler, AZ,201 to 500 employees,43000,94000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"InterSources Inc.
+4.1",Mesa, AZ,51 to 200 employees,45000,78000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"GTN Technical Staffing
+4.0",Tempe, AZ,201 to 500 employees,45000,78000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"AOC Solutions, Inc.
+3.8",DC Ranch, AZ,51 to 200 employees,45000,78000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,LiveMindz,Tempe, AZ,51 to 200 employees,45000,78000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"MUFG
+3.1",Tempe, AZ,10000+ employees,45000,78000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,AUDACIOUS STUDIOS LLC,Tempe, AZ,Unknown,45000,78000,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0
+Data Analyst,"TransPerfect
+2.8",Tempe, AZ,1001 to 5000 employees,45000,78000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Greenphire
+3.6",King of Prussia, PA,201 to 500 employees,41000,78000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"ECRI
+3.6",Plymouth Meeting, PA,201 to 500 employees,41000,78000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"United BioSource
+2.3",Blue Bell, PA,1001 to 5000 employees,41000,78000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Revantage Corporate Services
+3.2",Fort Washington, PA,201 to 500 employees,41000,78000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Community Behavioral Health
+3.6",Philadelphia, PA,201 to 500 employees,41000,78000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,1
+Data Analyst,"STRATIS IoT Inc
+4.7",Philadelphia, PA,1 to 50 employees,41000,78000,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Ampcus Incorporated
+3.9",Philadelphia, PA,501 to 1000 employees,41000,78000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+Data Analyst,"Mondo
+3.9",Wilmington, DE,51 to 200 employees,41000,78000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Data Analyst,2000 east westmoreland st llc,King of Prussia, PA,-1,41000,78000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Mondo
+3.9",Malvern, PA,51 to 200 employees,41000,78000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Seer Interactive
+3.8",Philadelphia, PA,51 to 200 employees,41000,78000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Philadelphia, PA,51 to 200 employees,41000,78000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Tetra Tech, Inc.
+3.7",Philadelphia, PA,10000+ employees,41000,78000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Keen360, Inc.
+5.0",Horsham, PA,1 to 50 employees,41000,78000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"The Judge Group, Inc.
+3.5",Camden, NJ,1001 to 5000 employees,41000,78000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Apex Systems
+3.8",Philadelphia, PA,1001 to 5000 employees,41000,78000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+Data Analyst,"Micro-Data Systems, Inc.
+4.2",Philadelphia, PA,51 to 200 employees,41000,78000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Techligent
+3.3",Philadelphia, PA,1 to 50 employees,41000,78000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"Gopuff
+3.3",Philadelphia, PA,1001 to 5000 employees,41000,78000,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+Data Analyst,"Collabera
+4.1",Philadelphia, PA,10000+ employees,41000,78000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+Data Analyst,"University of Pennsylvania
+4.3",Philadelphia, PA,10000+ employees,41000,78000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"VSE, Inc.
+4.1",Feasterville Trevose, PA,1 to 50 employees,41000,78000,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0
+Data Analyst,"Eastern Metal Recycling
+3.5",Camden, NJ,1001 to 5000 employees,41000,78000,1,0,0,0,1,1,0,0,0,1,1,1,0,0,1,0
+Data Analyst,"Red Tettemer
+3.6",Philadelphia, PA,51 to 200 employees,41000,78000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"IntegriChain
+3.2",Philadelphia, PA,201 to 500 employees,38000,68000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"PMHCC Inc.
+2.4",Philadelphia, PA,501 to 1000 employees,38000,68000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"University of Pennsylvania
+4.3",Philadelphia, PA,10000+ employees,38000,68000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Temple University Health System
+3.5",Philadelphia, PA,5001 to 10000 employees,38000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Wittij Consulting,Philadelphia, PA,1 to 50 employees,38000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"JPMorgan Chase & Co.
+3.9",Wilmington, DE,10000+ employees,38000,68000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Philadelphia, PA,51 to 200 employees,38000,68000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Tandigm Health LLC
+4.2",West Conshohocken, PA,51 to 200 employees,38000,68000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"University of Pennsylvania
+4.3",Philadelphia, PA,10000+ employees,38000,68000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Amplify Systems,Malvern, PA,1 to 50 employees,38000,68000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,DL Staffing Solutions,Philadelphia, PA,-1,38000,68000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Change Healthcare
+2.7",King of Prussia, PA,10000+ employees,38000,68000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Bryn Mawr Communications LLC
+4.6",Wayne, PA,1 to 50 employees,38000,68000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Dextro Software Systems
+3.5",Bensalem, PA,51 to 200 employees,38000,68000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Vanguard
+3.2",Malvern, PA,10000+ employees,38000,68000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"TechUSA
+2.7",Philadelphia, PA,1001 to 5000 employees,38000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Mondo
+3.9",Philadelphia, PA,51 to 200 employees,38000,68000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"ConnectiveRx
+3.1",King of Prussia, PA,1001 to 5000 employees,38000,68000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Piper Companies
+4.5",Horsham, PA,201 to 500 employees,38000,68000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Innovative Development, LLC
+3.8",Exton, PA,51 to 200 employees,38000,68000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Philabundance
+3.2",Philadelphia, PA,201 to 500 employees,38000,68000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1
+Senior Data Analyst,"Collabera
+4.1",Philadelphia, PA,10000+ employees,38000,68000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+Data Analyst,Kforce Technology Staffing,Wilmington, DE,-1,38000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,FredBeans,Doylestown, PA,-1,38000,68000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"University of Pennsylvania
+4.3",Philadelphia, PA,10000+ employees,37000,44000,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Fred Beans Parts, Inc
+1.8",Doylestown, PA,51 to 200 employees,37000,44000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"CHOP
+3.7",Philadelphia, PA,1001 to 5000 employees,37000,44000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"University of Pennsylvania
+4.3",Philadelphia, PA,10000+ employees,37000,44000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Login Consulting Services, Inc
+3.8",Allegheny West, PA,51 to 200 employees,37000,44000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"ORS Partners
+4.0",Paoli, PA,51 to 200 employees,37000,44000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Fred Beans
+3.9",Doylestown, PA,1001 to 5000 employees,37000,44000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Zachary Piper Solutions, LLC
+3.9",Horsham, PA,51 to 200 employees,37000,44000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Infinity Consulting Solutions
+3.4",Wilmington, DE,501 to 1000 employees,37000,44000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Angeion Group
+3.2",Chester Township, PA,1 to 50 employees,37000,44000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"iTech Solutions, Inc
+3.8",Conshohocken, PA,51 to 200 employees,37000,44000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"AccessLex Institute
+2.6",West Chester, PA,51 to 200 employees,37000,44000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Vanguard
+3.2",Malvern, PA,10000+ employees,37000,44000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Freedom Mortgage
+4.2",Mount Laurel, NJ,1001 to 5000 employees,37000,44000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Weston Solutions Inc.
+3.5",West Chester, PA,1001 to 5000 employees,37000,44000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"McGrath Systems
+3.7",Berwyn, PA,1 to 50 employees,37000,44000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,DL Staffing Solutions,Newtown, PA,-1,37000,44000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+Data Analyst,"TechUSA
+2.7",Philadelphia, PA,1001 to 5000 employees,37000,44000,0,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Data Analyst,"Piper Companies
+4.5",Horsham, PA,201 to 500 employees,37000,44000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Kforce
+4.1",Wilmington, DE,10000+ employees,37000,44000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Zachary Piper Solutions, LLC
+3.9",Horsham, PA,51 to 200 employees,37000,44000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"A2C Consulting
+3.6",Philadelphia, PA,1 to 50 employees,37000,44000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Community Behavioral Health
+3.6",Philadelphia, PA,201 to 500 employees,64000,113000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"APN Software Services Inc.
+4.1",Plymouth Meeting, PA,51 to 200 employees,64000,113000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Contemporary Staffing Solutions
+4.4",Philadelphia, PA,1001 to 5000 employees,64000,113000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"The Judge Group
+3.5",Wayne, PA,1001 to 5000 employees,64000,113000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Versant Health
+2.3",Newtown Square, PA,1001 to 5000 employees,64000,113000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Micro-Data Systems Inc.
+4.2",Philadelphia, PA,51 to 200 employees,64000,113000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Tetra Tech
+3.7",Philadelphia, PA,10000+ employees,64000,113000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"NextGen Global Resources LLC
+4.3",Philadelphia, PA,501 to 1000 employees,64000,113000,1,0,0,1,1,1,1,1,0,0,1,0,1,0,0,1
+Senior Data Analyst,"Vanguard
+3.2",Malvern, PA,10000+ employees,64000,113000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"The Judge Group
+3.5",Boothwyn, PA,1001 to 5000 employees,64000,113000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"amerihealth
+3.7",Philadelphia, PA,5001 to 10000 employees,64000,113000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"GSK
+3.9",Philadelphia, PA,10000+ employees,64000,113000,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+Data Analyst,"A2C Consulting
+3.6",Philadelphia, PA,1 to 50 employees,64000,113000,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1
+Data Analyst,ConcertAI,King of Prussia, PA,-1,64000,113000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Pharmica Consulting,Norristown, PA,Unknown,64000,113000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Eurofins
+3.4",West Point, PA,10000+ employees,64000,113000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Eurofins
+3.4",West Point, PA,10000+ employees,64000,113000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Cambridge Advisory Group
+5.0",King of Prussia, PA,1 to 50 employees,64000,113000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Cooper University Health Care
+3.3",Camden, NJ,5001 to 10000 employees,64000,113000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"Diverse Lynx
+3.9",Malvern, PA,501 to 1000 employees,64000,113000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"amerihealth
+3.7",Philadelphia, PA,5001 to 10000 employees,64000,113000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Philadelphia 76ers - HBSE,Camden, NJ,-1,64000,113000,1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0
+Data Analyst,"Forfeiture Support Associates
+2.8",Philadelphia, PA,1001 to 5000 employees,64000,113000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Engineer,"Management Decisions, Inc.
+1.6",Philadelphia, PA,1 to 50 employees,64000,113000,1,0,0,0,1,1,0,0,0,0,1,1,1,0,1,0
+Senior Data Analyst,"TechUSA
+2.7",Philadelphia, PA,1001 to 5000 employees,64000,113000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"SRG Woolf
+4.6",King of Prussia, PA,1 to 50 employees,50000,93000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Analyst,"Login Consulting Services, Inc
+3.8",Allegheny West, PA,51 to 200 employees,50000,93000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Eurofins USA PSS Insourcing Solutions,West Point, PA,-1,50000,93000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"The Judge Group
+3.5",Wilmington, DE,1001 to 5000 employees,50000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,EUROFINS SCIENT.,West Point, PA,-1,50000,93000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Wilmington, DE,51 to 200 employees,50000,93000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Management Decisions, Inc.
+1.6",Philadelphia, PA,1 to 50 employees,50000,93000,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+Data Analyst,"Fox Chase Cancer Center
+4.0",Philadelphia, PA,1001 to 5000 employees,50000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Technocrafts, Inc.
+3.9",San Antonio, TX,1 to 50 employees,37000,68000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Ionidea
+3.4",San Antonio, TX,1001 to 5000 employees,37000,68000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"CYNET SYSTEMS
+4.0",San Antonio, TX,501 to 1000 employees,37000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Integrated Resources
+3.1",San Antonio, TX,201 to 500 employees,37000,68000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Deacon Recruiting
+3.0",San Antonio, TX,1 to 50 employees,37000,68000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Diverse Lynx
+3.9",San Antonio, TX,501 to 1000 employees,37000,68000,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Huntington Ingalls Industries
+3.7",San Antonio, TX,10000+ employees,37000,68000,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Principle Auto
+4.1",San Antonio, TX,501 to 1000 employees,37000,68000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"C2 GPS- Alamo Workforce
+3.4",San Antonio, TX,501 to 1000 employees,37000,68000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Vinsari
+2.5",San Antonio, TX,51 to 200 employees,37000,68000,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"CICONIX, LLC
+4.0",San Antonio, TX,1 to 50 employees,37000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Amyx, Iinc.",San Antonio, TX,-1,37000,68000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"NJVC
+2.8",San Antonio, TX,1001 to 5000 employees,37000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Antonio, TX,51 to 200 employees,37000,68000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Deacon Recruiting
+3.0",San Antonio, TX,1 to 50 employees,37000,68000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Amyx, Inc.
+4.0",San Antonio, TX,501 to 1000 employees,37000,68000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Scaleworks
+4.5",San Antonio, TX,1 to 50 employees,37000,68000,1,0,1,0,1,1,0,1,1,1,1,0,0,0,1,1
+Senior Data Analyst,"HCL Technologies Ltd.
+3.5",San Antonio, TX,10000+ employees,37000,68000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"CDO Technologies Inc
+3.3",San Antonio, TX,201 to 500 employees,37000,68000,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1
+Data Analyst,Cherokee Federal,San Antonio, TX,1 to 50 employees,37000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Kforce
+4.1",San Antonio, TX,10000+ employees,37000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Scientist,"PETCO
+2.9",San Antonio, TX,10000+ employees,37000,68000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"eTeam Inc.
+3.7",San Antonio, TX,51 to 200 employees,37000,68000,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"LMI
+4.0",San Antonio, TX,1001 to 5000 employees,37000,68000,1,0,1,0,1,0,0,1,0,0,1,1,1,0,1,1
+Data Analyst,"CAMRIS International
+4.0",San Antonio, TX,201 to 500 employees,37000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"General Dynamics Information Technology
+3.5",Lackland AFB, TX,10000+ employees,37000,68000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Convene Technologies
+3.3",San Antonio, TX,51 to 200 employees,73000,89000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Diverse Lynx
+3.9",San Antonio, TX,501 to 1000 employees,73000,89000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Analyst,"Amyx, Iinc.",San Antonio, TX,-1,73000,89000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Chenega Healthcare Services
+3.8",San Antonio, TX,501 to 1000 employees,73000,89000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Cherokee Nation Businesses, LLC
+3.2",San Antonio, TX,1001 to 5000 employees,73000,89000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Spectrum Comm
+3.8",Lackland AFB, TX,51 to 200 employees,73000,89000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Amyx, Inc.
+4.0",San Antonio, TX,501 to 1000 employees,73000,89000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Cherokee Federal,San Antonio, TX,1 to 50 employees,73000,89000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"CDO Technologies Inc
+3.3",San Antonio, TX,201 to 500 employees,73000,89000,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1
+Data Analyst,Cherokee Federal,Fort Sam Houston, TX,1 to 50 employees,73000,89000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Midland Credit Management
+3.3",San Diego, CA,1001 to 5000 employees,76000,122000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"UC San Diego
+4.3",San Diego, CA,10000+ employees,76000,122000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"HealthStream
+3.0",San Diego, CA,501 to 1000 employees,76000,122000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Conflux Systems Inc.
+4.5",San Diego, CA,1 to 50 employees,76000,122000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"22nd Century Technologies
+3.7",San Diego, CA,1001 to 5000 employees,76000,122000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"University of California - San Diego Medical Centers
+3.7",San Diego, CA,10000+ employees,76000,122000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"BD (Becton, Dickinson and Company)
+4.0",San Diego, CA,Unknown,76000,122000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Client Solution Architects
+3.4",San Diego, CA,201 to 500 employees,76000,122000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Cue
+4.2",San Diego, CA,51 to 200 employees,76000,122000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Diego, CA,51 to 200 employees,76000,122000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Encore Capital Group
+3.2",San Diego, CA,5001 to 10000 employees,76000,122000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"HealthStream
+3.0",San Diego, CA,501 to 1000 employees,76000,122000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"ProMedia
+4.4",San Diego, CA,1 to 50 employees,76000,122000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Axos Bank
+3.4",San Diego, CA,1001 to 5000 employees,76000,122000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Sayva Solutions
+4.8",San Diego, CA,51 to 200 employees,76000,122000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Stem
+3.2",San Diego, CA,51 to 200 employees,76000,122000,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"Tandem Diabetes
+3.8",San Diego, CA,1001 to 5000 employees,76000,122000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Forfeiture Support Associates
+2.8",San Diego, CA,1001 to 5000 employees,76000,122000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Diego, CA,51 to 200 employees,76000,122000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Potomac Management
+3.5",San Diego, CA,51 to 200 employees,76000,122000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Operation Samahan Health Clinic,National City, CA,-1,76000,122000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"BD
+3.6",San Diego, CA,10000+ employees,76000,122000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Vertex Pharmaceuticals
+3.3",San Diego, CA,1001 to 5000 employees,60000,124000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Kaiser Permanente
+4.0",San Diego, CA,10000+ employees,60000,124000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Illumina
+3.9",San Diego, CA,5001 to 10000 employees,60000,124000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"UC San Diego
+4.3",San Diego, CA,10000+ employees,60000,124000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"Web Shop Manager
+4.2",San Diego, CA,1 to 50 employees,60000,124000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Housecall Pro
+4.6",San Diego, CA,51 to 200 employees,60000,124000,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+Senior Data Analyst,"Intuit
+4.4",San Diego, CA,5001 to 10000 employees,60000,124000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Interpreta
+2.3",San Diego, CA,1 to 50 employees,60000,124000,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Intuit
+4.4",San Diego, CA,5001 to 10000 employees,60000,124000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Centene Corporation
+3.3",San Diego, CA,10000+ employees,60000,124000,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Verity, A HealthStream Company
+4.1",San Diego, CA,201 to 500 employees,60000,124000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Web Shop Manager
+4.2",San Diego, CA,1 to 50 employees,60000,124000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Potomac Management
+3.5",San Diego, CA,51 to 200 employees,60000,124000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Diego, CA,51 to 200 employees,60000,124000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Amentum
+3.2",San Diego, CA,10000+ employees,60000,124000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Russell Tobin & Associates
+3.5",San Diego, CA,51 to 200 employees,60000,124000,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Perspecta
+3.3",San Diego, CA,10000+ employees,60000,124000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"UC San Diego
+4.3",San Diego, CA,10000+ employees,60000,124000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"MedImpact
+2.5",San Diego, CA,1001 to 5000 employees,60000,124000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Sycuan Casino
+3.3",El Cajon, CA,1001 to 5000 employees,60000,124000,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"California State University
+4.1",San Diego, CA,10000+ employees,60000,124000,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,1
+Data Analyst,"University of California - San Diego Medical Centers
+3.7",San Diego, CA,10000+ employees,60000,124000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"World Wide Technology
+4.2",San Diego, CA,5001 to 10000 employees,60000,124000,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Senior Data Analyst,"Vervent
+3.5",San Diego, CA,501 to 1000 employees,34000,61000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Perspecta
+3.3",San Diego, CA,10000+ employees,34000,61000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Insight Enterprises, Inc.
+4.1",Plano, TX,5001 to 10000 employees,24000,48000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Insight Enterprises, Inc.
+4.1",Plano, TX,5001 to 10000 employees,24000,48000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Lidl
+3.3",Arlington, TX,10000+ employees,24000,48000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Delmarva Foundation
+3.1",Dallas, TX,501 to 1000 employees,24000,48000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Addison Group
+3.3",Dallas, TX,501 to 1000 employees,24000,48000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Mondo
+3.9",Dallas, TX,51 to 200 employees,24000,48000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"PeopleFun
+5.0",Richardson, TX,1 to 50 employees,24000,48000,1,1,0,1,1,1,0,0,0,1,1,0,1,0,1,0
+Data Analyst,"Federal Reserve Bank
+3.7",Dallas, TX,1001 to 5000 employees,24000,48000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"TekniSMart Solutions
+3.8",Dallas, TX,1 to 50 employees,24000,48000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"InfoVision, Inc.
+4.4",Dallas, TX,1001 to 5000 employees,24000,48000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Dallas County
+3.1",Dallas, TX,201 to 500 employees,24000,48000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,"Atos
+3.4",Irving, TX,10000+ employees,24000,48000,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Data Analyst,Yeti Technologies,Irving, TX,1 to 50 employees,24000,48000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Lidl
+3.3",Arlington, TX,10000+ employees,24000,48000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Nokia
+4.1",Dallas, TX,10000+ employees,24000,48000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"The Judge Group, Inc.
+3.5",Richardson, TX,1001 to 5000 employees,24000,48000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Precision
+3.3",Dallas, TX,1 to 50 employees,24000,48000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"ZeniMax Media, Inc.
+3.4",Dallas, TX,201 to 500 employees,24000,48000,1,0,0,0,1,1,0,1,0,0,1,1,1,0,0,1
+Data Analyst,"Match Group
+2.8",Dallas, TX,1001 to 5000 employees,24000,48000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Hilltop Holdings
+2.9",Irving, TX,1001 to 5000 employees,24000,48000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+Data Analyst,"Texas Scottish Rite Hospital for Children
+4.0",Dallas, TX,1001 to 5000 employees,24000,48000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Dallas, TX,51 to 200 employees,24000,48000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Human Coalition
+2.9",Plano, TX,201 to 500 employees,24000,48000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Capgemini
+3.8",Dallas, TX,10000+ employees,24000,48000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Diversant LLC
+3.8",Dallas, TX,1001 to 5000 employees,30000,53000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,StaffingSoft Inc.,Irving, TX,-1,30000,53000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Kforce
+4.1",Dallas, TX,10000+ employees,30000,53000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Financial Additions
+4.6",Dallas, TX,1 to 50 employees,30000,53000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"First American Financial Corporation
+3.4",Irving, TX,10000+ employees,30000,53000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Signify Health
+3.6",Dallas, TX,501 to 1000 employees,30000,53000,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0
+Data Analyst,"Federal Reserve Bank (FRB)
+4.1",Dallas, TX,1001 to 5000 employees,30000,53000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,1,Dallas, TX,-1,30000,53000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"VITALWARE LLC
+3.8",Dallas, TX,51 to 200 employees,30000,53000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Scientist,Atos Healthcare,Irving, TX,-1,30000,53000,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Data Analyst,"Kubota Tractor
+3.6",Grapevine, TX,1001 to 5000 employees,30000,53000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Trinity Industries
+2.9",Dallas, TX,10000+ employees,30000,53000,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1
+Data Analyst,"Randstad US
+3.7",Plano, TX,1001 to 5000 employees,30000,53000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"L&T Infotech
+3.5",Irving, TX,10000+ employees,30000,53000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Federal Reserve Bank of Richmond
+3.6",Dallas, TX,1001 to 5000 employees,30000,53000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Sphinix Solutions
+1.0",Plano, TX,1 to 50 employees,30000,53000,1,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Dallas, TX,51 to 200 employees,30000,53000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"North Central Texas Council of Governments
+2.6",Arlington, TX,201 to 500 employees,30000,53000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Corporate G. LLC,Dallas, TX,201 to 500 employees,30000,53000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"McAfee
+3.5",Plano, TX,5001 to 10000 employees,30000,53000,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0
+Data Analyst,"Conch Technologies, Inc
+4.6",Plano, TX,51 to 200 employees,30000,53000,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"RealPage
+2.8",Richardson, TX,5001 to 10000 employees,30000,53000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Mobilityware
+4.5",Dallas, TX,51 to 200 employees,41000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"AustinCSI
+3.0",Grapevine, TX,51 to 200 employees,41000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Mitchell Martin
+4.1",Plano, TX,501 to 1000 employees,41000,86000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"National NeuroMonitoring
+4.3",Addison, TX,51 to 200 employees,41000,86000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"PriceSenz
+5.0",Irving, TX,Unknown,41000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"MOA
+1.9",Plano, TX,51 to 200 employees,41000,86000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Ho Chunk
+2.8",Arlington, TX,201 to 500 employees,41000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Precision technologies corp
+4.2",Plano, TX,201 to 500 employees,41000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Optum Consumer Solutions Group,Plano, TX,-1,41000,86000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Mosaic Sales Solutions
+3.4",Irving, TX,5001 to 10000 employees,41000,86000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"One Call Claims, LLC
+3.2",Dallas, TX,201 to 500 employees,41000,86000,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Data Analyst,"Prudent Technologies & Consulting
+4.2",Grapevine, TX,51 to 200 employees,41000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Excite Health Partners
+3.8",Dallas, TX,51 to 200 employees,41000,86000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"PROLIM Global Corporation
+3.4",Dallas, TX,201 to 500 employees,41000,86000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Pinnacle Technical Resources, Inc.
+3.4",Dallas, TX,5001 to 10000 employees,41000,86000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Insight UK,Plano, TX,1 to 50 employees,41000,86000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"ServiceLink, a Black Knight Company
+2.5",Dallas, TX,1001 to 5000 employees,41000,86000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"Lightbeam Health Solutions
+4.0",Irving, TX,51 to 200 employees,41000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Telnet (Rockville, MD)
+2.8",Dallas, TX,51 to 200 employees,41000,86000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Vastika
+3.8",Irving, TX,1 to 50 employees,44000,82000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Financial Services Company,Dallas, TX,-1,44000,82000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Data Analyst,"University of Texas at Arlington
+4.2",Arlington, TX,1001 to 5000 employees,44000,82000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"APN Software Services Inc.
+4.1",Plano, TX,51 to 200 employees,44000,82000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"Fairway Independent Mortgage Corporation
+3.7",Carrollton, TX,5001 to 10000 employees,44000,82000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"HCL America Inc.
+3.5",Plano, TX,10000+ employees,44000,82000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Colfax Corporation
+2.1",Dallas, TX,10000+ employees,44000,82000,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0
+Data Analyst,"Bloomfield Homes
+3.7",Southlake, TX,1 to 50 employees,44000,82000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"ServiceLink
+2.5",Dallas, TX,1001 to 5000 employees,44000,82000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Senior Data Engineer,"Onyx CenterSource
+3.6",Dallas, TX,201 to 500 employees,44000,82000,1,0,1,1,0,1,0,0,0,0,0,1,1,0,1,0
+Data Analyst,"Fleishman-Hillard Inc
+3.3",Dallas, TX,1001 to 5000 employees,44000,82000,1,0,0,0,1,1,0,1,1,1,1,0,1,0,0,0
+Data Analyst,Kforce Technology Staffing,Plano, TX,-1,44000,82000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"eTeam Inc.
+3.7",Irving, TX,51 to 200 employees,44000,82000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Analyst,"BurnsSearch, LLC",Dallas, TX,51 to 200 employees,44000,82000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Mindteck
+3.3",Coppell, TX,1001 to 5000 employees,44000,82000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Analytical Mechanics Associates
+3.5",Dallas, TX,201 to 500 employees,44000,82000,1,1,0,0,1,1,0,0,0,0,1,0,1,0,0,1
+Data Analyst,"CarOffer
+2.6",Plano, TX,51 to 200 employees,44000,82000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"LifePath Systems
+3.5",Plano, TX,51 to 200 employees,44000,82000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Lorven Technologies Inc
+4.0",Richardson, TX,1 to 50 employees,44000,82000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Home Point Financial
+3.4",Farmers Branch, TX,1001 to 5000 employees,44000,82000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Horn Solutions Inc.
+4.2",Dallas, TX,1 to 50 employees,44000,82000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"DJO Global
+3.0",Dallas, TX,5001 to 10000 employees,48000,88000,1,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0
+Data Analyst,"Kforce
+4.1",Plano, TX,10000+ employees,48000,88000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Citi
+3.7",Irving, TX,10000+ employees,48000,88000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Two95 International Inc.
+4.0",Irving, TX,1 to 50 employees,48000,88000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Scientist,"Radiant Digital
+4.5",Dallas, TX,1 to 50 employees,48000,88000,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+Data Analyst,"Vastika
+3.8",Irving, TX,1 to 50 employees,48000,88000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"PeopleNTech LLC
+4.3",Dallas, TX,1 to 50 employees,48000,88000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"eTeam Inc.
+3.7",Irving, TX,51 to 200 employees,48000,88000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Ava Consulting
+4.4",Irving, TX,1 to 50 employees,48000,88000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"ClientSolv Technologies
+3.3",Allen, TX,51 to 200 employees,48000,88000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Ho Chunk
+2.8",Arlington, TX,201 to 500 employees,48000,88000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Lorven Technologies Inc
+4.0",Richardson, TX,1 to 50 employees,48000,88000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,"Diverse Lynx
+3.9",Plano, TX,501 to 1000 employees,48000,88000,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Lorven Technologies Inc
+4.0",Richardson, TX,1 to 50 employees,48000,88000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Mill Creek Residential Trust
+4.3",Dallas, TX,501 to 1000 employees,48000,88000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"ArcBest
+3.6",Plano, TX,10000+ employees,44000,78000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Lorven Technologies Inc
+4.0",Richardson, TX,1 to 50 employees,44000,78000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,Kforce Technology Staffing,Plano, TX,-1,44000,78000,0,1,0,1,1,1,0,0,0,0,0,0,1,0,1,1
+Senior Data Analyst,"Apex Systems
+3.8",Plano, TX,1001 to 5000 employees,44000,78000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Senior Data Analyst,"Kforce
+4.1",Plano, TX,10000+ employees,44000,78000,0,1,0,1,1,1,0,0,0,0,0,0,1,0,1,1
+Senior Data Analyst,"OneMain Financial
+2.9",Irving, TX,10000+ employees,44000,78000,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"OSI Engineering
+4.5",Newark, CA,51 to 200 employees,110000,190000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"NVIDIA
+4.6",Santa Clara, CA,10000+ employees,110000,190000,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,1
+Senior Data Analyst,"Risk Management Solutions (RMS)
+3.9",Newark, CA,1001 to 5000 employees,110000,190000,1,1,0,0,1,1,0,0,0,0,1,0,0,1,1,1
+Data Analyst,"LeanData
+4.0",Santa Clara, CA,51 to 200 employees,110000,190000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Alteryx
+3.3",Redwood City, CA,1001 to 5000 employees,110000,190000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Senior Data Analyst,"Bandai Namco Entertainment America
+3.1",Santa Clara, CA,51 to 200 employees,110000,190000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Tesla Motors
+3.4",Fremont, CA,10000+ employees,110000,190000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"L&T Infotech
+3.5",San Jose, CA,10000+ employees,110000,190000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"IntraEdge
+3.8",Menlo Park, CA,501 to 1000 employees,110000,190000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Connor Group
+4.0",Santa Clara, CA,201 to 500 employees,110000,190000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Data Analyst,Xcutives.com Inc,San Jose, CA,-1,110000,190000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Joomag, Inc.
+3.9",San Jose, CA,51 to 200 employees,110000,190000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"ICONMA
+3.6",Cupertino, CA,1001 to 5000 employees,110000,190000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Enjoy
+3.8",Palo Alto, CA,501 to 1000 employees,110000,190000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Moveworks
+5.0",Mountain View, CA,51 to 200 employees,110000,190000,1,0,0,0,1,1,0,0,0,0,1,1,1,0,1,1
+Data Analyst,"Ursus
+4.4",Menlo Park, CA,1 to 50 employees,110000,190000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Nuro
+4.4",Mountain View, CA,201 to 500 employees,110000,190000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"TalentBurst, Inc.
+3.9",Cupertino, CA,501 to 1000 employees,110000,190000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Randstad
+3.7",Sunnyvale, CA,1001 to 5000 employees,110000,190000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"BayOne Solutions
+4.1",Sunnyvale, CA,1001 to 5000 employees,110000,190000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Zipongo
+4.0",San Jose, CA,51 to 200 employees,110000,190000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Logic Planet
+3.1",San Jose, CA,201 to 500 employees,110000,190000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Netflix
+3.9",Los Gatos, CA,1001 to 5000 employees,110000,190000,1,0,0,1,1,1,0,0,0,0,1,1,0,0,1,0
+Data Analyst,Xcutives.com Inc,San Jose, CA,-1,110000,190000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Kaygen Inc.
+3.9",San Jose, CA,1 to 50 employees,110000,190000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Iconma, L.L.C.
+3.6",Sunnyvale, CA,1001 to 5000 employees,110000,190000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Diverse Lynx
+3.9",San Jose, CA,501 to 1000 employees,110000,190000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Adwait Algorithm
+4.4",Santa Clara, CA,51 to 200 employees,89000,151000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Analyst,"Netflix, Inc.
+3.9",Los Gatos, CA,1001 to 5000 employees,89000,151000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"TechNet Inc.
+5.0",San Jose, CA,1 to 50 employees,89000,151000,1,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1
+Data Analyst,"Apple
+4.1",Santa Clara, CA,10000+ employees,89000,151000,1,1,0,1,1,1,0,0,0,1,0,1,0,0,0,0
+Data Analyst,"PDS Tech, Inc.
+3.8",Cupertino, CA,5001 to 10000 employees,89000,151000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Power Integrations
+3.8",San Jose, CA,501 to 1000 employees,89000,151000,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Infotree Service Inc
+3.7",San Jose, CA,51 to 200 employees,89000,151000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Accounting Principals
+4.0",San Jose, CA,501 to 1000 employees,89000,151000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Collabera
+4.1",Sunnyvale, CA,10000+ employees,89000,151000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",San Jose, CA,1 to 50 employees,89000,151000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Crystal Equation
+3.9",Menlo Park, CA,51 to 200 employees,89000,151000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Frontend Arts
+4.5",San Jose, CA,1 to 50 employees,89000,151000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Wider Circle
+2.4",Redwood City, CA,1 to 50 employees,89000,151000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Poshmark
+4.8",Redwood City, CA,201 to 500 employees,89000,151000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Artech LLC
+3.9",Sunnyvale, CA,5001 to 10000 employees,89000,151000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"BayOne Solutions
+4.1",San Jose, CA,1001 to 5000 employees,89000,151000,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+Data Analyst,"Zolon Tech Solutions Inc.
+4.0",Cupertino, CA,201 to 500 employees,89000,151000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Jose, CA,51 to 200 employees,89000,151000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,EApps Tech LLC,Sunnyvale, CA,-1,89000,151000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,enexusglobal,San Jose, CA,-1,89000,151000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Apple
+4.1",Santa Clara, CA,10000+ employees,89000,151000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Scientist,"Apple
+4.1",Santa Clara, CA,10000+ employees,89000,151000,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Calsoft Labs
+3.2",Cupertino, CA,1001 to 5000 employees,89000,151000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Jose, CA,51 to 200 employees,89000,151000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"IntelliPro Group Inc.
+4.1",San Jose, CA,201 to 500 employees,89000,151000,1,1,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Data Analyst,"Exact Sciences Corporation
+4.0",Redwood City, CA,1001 to 5000 employees,89000,151000,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0
+Data Analyst,"Stanford University
+4.3",Stanford, CA,10000+ employees,69000,127000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Softcom Systems
+4.4",San Jose, CA,1 to 50 employees,69000,127000,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"John Wiley & Sons, Inc.
+3.3",Los Gatos, CA,5001 to 10000 employees,69000,127000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Cadence Design Systems
+4.1",San Jose, CA,5001 to 10000 employees,69000,127000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Tech Firefly
+4.5",Palo Alto, CA,51 to 200 employees,69000,127000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Apple
+4.1",Santa Clara, CA,10000+ employees,69000,127000,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,PRO Unlimited @ Facebook,Menlo Park, CA,-1,69000,127000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Robinhood
+4.7",Menlo Park, CA,501 to 1000 employees,69000,127000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Stanford School of Medicine
+4.2",Stanford, CA,5001 to 10000 employees,69000,127000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Lean Data
+4.0",Santa Clara, CA,51 to 200 employees,69000,127000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,PETADATA,San Jose, CA,51 to 200 employees,69000,127000,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,"Apple
+4.1",Santa Clara, CA,10000+ employees,69000,127000,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"CyberCoders
+4.2",Redwood City, CA,201 to 500 employees,69000,127000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Beezwax Datatools
+4.8",Cupertino, CA,1 to 50 employees,69000,127000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Data Analyst,"APN Software Services Inc.
+4.1",Redwood City, CA,51 to 200 employees,69000,127000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"US Tech Solutions, Inc
+3.7",Sunnyvale, CA,1001 to 5000 employees,69000,127000,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0
+Data Analyst,"Russell Tobin & Associates
+3.5",Cupertino, CA,51 to 200 employees,69000,127000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"IntelliPro Group Inc.
+4.1",Mountain View, CA,201 to 500 employees,69000,127000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Milestone Technologies Inc.
+3.2",Fremont, CA,1001 to 5000 employees,69000,127000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Stanford University School of Medicine
+4.2",Stanford, CA,5001 to 10000 employees,69000,127000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Robert Half
+3.5",Sunnyvale, CA,10000+ employees,69000,127000,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Data Analyst,"Technosoft Corporation
+3.8",San Jose, CA,1001 to 5000 employees,69000,127000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Method360
+4.7",San Jose, CA,51 to 200 employees,69000,127000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"SRA OSS
+3.3",San Jose, CA,51 to 200 employees,69000,127000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Adwait Algorithm
+4.4",Santa Clara, CA,51 to 200 employees,69000,127000,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Senior Data Analyst,"Apple
+4.1",Santa Clara, CA,10000+ employees,69000,127000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Armada Group, Inc.
+4.4",San Jose, CA,51 to 200 employees,69000,127000,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0
+Senior Data Analyst,"Enjoy Technology
+3.1",Palo Alto, CA,1001 to 5000 employees,51000,93000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Apple
+4.1",Santa Clara, CA,10000+ employees,51000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Apex Systems
+3.8",Menlo Park, CA,1001 to 5000 employees,51000,93000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Cadence Design Systems
+4.1",San Jose, CA,5001 to 10000 employees,51000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Verb Surgical
+3.6",Mountain View, CA,201 to 500 employees,51000,93000,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"MentorX Corp.
+4.4",Fremont, CA,1 to 50 employees,51000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Amazon
+3.9",East Palo Alto, CA,10000+ employees,51000,93000,1,0,0,0,1,1,0,1,0,0,0,1,1,0,1,1
+Data Analyst,"QUICKEN INVESTMENT SERVICES, INC.",Menlo Park, CA,-1,51000,93000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,Allakos,Redwood City, CA,51 to 200 employees,51000,93000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"IT Coalition
+4.3",Pleasanton, CA,1 to 50 employees,51000,93000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",Pleasanton, CA,1 to 50 employees,51000,93000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Tachyon Technologies LLC
+4.4",San Jose, CA,201 to 500 employees,51000,93000,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Lark Health
+3.9",Mountain View, CA,51 to 200 employees,51000,93000,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0
+Data Analyst,"Mizuho OSI
+3.1",Union City, CA,201 to 500 employees,51000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Splunk
+4.1",San Jose, CA,1001 to 5000 employees,51000,93000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"IntelliPro Group Inc.
+4.1",Mountain View, CA,201 to 500 employees,51000,93000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Course Hero
+4.8",Redwood City, CA,201 to 500 employees,51000,93000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Armada Group, Inc.
+4.4",San Jose, CA,51 to 200 employees,51000,93000,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Data Analyst,"Vaco
+3.3",Palo Alto, CA,501 to 1000 employees,51000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Intuit
+4.4",Mountain View, CA,5001 to 10000 employees,51000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Cepheid
+3.3",Sunnyvale, CA,1001 to 5000 employees,51000,93000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Kaygen Inc.
+3.9",Milpitas, CA,1 to 50 employees,51000,93000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"Vaco
+3.3",Palo Alto, CA,501 to 1000 employees,51000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Kaiser Permanente
+4.0",Union City, CA,10000+ employees,58000,93000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Enquero Inc
+3.7",Milpitas, CA,501 to 1000 employees,58000,93000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,International Consulting Group (San Jose),Cupertino, CA,1 to 50 employees,58000,93000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,Volto Consulting,Milpitas, CA,-1,58000,93000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Senior Data Analyst,"eHealth
+3.7",Santa Clara, CA,1001 to 5000 employees,58000,93000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Centrillion
+2.2",Palo Alto, CA,1 to 50 employees,58000,93000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Analyst,"Enquero Inc
+3.7",Milpitas, CA,501 to 1000 employees,58000,93000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"Creative Circle
+3.7",Mountain View, CA,201 to 500 employees,58000,93000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Mizuho OSI
+3.1",Union City, CA,201 to 500 employees,58000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"SOFTHQ INC
+4.0",Sunnyvale, CA,51 to 200 employees,58000,93000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Creative Circle
+3.7",Sunnyvale, CA,201 to 500 employees,58000,93000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Jose, CA,51 to 200 employees,58000,93000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Crystal Equation
+3.9",Menlo Park, CA,51 to 200 employees,58000,93000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"Vaco
+3.3",Palo Alto, CA,501 to 1000 employees,58000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Cloudious LLC
+4.0",Milpitas, CA,1 to 50 employees,58000,93000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Senior Data Analyst,"Google
+4.4",Mountain View, CA,10000+ employees,58000,93000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,Balance Staffing- Roseville,Fremont, CA,-1,58000,93000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"ICONMA, LLC
+3.6",Redwood City, CA,1001 to 5000 employees,58000,93000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Anzu Global
+4.8",Cupertino, CA,1 to 50 employees,58000,93000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Omega Solutions
+2.6",Santa Clara, CA,1 to 50 employees,58000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Cadence Design Systems, Inc.
+4.1",San Jose, CA,5001 to 10000 employees,58000,93000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",Pleasanton, CA,1 to 50 employees,58000,93000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"GenapSys, Inc.
+3.8",Redwood City, CA,51 to 200 employees,63000,116000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"Vaco
+3.3",Palo Alto, CA,501 to 1000 employees,63000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Optima Global Solutions
+3.9",San Jose, CA,1 to 50 employees,63000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"i-CST
+3.6",Campbell, CA,501 to 1000 employees,63000,116000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Apex Systems
+3.8",Menlo Park, CA,1001 to 5000 employees,63000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Infotech Sourcing
+3.2",Fremont, CA,51 to 200 employees,63000,116000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Ampcus Incorporated
+3.9",San Jose, CA,501 to 1000 employees,63000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Vaco
+3.3",Palo Alto, CA,501 to 1000 employees,63000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Kaygen Inc.
+3.9",Santa Clara, CA,1 to 50 employees,63000,116000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Senior Data Analyst,"Yochana
+2.9",Mountain View, CA,201 to 500 employees,63000,116000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,Spiceorb,San Jose, CA,-1,63000,116000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,Skiltrek,Santa Clara, CA,51 to 200 employees,63000,116000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Senior Data Analyst,"Bill.Com
+3.6",Palo Alto, CA,501 to 1000 employees,63000,116000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",Pleasanton, CA,1 to 50 employees,63000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Apple
+4.1",Santa Clara, CA,10000+ employees,63000,116000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"APN Software Services Inc.
+4.1",Redwood City, CA,51 to 200 employees,63000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Healthgrades
+2.8",Austin, TX,501 to 1000 employees,42000,76000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Pushnami
+4.6",Austin, TX,1 to 50 employees,42000,76000,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"TikTok
+3.8",Austin, TX,1001 to 5000 employees,42000,76000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Assembly
+2.6",Austin, TX,201 to 500 employees,42000,76000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Texas Health & Human Services Commission
+2.8",Austin, TX,10000+ employees,42000,76000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"OnlineMedEd
+4.6",Austin, TX,51 to 200 employees,42000,76000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Taskrabbit
+4.1",Austin, TX,201 to 500 employees,42000,76000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Texas Health and Human Services Commission
+2.8",Austin, TX,10000+ employees,42000,76000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Zynga
+4.1",Austin, TX,1001 to 5000 employees,42000,76000,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Cypress HCM
+4.9",Austin, TX,51 to 200 employees,42000,76000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"KGS
+4.7",Austin, TX,51 to 200 employees,42000,76000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Central Health
+3.6",Austin, TX,51 to 200 employees,42000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Teacher Retirement System of Texas
+3.9",Austin, TX,501 to 1000 employees,42000,76000,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1
+Data Analyst,"Texas Health & Human Services Commission
+2.8",Austin, TX,10000+ employees,42000,76000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"CYNET SYSTEMS
+4.0",Austin, TX,501 to 1000 employees,42000,76000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Assembly
+3.4",Austin, TX,5001 to 10000 employees,42000,76000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Lightspeed Systems
+4.3",Austin, TX,51 to 200 employees,42000,76000,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Austin, TX,51 to 200 employees,42000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Wargaming
+3.8",Austin, TX,1001 to 5000 employees,42000,76000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Austin, TX,51 to 200 employees,42000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"TalentCare
+4.0",Austin, TX,1 to 50 employees,42000,76000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Robert Half
+3.5",Austin, TX,10000+ employees,42000,76000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Facebook
+4.5",Austin, TX,10000+ employees,53000,104000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Superior HealthPlan
+3.3",Austin, TX,1001 to 5000 employees,53000,104000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Texas Facilities Commission
+4.6",Austin, TX,501 to 1000 employees,53000,104000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Texas Health & Human Services Commission
+2.8",Austin, TX,10000+ employees,53000,104000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,911 Datamaster Inc,Austin, TX,1 to 50 employees,53000,104000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Allegan General Hospital
+3.7",Austin, TX,201 to 500 employees,53000,104000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Santanna Energy Services
+2.6",Austin, TX,1 to 50 employees,53000,104000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"TEXAS EDUCATION AGENCY
+2.8",Austin, TX,501 to 1000 employees,53000,104000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Cyclex Systems,Austin, TX,-1,53000,104000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Vsion Technologies Inc
+4.4",Austin, TX,51 to 200 employees,53000,104000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Senior Data Analyst,"NVIDIA
+4.6",Austin, TX,10000+ employees,53000,104000,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0
+Data Analyst,"ARK Solutions, Inc.
+3.9",Austin, TX,1 to 50 employees,53000,104000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Texas Health & Human Services Commission
+2.8",Austin, TX,10000+ employees,53000,104000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Centene Corporation
+3.3",Austin, TX,10000+ employees,53000,104000,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Avacend, Inc.
+2.5",Austin, TX,51 to 200 employees,53000,104000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,SNIPEBRIDGE,Austin, TX,Unknown,53000,104000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Avacend, Inc.
+2.5",Austin, TX,51 to 200 employees,53000,104000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Analyst,"Bazaarvoice
+3.7",Austin, TX,501 to 1000 employees,53000,104000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"MedSeek
+2.6",Austin, TX,51 to 200 employees,53000,104000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Lawnstarter
+3.8",Austin, TX,1 to 50 employees,53000,104000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,VIAHART,Austin, TX,-1,53000,104000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"CloudFlare
+3.7",Austin, TX,1001 to 5000 employees,53000,104000,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+Data Analyst,"Sonic Healthcare USA
+2.7",Austin, TX,10000+ employees,35000,42000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Ascension
+3.3",Austin, TX,10000+ employees,35000,42000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"TxDOT
+3.8",Austin, TX,10000+ employees,35000,42000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Sense Corp
+3.8",Austin, TX,201 to 500 employees,35000,42000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Booz Allen Hamilton
+3.8",Austin, TX,10000+ employees,35000,42000,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+Data Analyst,"22nd Century Technologies
+3.7",Austin, TX,1001 to 5000 employees,35000,42000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Seven Seven Softwares
+3.1",Austin, TX,201 to 500 employees,35000,42000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Wellcare
+3.7",Austin, TX,5001 to 10000 employees,35000,42000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Senior Data Analyst,"Central Health
+3.6",Austin, TX,51 to 200 employees,35000,42000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,Sam Bharath,West Lake Hills, TX,-1,35000,42000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Texas Health & Human Services Commission
+2.8",Austin, TX,10000+ employees,35000,42000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"BayOne Solutions
+4.1",Austin, TX,1001 to 5000 employees,35000,42000,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0
+Data Analyst,"Superior HealthPlan
+3.3",Austin, TX,1001 to 5000 employees,35000,42000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Austin, TX,51 to 200 employees,35000,42000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Texas Water Development Board
+2.8",Austin, TX,201 to 500 employees,35000,42000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Scientist,United States Army Futures Command,Austin, TX,-1,35000,42000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,Iris Plans Inc.,Austin, TX,1 to 50 employees,35000,42000,1,0,0,0,1,1,0,1,0,0,0,1,1,0,1,1
+Data Analyst,"Hyliion
+2.7",Cedar Park, TX,1 to 50 employees,35000,42000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Centene Corporation
+3.3",Austin, TX,10000+ employees,35000,42000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Senior Data Analyst,"Quantilus, Inc
+4.4",Round Rock, TX,1 to 50 employees,35000,42000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Texas Education Agency
+2.8",Austin, TX,501 to 1000 employees,35000,42000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Texas Water Development Board
+2.8",Austin, TX,201 to 500 employees,43000,77000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"TEXAS DEPARTMENT OF PUBLIC SAFETY
+3.4",Austin, TX,1001 to 5000 employees,43000,77000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"CSI Tech Inc.
+3.0",Jacksonville, FL,51 to 200 employees,40000,72000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Software Guidance & Assistance
+3.7",Jacksonville, FL,51 to 200 employees,40000,72000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Jacksonville, FL,51 to 200 employees,40000,72000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,SGA Inc.,Jacksonville, FL,1 to 50 employees,40000,72000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"SNI Technology
+3.5",Jacksonville, FL,201 to 500 employees,40000,72000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"BTG
+3.9",Jacksonville, FL,1 to 50 employees,40000,72000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Jacksonville, FL,51 to 200 employees,40000,72000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Jacksonville, FL,51 to 200 employees,40000,72000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,Medical Cost Containment Services Inc.,Jacksonville, FL,-1,40000,72000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,LEFTA Systems,Jacksonville, FL,-1,40000,72000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Kemper
+2.9",Jacksonville, FL,5001 to 10000 employees,40000,72000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Analyst,"ARC Group
+5.0",Jacksonville, FL,51 to 200 employees,40000,72000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"American Recruiting & Consulting Group
+5.0",Jacksonville, FL,51 to 200 employees,40000,72000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,Medical Cost Containment Services Inc.,Jacksonville, FL,-1,40000,72000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Textron
+3.3",Fort Worth, TX,10000+ employees,50000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Reef Systems
+4.6",Fort Worth, TX,1 to 50 employees,50000,86000,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"CornerStone Staffing
+3.8",Fort Worth, TX,51 to 200 employees,50000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Thinkfind Corporation,Fort Worth, TX,1 to 50 employees,50000,86000,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+Data Analyst,"Bell Helicopter
+3.9",Fort Worth, TX,5001 to 10000 employees,50000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"InfoVision, Inc.
+4.4",Irving, TX,1001 to 5000 employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Company Confidenital
+5.0",Fort Worth, TX,51 to 200 employees,50000,86000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Lockheed Martin
+3.8",Fort Worth, TX,10000+ employees,50000,86000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"GM Financial
+2.9",Fort Worth, TX,5001 to 10000 employees,50000,86000,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+Data Analyst,"Prudent Technologies & Consulting
+4.2",Fort Worth, TX,51 to 200 employees,35000,67000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"System Soft Technologies
+4.8",Fort Worth, TX,201 to 500 employees,35000,67000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"InfoQuest Consulting Group
+4.7",Fort Worth, TX,1 to 50 employees,57000,70000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Global Technical Talent, LLC
+3.6",Westlake, TX,501 to 1000 employees,57000,70000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"CyberCoders
+4.2",Columbus, OH,201 to 500 employees,28000,52000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Olive
+3.6",Columbus, OH,201 to 500 employees,28000,52000,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0
+Data Analyst,"Nationwide Children's Hospital
+3.7",Columbus, OH,10000+ employees,28000,52000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"The Paragon Group
+2.9",Columbus, OH,1001 to 5000 employees,28000,52000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Abercrombie & Fitch Co.
+3.5",Columbus, OH,10000+ employees,28000,52000,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"JPMorgan Chase
+3.9",Columbus, OH,10000+ employees,28000,52000,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Beacon Hill Technologies,Columbus, OH,-1,28000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"DHL
+3.8",Westerville, OH,10000+ employees,28000,52000,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0
+Data Scientist,"Abbott Laboratories
+3.6",Columbus, OH,10000+ employees,28000,52000,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Columbus, OH,51 to 200 employees,28000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Economic and Community Development Institute
+2.3",Columbus, OH,1 to 50 employees,28000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Avacend, Inc.
+2.5",Hilliard, OH,51 to 200 employees,28000,52000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Data Systems Integration Group Inc
+2.8",Columbus, OH,1 to 50 employees,28000,52000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Columbus, OH,51 to 200 employees,28000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Buckeye Health Plan
+3.4",Columbus, OH,1001 to 5000 employees,28000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Beacon Hill Staffing Group
+4.5",Columbus, OH,501 to 1000 employees,28000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Buckeye Community Health Plan
+3.4",Columbus, OH,51 to 200 employees,28000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Aspen Careers, LLC",Columbus, OH,-1,28000,52000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"UNICON International, Inc
+4.5",Columbus, OH,1 to 50 employees,28000,52000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Avani Technology Solutions
+4.5",Columbus, OH,501 to 1000 employees,28000,52000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Columbus, OH,51 to 200 employees,28000,52000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Dedicated Tech Services, Inc.
+4.5",Dublin, OH,1 to 50 employees,28000,52000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Senior Data Scientist,"Abbott
+3.6",Columbus, OH,10000+ employees,28000,52000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Marker, Inc.",Columbus, OH,Unknown,46000,86000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Buckeye Community Health Plan
+3.4",Columbus, OH,51 to 200 employees,46000,86000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Buckeye Health Plan
+3.4",Columbus, OH,1001 to 5000 employees,46000,86000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"JPMorgan Chase Bank, N.A.
+3.9",Columbus, OH,10000+ employees,46000,86000,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Creative Financial Staffing
+4.5",Westerville, OH,201 to 500 employees,46000,86000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Wells Fargo
+3.6",Charlotte, NC,10000+ employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Brighthouse Financial
+3.8",Charlotte, NC,1001 to 5000 employees,50000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Accenture
+3.9",Charlotte, NC,10000+ employees,50000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Tata Consultancy Services
+3.8",Charlotte, NC,10000+ employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Trivest
+5.0",Mooresville, NC,1 to 50 employees,50000,86000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"pureIntegration
+3.4",Charlotte, NC,51 to 200 employees,50000,86000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Kforce
+4.1",Charlotte, NC,10000+ employees,50000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Collabera
+4.1",Charlotte, NC,10000+ employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"TEKsystems
+3.9",Charlotte, NC,1001 to 5000 employees,50000,86000,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Artech LLC
+3.9",Charlotte, NC,5001 to 10000 employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Randstad
+3.6",Charlotte, NC,1001 to 5000 employees,50000,86000,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+Data Analyst,"Matlen Silver
+3.4",Charlotte, NC,201 to 500 employees,50000,86000,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Randstad
+3.6",Charlotte, NC,1001 to 5000 employees,50000,86000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Diversant LLC
+3.8",Charlotte, NC,1001 to 5000 employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Sysmind LLC
+4.1",Charlotte, NC,51 to 200 employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Tata Consultancy Services (North America)
+3.7",Charlotte, NC,10000+ employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Robert Half
+3.5",Charlotte, NC,10000+ employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Kforce
+4.1",Charlotte, NC,10000+ employees,50000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Charlotte, NC,51 to 200 employees,50000,86000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Conch Technologies, Inc
+4.6",Charlotte, NC,51 to 200 employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Neo Prism Solutions
+3.2",Charlotte, NC,51 to 200 employees,50000,86000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Data Analyst,Data Bridge Consultants,Charlotte, NC,-1,50000,86000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Resource Logistics, Inc.
+4.7",Charlotte, NC,51 to 200 employees,50000,86000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Diverse Lynx
+3.9",Charlotte, NC,501 to 1000 employees,50000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Vanguard
+3.2",Charlotte, NC,10000+ employees,50000,86000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Engineer,"Vaco Technology
+3.3",Charlotte, NC,501 to 1000 employees,50000,86000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Data Analyst,Accenture Contractor Jobs,Charlotte, NC,-1,54000,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"OrthoCarolina
+3.6",Charlotte, NC,501 to 1000 employees,54000,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"NTT DATA Corporation
+3.4",Charlotte, NC,10000+ employees,54000,75000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Apex Systems
+3.8",Charlotte, NC,1001 to 5000 employees,54000,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Signature Consultants
+3.6",Charlotte, NC,1001 to 5000 employees,54000,75000,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"eTeam Inc.
+3.7",Charlotte, NC,51 to 200 employees,54000,75000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"AccessOne
+2.0",Fort Mill, SC,1 to 50 employees,54000,75000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Nesco Resource, LLC
+2.9",Fort Mill, SC,1001 to 5000 employees,54000,75000,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"RGP
+4.1",Charlotte, NC,1001 to 5000 employees,54000,75000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Shimento, Inc.
+2.9",Charlotte, NC,1 to 50 employees,54000,75000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,Parks Heating & Cooling,Indian Trail, NC,51 to 200 employees,54000,75000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Randstad
+3.6",Charlotte, NC,1001 to 5000 employees,54000,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Conch Technologies, Inc
+4.6",Charlotte, NC,51 to 200 employees,54000,75000,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Tek Leaders
+3.5",Charlotte, NC,501 to 1000 employees,54000,75000,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"DATA Inc.
+4.3",Charlotte, NC,501 to 1000 employees,54000,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Charlotte, NC,51 to 200 employees,54000,75000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,LiveMindz,Charlotte, NC,51 to 200 employees,54000,75000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Meridian Technologies
+4.0",Charlotte, NC,Unknown,54000,75000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"CYNET SYSTEMS
+4.0",Charlotte, NC,501 to 1000 employees,54000,75000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,dataBridge,Charlotte, NC,1 to 50 employees,54000,75000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Collabera
+4.1",Fort Mill, SC,10000+ employees,53000,99000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"PCR Staffing
+5.0",Huntersville, NC,1 to 50 employees,53000,99000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Randstad
+3.6",Charlotte, NC,1001 to 5000 employees,53000,99000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Kforce
+4.1",Charlotte, NC,10000+ employees,53000,99000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"DATA Inc.
+4.3",Charlotte, NC,501 to 1000 employees,53000,99000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Infovisa, Inc.
+2.3",Charlotte, NC,1 to 50 employees,53000,99000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,,Mooresville, NC,-1,53000,99000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Open Systems Technologies (NYC)
+3.2",Charlotte, NC,51 to 200 employees,53000,99000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,SGA Inc.,Charlotte, NC,1 to 50 employees,53000,99000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"American Tire Distributors
+2.8",Huntersville, NC,1001 to 5000 employees,53000,99000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,Trovetechs Inc,Charlotte, NC,-1,53000,99000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Charlotte, NC,51 to 200 employees,53000,99000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,"Driven Brands
+1.8",Charlotte, NC,1001 to 5000 employees,53000,99000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Tachyon Technologies LLC
+4.4",Charlotte, NC,201 to 500 employees,53000,99000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Tax Management Assoc,Charlotte, NC,-1,53000,99000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Data Bridge Consultants,Charlotte, NC,-1,53000,99000,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Data Analyst,"PruTech Solutions, Inc.
+3.8",Charlotte, NC,201 to 500 employees,53000,99000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"DATA Inc.
+4.3",Charlotte, NC,501 to 1000 employees,53000,99000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,dataBridge,Charlotte, NC,1 to 50 employees,40000,74000,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Data Analyst,"Accenture Federal Services
+3.6",Charlotte, NC,1001 to 5000 employees,40000,74000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Lowe's
+3.3",Mooresville, NC,10000+ employees,40000,74000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Vionic Group
+3.6",San Rafael, CA,51 to 200 employees,57000,104000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Life360
+3.9",San Francisco, CA,51 to 200 employees,57000,104000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"NCSOFT
+3.0",San Mateo, CA,1001 to 5000 employees,57000,104000,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Autodesk
+4.0",San Francisco, CA,5001 to 10000 employees,57000,104000,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"LaunchDarkly
+5.0",Oakland, CA,51 to 200 employees,57000,104000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Edmodo
+3.8",San Mateo, CA,51 to 200 employees,57000,104000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1
+Data Analyst,"Doximity
+4.6",San Francisco, CA,201 to 500 employees,57000,104000,1,0,0,1,1,0,0,0,0,1,1,1,0,0,0,0
+Senior Data Analyst,"Freedom Financial Network
+3.5",San Mateo, CA,1001 to 5000 employees,57000,104000,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"AppleOne
+3.3",San Francisco, CA,1001 to 5000 employees,57000,104000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"SigmaWay
+4.1",San Francisco, CA,1 to 50 employees,57000,104000,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Data Analyst,"Giving Assistant
+4.8",San Francisco, CA,1 to 50 employees,57000,104000,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"nWay
+3.7",San Francisco, CA,1 to 50 employees,57000,104000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Perficient
+3.6",San Francisco, CA,1001 to 5000 employees,57000,104000,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Data Analyst,"Mindstrong
+3.6",San Francisco, CA,51 to 200 employees,57000,104000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"LiveCareer
+3.9",San Francisco, CA,501 to 1000 employees,57000,104000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Mondo
+3.8",San Francisco, CA,51 to 200 employees,57000,104000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Spin
+4.0",San Francisco, CA,501 to 1000 employees,57000,104000,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Elevate Labs
+5.0",San Francisco, CA,1 to 50 employees,57000,104000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Deliverr Inc
+4.9",San Francisco, CA,51 to 200 employees,57000,104000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Angaza
+4.6",San Francisco, CA,51 to 200 employees,57000,104000,1,0,0,0,1,0,0,0,0,1,1,0,0,1,1,1
+Data Analyst,"Mondo
+3.8",San Francisco, CA,51 to 200 employees,57000,104000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Snowflake Computing
+4.0",San Mateo, CA,1001 to 5000 employees,57000,104000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1
+Data Analyst,"CBRE
+3.7",San Francisco, CA,10000+ employees,57000,104000,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,1
+Data Analyst,"Duetto
+4.5",San Francisco, CA,51 to 200 employees,57000,104000,1,0,1,0,1,1,0,0,1,0,1,1,1,0,0,0
+Data Analyst,"Rodan and Fields, LLC
+2.3",San Francisco, CA,501 to 1000 employees,57000,104000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,SGA Inc.,San Francisco, CA,1 to 50 employees,99000,178000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Veem
+4.1",San Francisco, CA,51 to 200 employees,99000,178000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Coinbase
+4.0",San Francisco, CA,501 to 1000 employees,99000,178000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Trifacta
+3.6",San Francisco, CA,51 to 200 employees,99000,178000,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+Data Scientist,"Wilbur Labs
+5.0",San Francisco, CA,1 to 50 employees,99000,178000,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Hinge Health
+4.4",San Francisco, CA,201 to 500 employees,99000,178000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"User Testing
+3.3",San Francisco, CA,501 to 1000 employees,99000,178000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,Pair-Tek,San Francisco, CA,-1,99000,178000,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1
+Data Analyst,"PlushCare
+3.5",San Francisco, CA,1 to 50 employees,99000,178000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"UCSF Medical Center
+4.1",San Francisco, CA,10000+ employees,99000,178000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Motiv Power Systems
+4.6",San Francisco, CA,51 to 200 employees,99000,178000,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Upstart
+4.2",San Mateo, CA,201 to 500 employees,99000,178000,1,0,0,0,1,1,0,0,0,1,0,0,1,0,1,1
+Data Analyst,"Applicantz, Inc.",San Francisco, CA,51 to 200 employees,99000,178000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"BOLD
+3.7",San Francisco, CA,201 to 500 employees,99000,178000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,Parsoft LLC,San Francisco, CA,Unknown,99000,178000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Flatiron Health
+4.0",San Francisco, CA,501 to 1000 employees,99000,178000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"thredUP
+3.9",Oakland, CA,1001 to 5000 employees,99000,178000,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Artech LLC
+3.9",San Francisco, CA,5001 to 10000 employees,99000,178000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"ICONMA
+3.6",San Francisco, CA,1001 to 5000 employees,99000,178000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"The Voleon Group
+4.6",Berkeley, CA,51 to 200 employees,99000,178000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Senior Data Analyst,"Redfin
+3.4",San Francisco, CA,1001 to 5000 employees,99000,178000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Albany Charter School Network,Oakland, CA,-1,99000,178000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Senior Data Analyst,"Twitter
+4.0",San Francisco, CA,1001 to 5000 employees,99000,178000,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,1
+Data Analyst,"UC San Francisco
+4.1",San Francisco, CA,10000+ employees,99000,178000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Impaq International, Llc
+3.4",Oakland, CA,201 to 500 employees,93000,159000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Turn/River Capital
+5.0",San Francisco, CA,1 to 50 employees,93000,159000,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0
+Data Analyst,"Diverse Lynx
+3.9",San Francisco, CA,501 to 1000 employees,93000,159000,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,"RGP
+4.1",San Francisco, CA,1001 to 5000 employees,93000,159000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Vinsari LLC
+2.5",San Francisco, CA,51 to 200 employees,93000,159000,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Lyft
+3.7",San Francisco, CA,5001 to 10000 employees,93000,159000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"First Republic Bank
+3.7",San Francisco, CA,1001 to 5000 employees,93000,159000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Software Guidance & Assistance
+3.7",San Francisco, CA,51 to 200 employees,93000,159000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Scale AI
+3.2",San Francisco, CA,51 to 200 employees,93000,159000,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Data Analyst,"Omada Health
+4.1",San Francisco, CA,201 to 500 employees,93000,159000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"QuinStreet
+3.2",San Mateo, CA,501 to 1000 employees,93000,159000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Softova Inc
+5.0",San Mateo, CA,1 to 50 employees,93000,159000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"LeadStack
+4.1",Foster City, CA,51 to 200 employees,93000,159000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Chime
+4.8",San Francisco, CA,201 to 500 employees,93000,159000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Marin City Health and Wellness Center
+4.5",Marin City, CA,1 to 50 employees,93000,159000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"TaskRabbit
+4.1",San Francisco, CA,201 to 500 employees,93000,159000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Francisco, CA,51 to 200 employees,93000,159000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Diverse Lynx
+3.9",San Francisco, CA,501 to 1000 employees,93000,159000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Twitter
+4.0",San Francisco, CA,1001 to 5000 employees,93000,159000,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Ascent
+4.6",Daly City, CA,1001 to 5000 employees,93000,159000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Thermo Fisher Scientific
+3.4",South San Francisco, CA,10000+ employees,93000,159000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Net2Source
+3.2",San Francisco, CA,1001 to 5000 employees,93000,159000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Vida Health
+3.3",San Francisco, CA,51 to 200 employees,82000,116000,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0
+Data Analyst,"SACC
+4.0",San Mateo, CA,Unknown,82000,116000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Applicantz,San Francisco, CA,51 to 200 employees,82000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,"Netpace, Inc
+3.9",Foster City, CA,51 to 200 employees,82000,116000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Qualys
+3.0",Foster City, CA,501 to 1000 employees,82000,116000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"Scale AI, Inc.",San Francisco, CA,-1,82000,116000,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Data Analyst,"United IT Solutions
+3.8",San Francisco, CA,1 to 50 employees,82000,116000,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,cyitechsearch,San Bruno, CA,-1,82000,116000,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0
+Data Analyst,IT Avalon,Oakland, CA,51 to 200 employees,82000,116000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Snowflake Computing
+4.0",San Mateo, CA,1001 to 5000 employees,82000,116000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+Senior Data Analyst,"Twitch
+3.6",San Francisco, CA,1001 to 5000 employees,82000,116000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Infotech Sourcing
+3.2",San Francisco, CA,51 to 200 employees,82000,116000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"ApTask
+3.9",San Francisco, CA,201 to 500 employees,82000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Square
+4.0",San Francisco, CA,1001 to 5000 employees,82000,116000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Hinge Health
+4.4",San Francisco, CA,201 to 500 employees,82000,116000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Koger LLC,San Mateo, CA,1 to 50 employees,82000,116000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,TransReach,Oakland, CA,Unknown,82000,116000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Rose International
+4.5",San Francisco, CA,1001 to 5000 employees,82000,116000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Take-Two
+3.7",Novato, CA,1001 to 5000 employees,82000,116000,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1
+Data Analyst,V3 Talent Partners Inc.,San Mateo, CA,Unknown,82000,116000,1,0,0,0,1,1,0,0,0,1,0,0,1,0,1,1
+Senior Data Analyst,"Arkhya Tech
+3.7",San Francisco, CA,1 to 50 employees,65000,120000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Wish.com,San Francisco, CA,1 to 50 employees,65000,120000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Stem Inc
+3.2",Millbrae, CA,51 to 200 employees,65000,120000,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"Redolent, Inc
+3.7",San Mateo, CA,1 to 50 employees,65000,120000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"VLink Inc.
+3.8",San Francisco, CA,201 to 500 employees,65000,120000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Lorven Technologies Inc
+4.0",San Francisco, CA,1 to 50 employees,65000,120000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Francisco, CA,51 to 200 employees,65000,120000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Two95 International Inc.
+4.0",San Mateo, CA,1 to 50 employees,65000,120000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Enclipse
+2.5",Oakland, CA,51 to 200 employees,65000,120000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"PRIMUS Global Services, Inc
+3.7",San Francisco, CA,501 to 1000 employees,65000,120000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Akraya Inc.
+4.6",San Francisco, CA,51 to 200 employees,65000,120000,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Vida
+3.6",San Francisco, CA,Unknown,65000,120000,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0
+Senior Data Analyst,"Redfin
+3.4",San Francisco, CA,1001 to 5000 employees,65000,120000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Flexport
+3.5",San Francisco, CA,1001 to 5000 employees,65000,120000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Square
+4.0",San Francisco, CA,1001 to 5000 employees,65000,120000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Kforce
+4.1",San Ramon, CA,10000+ employees,65000,120000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Bio-Rad
+3.3",Hercules, CA,5001 to 10000 employees,65000,120000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Senior Data Analyst,"OKCoin
+4.5",San Francisco, CA,501 to 1000 employees,65000,120000,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0
+Senior Data Analyst,Kinship,San Francisco, CA,1 to 50 employees,65000,120000,1,0,0,1,1,1,0,1,1,0,1,0,1,1,0,0
+Senior Data Analyst,"Diverse Lynx
+3.9",San Francisco, CA,501 to 1000 employees,65000,120000,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Data Analyst,SF IHSS Public Authority,San Francisco, CA,-1,65000,120000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Apex Systems
+3.8",San Francisco, CA,1001 to 5000 employees,65000,120000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Hazelcast
+4.0",San Mateo, CA,51 to 200 employees,65000,120000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"LeadStack, Inc.
+4.1",Foster City, CA,51 to 200 employees,65000,120000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,Parker Institute for Cancer Immunotherapy,San Francisco, CA,51 to 200 employees,65000,120000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"addastaff
+5.0",San Francisco, CA,1 to 50 employees,46000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Analyst,"HireTalent
+4.5",San Francisco, CA,201 to 500 employees,46000,86000,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Chime
+4.8",San Francisco, CA,201 to 500 employees,46000,86000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,Chime Bank,San Francisco, CA,-1,46000,86000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"APN Software Services Inc.
+4.1",Oakland, CA,51 to 200 employees,46000,86000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"The Pill Club
+2.7",San Mateo, CA,201 to 500 employees,46000,86000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,One Medical,San Francisco, CA,201 to 500 employees,46000,86000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"TalentBurst, Inc.
+3.9",San Francisco, CA,501 to 1000 employees,46000,86000,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Qualys
+3.0",Foster City, CA,501 to 1000 employees,46000,86000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"Diverse Lynx
+3.9",San Francisco, CA,501 to 1000 employees,46000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Diverse Lynx
+3.9",San Francisco, CA,501 to 1000 employees,46000,86000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"QuinStreet
+3.2",San Mateo, CA,501 to 1000 employees,46000,86000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Alliance IT
+4.4",San Ramon, CA,51 to 200 employees,46000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"LiveCareer
+3.9",San Francisco, CA,501 to 1000 employees,46000,86000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Senior Data Analyst,"Square Trade
+3.5",San Francisco, CA,201 to 500 employees,46000,86000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"BOLD
+3.6",San Francisco, CA,201 to 500 employees,46000,86000,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",San Francisco, CA,51 to 200 employees,46000,86000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Next Level Business Services, Inc.
+4.4",San Francisco, CA,5001 to 10000 employees,46000,86000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"The Armada Group
+4.4",San Francisco, CA,51 to 200 employees,46000,86000,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Senior Data Analyst,"GoAhead Solutions
+4.9",San Francisco, CA,1 to 50 employees,46000,86000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"addastaff
+5.0",San Francisco, CA,1 to 50 employees,46000,86000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Abacus Service Corporation
+4.3",Oakland, CA,501 to 1000 employees,47000,74000,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+Senior Data Analyst,"Chime
+4.8",San Francisco, CA,201 to 500 employees,47000,74000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Parker Institute for Cancer Immunotherapy,San Francisco, CA,51 to 200 employees,47000,74000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Incedo Inc
+3.4",South San Francisco, CA,1001 to 5000 employees,47000,74000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"I.T. Solutions, Inc.
+3.1",Foster City, CA,201 to 500 employees,47000,74000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Senior Data Analyst,"Ascent
+4.6",Alameda, CA,1001 to 5000 employees,47000,74000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"Impaq International, Llc
+3.4",Oakland, CA,201 to 500 employees,47000,74000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Engineer,"Wells Fargo
+3.6",San Francisco, CA,10000+ employees,47000,74000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Senior Data Analyst,"Epikso
+3.8",South San Francisco, CA,51 to 200 employees,47000,74000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"The Ascent Services Group
+4.6",San Ramon, CA,1001 to 5000 employees,47000,74000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"The Accuro Group
+3.0",San Francisco, CA,201 to 500 employees,47000,74000,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Senior Data Analyst,Chime Bank,San Francisco, CA,-1,47000,74000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"APN Software Services Inc.
+4.1",Redwood City, CA,51 to 200 employees,47000,74000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Concept Software & Services Inc
+5.0",San Francisco, CA,1 to 50 employees,47000,74000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Allied Solutions
+3.2",Carmel, IN,1001 to 5000 employees,34000,61000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+Data Analyst,"Navient
+3.3",Indianapolis, IN,5001 to 10000 employees,34000,61000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Briljent
+3.5",Indianapolis, IN,51 to 200 employees,34000,61000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Upper Hand
+4.2",Indianapolis, IN,1 to 50 employees,34000,61000,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Vespa Group LLC
+2.8",Indianapolis, IN,1 to 50 employees,34000,61000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Lilt
+3.8",Indianapolis, IN,51 to 200 employees,34000,61000,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"BCforward
+2.8",Indianapolis, IN,1001 to 5000 employees,34000,61000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Indianapolis, IN,51 to 200 employees,34000,61000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Alpha Rae Personnel, Inc.
+3.6",Indianapolis, IN,1001 to 5000 employees,34000,61000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"The Fountain Group
+3.6",Indianapolis, IN,1001 to 5000 employees,34000,61000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Gallega Software Solutions Inc
+4.2",Indianapolis, IN,1 to 50 employees,34000,61000,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0
+Data Analyst,"Swoon
+4.6",Indianapolis, IN,201 to 500 employees,34000,61000,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Indianapolis, IN,51 to 200 employees,34000,61000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Keywords Studios
+3.1",Indianapolis, IN,5001 to 10000 employees,34000,61000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Kuehne + Nagel
+3.5",Whitestown, IN,10000+ employees,34000,61000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Senior Data Analyst,"CYNET SYSTEMS
+4.0",Indianapolis, IN,501 to 1000 employees,34000,61000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Health & Hospital Corporation
+3.4",Indianapolis, IN,1001 to 5000 employees,34000,61000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Heartland Payment Systems
+2.9",Jeffersonville, IN,1001 to 5000 employees,34000,61000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Indianapolis, IN,51 to 200 employees,34000,61000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,"Franciscan Health
+3.5",Beech Grove, IN,10000+ employees,34000,61000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Vespa Group LLC
+2.8",Indianapolis, IN,1 to 50 employees,34000,61000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Data Analyst,"Little Raymond's Print Shop
+4.0",Lawrence, IN,51 to 200 employees,34000,61000,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"CNO Financial Group
+2.7",Carmel, IN,1001 to 5000 employees,34000,61000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Lionbridge
+3.3",Redmond, WA,5001 to 10000 employees,35000,67000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Remitly
+4.3",Seattle, WA,1001 to 5000 employees,35000,67000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Homesite Group
+3.3",Seattle, WA,1001 to 5000 employees,35000,67000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1
+Data Analyst,"Microsoft Corporation
+4.3",Redmond, WA,10000+ employees,35000,67000,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Akraya Inc.
+4.6",Seattle, WA,51 to 200 employees,35000,67000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Washington Federal
+3.6",Seattle, WA,1001 to 5000 employees,35000,67000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"SureCritic
+3.0",Seattle, WA,1 to 50 employees,35000,67000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Costco Wholesale Corporation
+4.0",Issaquah, WA,10000+ employees,35000,67000,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+Data Analyst,"TechDigital Corporation
+3.5",Seattle, WA,51 to 200 employees,35000,67000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Microsoft Corporation
+4.3",Redmond, WA,10000+ employees,35000,67000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Rainier Valley Leadership Academy,Seattle, WA,-1,35000,67000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"LendingTree, LLC.
+3.7",Seattle, WA,1001 to 5000 employees,35000,67000,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1,1
+Data Analyst,"Blue Origin
+2.9",Kent, WA,1001 to 5000 employees,35000,67000,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Seattle, WA,51 to 200 employees,35000,67000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Resource Logistics, Inc.
+4.7",Redmond, WA,51 to 200 employees,35000,67000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Seattle, WA,51 to 200 employees,35000,67000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"iSpot.tv, Inc.
+4.2",Bellevue, WA,51 to 200 employees,35000,67000,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Subex
+3.2",Bellevue, WA,501 to 1000 employees,35000,67000,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Synaptein Solutions Inc.
+3.8",Seattle, WA,1 to 50 employees,35000,67000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Wipro Ltd.
+2.9",Redmond, WA,10000+ employees,35000,67000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Intelliswift Software Inc
+3.0",Seattle, WA,201 to 500 employees,35000,67000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Kelly IT
+3.4",Renton, WA,501 to 1000 employees,35000,67000,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1
+Senior Data Analyst,"LendingTree, LLC.
+3.7",Seattle, WA,1001 to 5000 employees,35000,67000,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0
+Data Analyst,"Microsoft Corporation
+4.3",Redmond, WA,10000+ employees,55000,101000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Data Analyst,"eTeam Inc.
+3.7",Kirkland, WA,51 to 200 employees,55000,101000,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Nintendo
+4.0",Redmond, WA,5001 to 10000 employees,55000,101000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,Amazon Corporate LLC,Seattle, WA,-1,55000,101000,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+Data Analyst,"eTeam Inc.
+3.7",Redmond, WA,51 to 200 employees,55000,101000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Zen3 Infosolutions America Inc
+3.6",Redmond, WA,1001 to 5000 employees,55000,101000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Amazon Corporate LLC,Seattle, WA,-1,55000,101000,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+Senior Data Analyst,"Microsoft Corporation
+4.3",Redmond, WA,10000+ employees,55000,101000,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0
+Senior Data Analyst,"Akraya Inc.
+4.6",Seattle, WA,51 to 200 employees,55000,101000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Microsoft Corporation
+4.3",Redmond, WA,10000+ employees,55000,101000,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Seattle, WA,51 to 200 employees,55000,101000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,"Serverlogic
+3.5",Seattle, WA,1 to 50 employees,55000,101000,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0
+Data Analyst,Jon French / TechTalent Services,Seattle, WA,-1,55000,101000,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+Data Analyst,Ostendo Solutions,Seattle, WA,-1,55000,101000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"W3Global
+4.5",Seattle, WA,201 to 500 employees,55000,101000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,Amazon Corporate LLC,Seattle, WA,-1,55000,101000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Xoriant Corporation
+3.6",Kirkland, WA,1001 to 5000 employees,55000,101000,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Johns Hopkins University
+4.1",Seattle, WA,10000+ employees,55000,101000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,Amazon Corporate LLC,Seattle, WA,-1,55000,101000,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,Amazon Corporate LLC,Seattle, WA,-1,55000,101000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"University of Georgia
+4.2",Athens, GA,10000+ employees,32000,56000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Athens, GA,51 to 200 employees,32000,56000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Athens, GA,51 to 200 employees,32000,56000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Athens, GA,51 to 200 employees,32000,56000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Advent Global Solutions, Inc.
+3.4",Topeka, KS,501 to 1000 employees,36000,67000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Advent Global Solutions - Special Instance,Topeka, KS,-1,36000,67000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"CoreSite
+3.8",Denver, CO,201 to 500 employees,57000,67000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Data Analyst,"Autodesk
+4.0",Denver, CO,5001 to 10000 employees,57000,67000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Dire Wolf Digital
+3.6",Denver, CO,51 to 200 employees,57000,67000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Twilio
+4.0",Denver, CO,1001 to 5000 employees,57000,67000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"BridgeView IT
+3.8",Denver, CO,1 to 50 employees,57000,67000,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Integrated Resources
+3.1",Denver, CO,201 to 500 employees,57000,67000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Paramount Software Solutions, Inc
+4.3",Denver, CO,51 to 200 employees,57000,67000,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Data Analyst,"Wipro Ltd.
+2.9",Denver, CO,10000+ employees,57000,67000,1,1,0,0,1,1,1,0,0,0,1,0,1,0,0,0
+Data Analyst,"GDKN
+3.2",Centennial, CO,201 to 500 employees,57000,67000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Mondo
+3.8",Boulder, CO,51 to 200 employees,57000,67000,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Data Analyst,"Strive Health
+5.0",Denver, CO,1 to 50 employees,57000,67000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Gloo
+3.9",Boulder, CO,51 to 200 employees,57000,67000,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+Data Analyst,"Advent Global Solutions
+3.4",Denver, CO,501 to 1000 employees,57000,67000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Hotel Engine
+4.0",Denver, CO,51 to 200 employees,57000,67000,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+Data Analyst,"PROLIM Global Corporation
+3.3",Denver, CO,201 to 500 employees,57000,67000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Denver, CO,51 to 200 employees,57000,67000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Boeing
+3.7",Englewood, CO,10000+ employees,57000,67000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Infotree Service Inc
+3.7",Denver, CO,51 to 200 employees,57000,67000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"CitiusTech
+3.6",Denver, CO,1001 to 5000 employees,57000,67000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Apex Systems
+3.8",Greenwood Village, Arapahoe,1001 to 5000 employees,57000,67000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Denver, CO,51 to 200 employees,57000,67000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"MIRACORP
+4.8",Lakewood, CO,51 to 200 employees,57000,67000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Edison Software, Inc.
+5.0",Denver, CO,51 to 200 employees,57000,67000,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"The Motley Fool
+4.6",Lakewood, CO,201 to 500 employees,57000,67000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"TA Digital
+3.7",Centennial, CO,501 to 1000 employees,49000,91000,0,0,0,0,1,0,0,1,1,0,1,1,1,0,0,0
+Data Engineer,"Collabera
+4.1",Greenwood Village, Arapahoe,10000+ employees,49000,91000,0,1,0,1,1,1,0,0,0,0,0,0,1,0,1,0
+Data Analyst,"Quicksilver Scientific, Inc
+3.1",Louisville, CO,51 to 200 employees,49000,91000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Lockheed Martin
+3.8",Englewood, CO,10000+ employees,49000,91000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Broadridge
+3.5",Denver, CO,10000+ employees,49000,91000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,Private,Aurora, CO,-1,49000,91000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Kforce
+4.1",Denver, CO,10000+ employees,49000,91000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Century Communities
+3.5",Greenwood Village, Arapahoe,501 to 1000 employees,49000,91000,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,1
+Senior Data Analyst,"Weston Solutions
+3.6",Lakewood, CO,1001 to 5000 employees,49000,91000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Voca
+4.7",Centennial, CO,201 to 500 employees,49000,91000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"RxRevu
+3.0",Denver, CO,1 to 50 employees,49000,91000,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"TechAspect Solutions, Inc. dba TA Digital",Centennial, CO,-1,49000,91000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Senior Data Analyst,"Y-Axis Inc
+2.6",Denver, CO,1 to 50 employees,49000,91000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,Black Knight Financial Technology Solutions,Denver, CO,-1,49000,91000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"ClientSolv Technologies
+3.3",Broomfield, CO,51 to 200 employees,49000,91000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Goldstone Partners
+5.0",Boulder, CO,1 to 50 employees,49000,91000,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+Data Analyst,"xentity corporation
+5.0",Denver, CO,51 to 200 employees,49000,91000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Data Analyst,"Infotree Service Inc
+3.7",Englewood, CO,51 to 200 employees,49000,91000,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Data Analyst,"Unison Systems Inc.
+4.0",Englewood, CO,1 to 50 employees,49000,91000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Comcast
+3.6",Centennial, CO,10000+ employees,57000,100000,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Senior Data Analyst,"WellDyneRx LLC
+3.5",Englewood, CO,501 to 1000 employees,57000,100000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+Data Analyst,"Source of Future Technology Inc
+4.1",Denver, CO,1 to 50 employees,57000,100000,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Black Knight Financial Services
+2.9",Lakewood, CO,5001 to 10000 employees,57000,100000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Georgia IT Inc.
+5.0",Greenwood Village, Arapahoe,1 to 50 employees,57000,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Denver, CO,51 to 200 employees,57000,100000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Signature Retail Services
+2.6",Aurora, CO,501 to 1000 employees,57000,100000,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Global Healthcare Exchange
+3.7",Louisville, CO,501 to 1000 employees,57000,100000,1,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0
+Data Analyst,"Staffigo Technical Services, LLC
+5.0",Denver, CO,51 to 200 employees,57000,100000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,"TechUSA
+2.7",Englewood, CO,1001 to 5000 employees,57000,100000,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"Apex Systems
+3.8",Greenwood Village, Arapahoe,1001 to 5000 employees,57000,100000,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"CenturyLink
+3.0",Broomfield, CO,10000+ employees,57000,100000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Senior Data Analyst,"GHX
+2.8",Louisville, CO,501 to 1000 employees,57000,100000,1,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0
+Data Analyst,"Avacend, Inc.
+2.5",Denver, CO,51 to 200 employees,57000,100000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"Comcast
+3.6",Englewood, CO,10000+ employees,57000,100000,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Senior Data Analyst,"Telligen
+3.6",Greenwood Village, Arapahoe,501 to 1000 employees,57000,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,"ClientSolv Technologies
+3.3",Greenwood Village, Arapahoe,51 to 200 employees,57000,100000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Amyx, Inc.
+4.0",Aurora, CO,501 to 1000 employees,78000,104000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Amyx, Iinc.",Aurora, CO,-1,78000,104000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"CenturyLink
+3.0",Broomfield, CO,10000+ employees,78000,104000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Data Analyst,"Forfeiture Support Associates
+2.8",Centennial, CO,1001 to 5000 employees,78000,104000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,"APN Software Services Inc.
+4.1",Broomfield, CO,51 to 200 employees,78000,104000,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Senior Data Analyst,"Arrow Electronics
+2.9",Centennial, CO,10000+ employees,78000,104000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,"Contingent Network Services
+3.1",Centennial, CO,201 to 500 employees,78000,104000,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Senior Data Analyst,"SCL Health
+3.4",Broomfield, CO,10000+ employees,78000,104000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
